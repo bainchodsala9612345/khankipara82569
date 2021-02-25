@@ -1,542 +1,347 @@
-                                                                  bangladeshi channel
-
 #EXTM3U
-#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://2.bp.blogspot.com/-X0463VRpcpM/WEaaUATDuNI/AAAAAAAAFhw/UYHQuv64BGUhu6dcIerrb2HT7QbmKuQuwCLcB/s1600/asian-tv.jpg" group-title="Bangladeshi Channel",Asian TV
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/91.m3u8
-
-#EXTINF:-1 tvg-name="AB Tv" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnisf4-WHDpPHsTUb-YNhEkUPC1Kg-JKGFU39mOehQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi Channel",AB Tv
-https://cdn.priyoiptv.com:444/priyoiptv/rangiptv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladeshi Channel",ATN Bangla
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/204.m3u8
-
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangladeshi Channel",ATN News
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/221.m3u8
-
-#EXTINF:-1 tvg-name="Channel 19" tvg-logo="https://channel19.tv/wp-content/uploads/2020/12/Channel-19-Logo-White.png" group-title="Bangladeshi Channel",Channel 19
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/666.m3u8
-
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladeshi Channel",Channel 24
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/103.m3u8
-
-#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="Bangladeshi Channel",Independent TV
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/648.m3u8
-
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladeshi Channel",Jamuna Tv
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/129.m3u8
-
-#EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi Channel",Maasranga
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/130.m3u8
-
-#EXTINF:-1 tvg-name="Mohona Tv" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangladeshi Channel",Mohona Tv
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/769.m3u8
-
-#EXTINF:-1 tvg-name="My Tv" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangladeshi Channel",My Tv
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/647.m3u8
-
-                                        indian bangla channel
-
-#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/722355_ico.png?ts=1613154340" group-title="Indian Bangla Channel",ABP Ananda
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/90.m3u8
-
-#EXTINF:-1 tvg-name="Akash Aath" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/1057133_ico.png?ts=1613154464" group-title="Indian Bangla Channel",Akash Aath
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/851.m3u8
-
-#EXTINF:-1 tvg-name="Calcutta News" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/722367_ico.png?ts=1613154545" group-title="Indian Bangla Channel",Calcutta News
-https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
-
-#EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="Indian Bangla Channel",Colors Bangla
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/106.m3u8
-
-#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla Channel",Sony Aath
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/191.m3u8
-
-#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla Channel",Star Jalsha HD
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/193.m3u8
-
-#EXTINF:-1 tvg-name="Star Jalsha SD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla Channel",Star Jalsha SD
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/863.m3u8
-
-#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7364080_ico.png?ts=1613156952" group-title="Indian Bangla Channel",Sun Bangla
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/800.m3u8
-
-
-                                                    hindi channels
-
-#EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Channel",Colors HD
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/105.m3u8
-
-#EXTINF:-1 tvg-name="Colors Ristey" tvg-logo="https://pbs.twimg.com/profile_images/1107539232598298624/aDupPKVw.png" group-title="Hindi Channel",Colors Ristey
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/207.m3u8
-
-#EXTINF:-1 tvg-name="Colors Cineplex" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/05/COLORS-CINEPLEX-2019.png" group-title="Hindi Channel",Colors Cineplex
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/206.m3u8
-
-#EXTINF:-1 tvg-name="Colors Infinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Hindi Channel",Colors Infinity
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/658.m3u8
-
-#EXTINF:-1 tvg-name="Bflix Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi Channel",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-name="Manoranjan Movies" tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Hindi Channel",Manoranjan Movies
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/784.m3u8
-
-#EXTINF:-1 tvg-name="Mtv Beats" tvg-logo="https://img.pngio.com/mtv-beats-hd-kccl-tv-hd-beats-png-308_161.png" group-title="Hindi Channel",Mtv Beats
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/656.m3u8
-
-#EXTINF:-1 tvg-name="Mtv Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/1200px-MTV_HITS_logo.svg.png" group-title="Hindi Channel",Mtv Hits
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/162.m3u8
-
-#EXTINF:-1 tvg-name="Mtv Live" tvg-logo="https://iconape.com/wp-content/files/lv/282263/svg/mtv-live-seeklogo.com.svg" group-title="Hindi Channel",Mtv Live
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/733.m3u8
-
-#EXTINF:-1 tvg-name="Mtv India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/800px-MTV_Logo_2010.svg.png" group-title="Hindi Channel",Mtv India
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/789.m3u8
-
-#EXTINF:-1 tvg-name="Shemaroo Bollywood Premier" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/824741_ico.png?ts=1613202319" group-title="Hindi Channel",Shemaroo Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
-
-#EXTINF:-1 tvg-name="Shemaroo Classic" tvg-logo="https://techstory.in/wp-content/uploads/2019/02/ShemarooMe.jpg" group-title="Hindi Channel",Shemaroo Classic
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-
-#EXTINF:-1 tvg-name="PTV World" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/824742_ico.png?ts=1613202550" group-title="Hindi Channel",PTV World
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/816.m3u8
-
-#EXTINF:-1 tvg-name="Sony Tv SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi Channel",Sony Tv SD
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/184.m3u8
-
-#EXTINF:-1 tvg-name="Sony Tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi Channel",Sony Tv HD
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/867.m3u8
-
-#EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://toppng.com/uploads/preview/sony-sab-logo-sab-tv-11563255194ov0us7me4e.png" group-title="Hindi Channel",Sony Sab
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/657.m3u8
-
-#EXTINF:-1 tvg-name="Sony Pal" tvg-logo="https://pbs.twimg.com/profile_images/497440939388858368/73qSmbwD_400x400.png" group-title="Hindi Channel",Sony Pal
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/781.m3u8
-
-#EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/496px-Sony_MAX_logo.svg.png" group-title="Hindi Channel",Sony Max
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/868.m3u8
-
-#EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/496px-Sony_MAX_logo.svg.png" group-title="Hindi Channel",Sony Max HD
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/147.m3u8
-
-#EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi Channel",Sony Max 2
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/186.m3u8
-
-#EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/general_content/21_0_16_1_1521807420.jpg" group-title="Hindi Channel",Sony Yay
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/734.m3u8
-
-#EXTINF:-1 tvg-name="Star Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg" group-title="Hindi Channel",Star Bharat
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/774.m3u8
-
-#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Channel",Star Gold HD
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/161.m3u8
-
-#EXTINF:-1 tvg-name="Star Gold 2" tvg-logo="https://www.satiitv.com/wp-content/uploads/2020/02/star-gold-2.jpg" group-title="Hindi Channel",Star Gold 2
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/783.m3u8
-
-#EXTINF:-1 tvg-name="Star Gold Select" tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/star-gold-select.gif" group-title="Hindi Channel",Star Gold Select
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/823.m3u8
-
-#EXTINF:-1 tvg-name="Star Plus" tvg-logo="https://www.pngitem.com/pimgs/m/3-32979_star-plus-star-plus-logo-new-hd-png.png" group-title="Hindi Channel",Star Plus
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/152.m3u8
-
-                                                  sports channel
-
-#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://www.seekpng.com/png/detail/372-3722669_star-sports-1-live-streaming-high-quality-star.png" group-title="Sports Channel",Star sports 1
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/661.m3u8
-
-#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://www.pngjoy.com/pngm/952/11033345_india-cricket-logo-star-sports-2-logo-png.png" group-title="Sports Channel",Star Sports 2
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/200.m3u8
-
-#EXTINF:-1 tvg-name="Star Sports Select 1" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports Channel",Star Sports Select 1
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/212.m3u8
-
-#EXTINF:-1 tvg-name="Star Sports Select 2" tvg-logo="https://kccl.tv/sites/default/files/star%20sports%20select%202%20hd.png" group-title="Sports Channel",Star Sports Select 2
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/198.m3u8
-
-#EXTINF:-1 tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports Channel",T Sports
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/787.m3u8
-
-#EXTINF:-1 tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports Channel",Sony Six
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/185.m3u8
-
-#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Sports Channel",Sony Ten 1
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/150.m3u8
-
-#EXTINF:-1 tvg-name="Sony Ten 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Sports Channel",Sony Ten 2
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/196.m3u8
-
-#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://skytv.com.np/admin/uploads/channel_image/98.jpg" group-title="Sports Channel",Sony Ten 3
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/197.m3u8
-
-#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports Channel",PTV Sports
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/660.m3u8
-
-#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://archive.org/services/img/SkySportsCricket_201708" group-title="Sports Channel",Sky Sports Cricket
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/753.m3u8
-
-#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6752.1507600241.png" group-title="Sports Channel",Sky Sports Football
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/194.m3u8
-
-#EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png" group-title="Sports Channel",Ten Sports
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/786.m3u8
-
-                                                    international news channel
-
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="International News Channel",Al Jazeera
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/87.m3u8
-
-#EXTINF:-1 tvg-name="NDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/250px-NDTV_247.svg.png" group-title="International News Channel",NDTV
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/171.m3u8
-
-#EXTINF:-1 tvg-name="Skynews" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="International News Channel",Skynews
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/210.m3u8
-
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" group-title="International News Channel",ABC News
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/218.m3u8
-
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="International News Channel",BBC News
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/95.m3u8
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-1-logo-png-transparent.png" group-title="International News Channel",CNN
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/173.m3u8
-
-#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://www.pngitem.com/pimgs/m/198-1985267_bbc-two-square-less-logo-bbc-2-logo.png" group-title="International News Channel",BBC Two
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/97.m3u8
-
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/09/euronews-vector-logo.png" group-title="International News Channel",Euronews
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/681.m3u8
-
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" group-title="International News Channel",CNBC
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/725.m3u8
-
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="International News Channel",CGTN
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/726.m3u8
-
-#EXTINF:-1 tvg-name="Fox Sports News" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png" group-title="International News Channel",Fox Sports News
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/762.m3u8
-
-#EXTINF:-1 tvg-name="NHKWorld Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="International News Channel",NHKWorld Japan
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/790.m3u8
-
-#EXTINF:-1 tvg-name="Voice of America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/VOA_logo1.png" group-title="International News Channel",Voice of America
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/791.m3u8
-
-                                                     Religious channel
-
-#EXTINF:-1 tvg-name="Al Aqsa TV" tvg-logo="https://www.terrorism-info.org.il/data/articles/Art_18131/hamas_099_3.jpg" group-title="Religious Channel",Al Aqsa TV
-https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Al Istiqama TV" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png" group-title="Religious Channel",Al Istiqama TV
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-
-#EXTINF:-1 tvg-name="Al Wesal TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-wesal-tv.jpg" group-title="Religious Channel",Al Wesal TV
-http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Bahrain Quran TV" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2002112204140-L.jpg" group-title="Religious Channel",Bahrain Quran TV
-http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=1548640033
-
-#EXTINF:-1 tvg-name="Bible Explorations" tvg-logo="https://i.imgur.com/j7a8hcd.jpg" group-title="Religious Channel",Bible Explorations
-http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hadi TV 1" tvg-logo="https://i.vimeocdn.com/portrait/5136072_640x640" group-title="Religious Channel",Hadi TV 1
-https://mn-nl.mncdn.com/haditv_live1/smil:haditv_live1.smil/chunklist_b896000.m3u8
-
-#EXTINF:-1 tvg-name="IIPC TV" tvg-logo="https://www.iipccanada.com/wp-content/uploads/2016/05/iipc_origin.jpg" group-title="Religious Channel",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
-
-#EXTINF:-1 tvg-name="Iqraa" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious Channel",Iqraa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Iqraa" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious Channel",Iqraa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-
-#EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="Religious Channel",Makkah TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="MTA 1 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="Religious Channel",MTA 1 English
-https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-
-#EXTINF:-1 tvg-name="MTA 1 Urdu" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Religious Channel",MTA 1 Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
-
-                                                                         Informative Channel
-
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel",Discovery
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel",Discovery
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/108.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Discovery_Showcase_Logo.png" group-title="Informative Channel",Discovery Showcase
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/110.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png" group-title="Informative Channel",Discovery Asia
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/836.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Informative Channel",Discovery Science
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/109.m3u8
-
-#EXTINF:-1 tvg-name="History 18" tvg-logo="http://searchvectorlogo.com/wp-content/uploads/2020/04/history-tv18-logo-vector.png" group-title="Informative Channel",History 18
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/128.m3u8
-
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="Informative Channel",Animal Planet
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/89.m3u8
-
-#EXTINF:-1 tvg-name="Crime Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Informative Channel",Crime Investigation
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/114.m3u8
-
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://www.pngitem.com/pimgs/m/398-3989913_id-investigation-discovery-logo-hd-png-download.png" group-title="Informative Channel",Investigation Discovery
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/115.m3u8
-
-#EXTINF:-1 tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Informative Channel",H2
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/127.m3u8
-
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Informative Channel",National Geographic
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/138.m3u8
-
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Informative Channel",National Geographic Hindi
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/864.m3u8
-
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Informative Channel",Nat Geo Wild
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/139.m3u8
-
- music channel
-
-#EXTINF:-1 tvg-name="Gaan Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288" group-title="Music Channel",Gaan Bangla
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/121.m3u8
-
-#EXTINF:-1 tvg-name="9x Jalwa" tvg-logo="" group-title="Music Channel",9x Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-name="9X Tashan" tvg-logo="" group-title="Music Channel",9X Tashan
-https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
-
-#EXTINF:-1 tvg-name="9xm" tvg-logo="" group-title="Music Channel",9xm
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-
-#EXTINF:-1 tvg-name="Dil SE" tvg-logo="" group-title="Music Channel",Dil SE
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Express" tvg-logo="" group-title="Music Channel",Express
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-
-#EXTINF:-1 tvg-name="Music India" tvg-logo="" group-title="Music Channel",Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-
-#EXTINF:-1 tvg-name="Musik Live" tvg-logo="" group-title="Music Channel",Musik Live
-https://stream.arylive.com/MusikLive/index.m3u8
-
-#EXTINF:-1 tvg-name="One HD Music" tvg-logo="" group-title="Music Channel",One HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-name="Radio Contact" tvg-logo="" group-title="Music Channel",Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-
-#EXTINF:-1 tvg-name="Ru Tv" tvg-logo="" group-title="Music Channel",Ru Tv
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-
-#EXTINF:-1 tvg-name="U tv Lives" tvg-logo="" group-title="Music Channel",U tv Lives
-http://81.196.0.126/utvedge/utvlivehls/index.m3u8
-
-#EXTINF:-1 tvg-name="VH 1" tvg-logo="" group-title="Music Channel",VH 1
-http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-#EXTINF:-1 tvg-name="Zing" tvg-logo="" group-title="Music Channel",Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="GEM Arabia" tvg-logo="https://i.imgur.com/1VlArCc.png" group-title="Music Channel",GEM Arabia
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Wanasah ARB" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music Channel",Wanasah ARB
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
-#EXTINF:-1 tvg-name="7 S Music" tvg-logo="https://pbs.twimg.com/profile_images/857130996499722241/n1sI-sPl.jpg" group-title="Music Channel",7 S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-
-#EXTINF:-1 tvg-name="8XM" tvg-logo="https://n7.nextpng.com/sticker-png/58/527/sticker-png-pakistan-8xm-television-channel-streaming-media-non-stop-miscellaneous-television-text-logo.png" group-title="Music Channel",8XM
-http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
-
-#EXTINF:-1 tvg-name="Brit Asia TV" tvg-logo="https://batv.gloss.agency/site/wp-content/uploads/2017/06/balogo.png" group-title="Music Channel",Brit Asia TV
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
-
-#EXTINF:-1 tvg-name="E24" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/e24-tv-channel-logo-300x300.jpg" group-title="Music Channel",E24
-http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
-
-#EXTINF:-1 tvg-name="Jhanjar HD" tvg-logo="https://www.jhanjartvindia.com/images/Jhanjar_Logo.png" group-title="Music Channel",Jhanjar HD
-http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-
-#EXTINF:-1 tvg-name="Music Box Russia" tvg-logo="https://seeklogo.com/images/M/music-box-russia-logo-6A5FA79FB5-seeklogo.com.png" group-title="Music Channel",Music Box Russia
-http://iptv.kitv.live:1935/live/Shari/MTV-P/89.m3u8
-
-#EXTINF:-1 tvg-name="Music Top" tvg-logo="https://www.dropbox.com/s/0gsamt5l40x1qgo/Music%20Top.png?raw=1" group-title="Music Channel",Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Zee ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/ZeeETCBollywoodLogo.png" group-title="Music Channel",Zee ETC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
-
-#EXTINF:-1 tvg-name="B4U Kadak" tvg-logo="" group-title="Music Channel",B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-#EXTINF:-1 tvg-name="Cine Voice" tvg-logo="" group-title="Music Channel",Cine Voice
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-
-#EXTINF:-1 tvg-name="Desi Channel" tvg-logo="" group-title="Music Channel",Desi Channel
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-
-#EXTINF:-1 tvg-name="Gabruu TV" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Music Channel",Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
-
-#EXTINF:-1 tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music Channel",Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-
-#EXTINF:-1 tvg-name="Mastiii" tvg-logo="" group-title="Music Channel",Mastiii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-
-#EXTINF:-1 tvg-name="Public Music" tvg-logo="" group-title="Music Channel",Public Music
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-
-#EXTINF:-1 tvg-name="9x Tashan" tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="Music Channel",9x Tashan
-https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
-
-#EXTINF:-1 tvg-name="Music India" tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="Music Channel",Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-
-#EXTINF:-1 tvg-name="Pop पटाखा" tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png" group-title="Music Channel",Pop पटाखा
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kadak Hits" tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music Channel",Kadak Hits
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Boogle Bollywood" tvg-logo="https://i.imgur.com/alJj9sb.jpg" group-title="Music Channel",Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music Channel",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1 tvg-name="Ócko" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Music Channel",Ócko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
-
-                                                         kids channel
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids Channel",Cartoon Network
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/148.m3u8
-
-#EXTINF:-1 tvg-name="Kids Channel" tvg-logo="https://yt3.ggpht.com/-Vas4UzOl0KE/AAAAAAAAAAI/AAAAAAAAAAA/_fWZBwq0qnA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Kids Channel",Kids Channel
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/177.m3u8
-
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Kids Channel",Boomerang
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/635.m3u8
-
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Kids Channel",Disney Channel
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/111.m3u8
-
-#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://www.cartoonbrew.com/wp-content/uploads/20100604112357disney_junior.png" group-title="Kids Channel",Disney Junior
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/202.m3u8
-
-#EXTINF:-1 tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" group-title="Kids Channel",Nick
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/201.m3u8
-
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids Channel",Animax
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/716.m3u8
-
-#EXTINF:-1 tvg-name="AniPlus" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt.jpg" group-title="Kids Channel",AniPlus
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/717.m3u8
-
-#EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://www.vhv.rs/dpng/d/461-4612823_sony-yay-logo-png-transparent-png.png" group-title="Kids Channel",Sony Yay
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/734.m3u8
-
-                                               lifestyle channel
-
-#EXTINF:-1 tvg-name="NatGeo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Lifestyle Channel",NatGeo People
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/137.m3u8
-
-#EXTINF:-1 tvg-name="FYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Lifestyle Channel",FYI
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/668.m3u8
-
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="Lifestyle Channel",TLC
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/688.m3u8
-
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Lifestyle Channel",HGTV
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/699.m3u8
-
-#EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="Lifestyle Channel",Travel TV
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/690.m3u8
-
-#EXTINF:-1 tvg-name="Monarch TV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/monarch-airlines-logo-png-transparent.png" group-title="Lifestyle Channel",Monarch TV
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/693.m3u8
-
-#EXTINF:-1 tvg-name="People TV" tvg-logo="https://image.xumo.com/v1/providers/provider/140/300x300.png?type=color_onBlack" group-title="Lifestyle Channel",People TV
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/694.m3u8
-
-#EXTINF:-1 tvg-name="Living Foodz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Living-foodz-logo.jpg" group-title="Lifestyle Channel",Living Foodz
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/695.m3u8
-
-#EXTINF:-1 tvg-name="DABL" tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2019/09/Dabl-Logo01-PinkGreen.png" group-title="Lifestyle Channel",DABL
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/700.m3u8
-
-#EXTINF:-1 tvg-name="Home & Living" tvg-logo="" group-title="Lifestyle Channel",Home & Living
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/701.m3u8
-
-#EXTINF:-1 tvg-name="Xcorps" tvg-logo="https://i2.wp.com/actionsportsmusictv.com/wp-content/uploads/2015/05/XcorpsOPENgfx2.png" group-title="Lifestyle Channel",Xcorps
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/704.m3u8
-
-#EXTINF:-1 tvg-name="TMZ" tvg-logo="https://www.pngkey.com/png/detail/677-6773173_tmz-logo.png" group-title="Lifestyle Channel",TMZ
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/704.m3u8
-
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Lifestyle Channel",DMAX
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/705.m3u8
-
-#EXTINF:-1 tvg-name="FTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PSVQU0pCIFdxvH4iCbldCJkZdk3Z9TG1fQ&usqp=CAU" group-title="Lifestyle Channel",FTV
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/742.m3u8
-
-                                               English Movie Channel
-
-#EXTINF:-1 tvg-name="Fox" tvg-logo="https://www.nicepng.com/png/detail/9-99565_fox-tv-logo-png.png" group-title="English Movie Channel",Fox
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/117.m3u8
-
-#EXTINF:-1 tvg-name="Zee Cafe" tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" group-title="English Movie Channel",Zee Cafe
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/637.m3u8
-
-#EXTINF:-1 tvg-name="Star World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png" group-title="English Movie Channel",Star World
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/153.m3u8
-
-#EXTINF:-1 tvg-name="Colors Infinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="English Movie Channel",Colors Infinity
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/658.m3u8
-
-#EXTINF:-1 tvg-name="Paramount Comedy" tvg-logo="https://www.kindpng.com/picc/m/136-1363813_paramount-comedy-logo-comedy-central-hd-png-download.png" group-title="English Movie Channel",Paramount Comedy
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/164.m3u8
-
-#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="English Movie Channel",Comedy Central
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/209.m3u8
-
-#EXTINF:-1 tvg-name="SyFy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="English Movie Channel",SyFy
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/169.m3u8
-
-#EXTINF:-1 tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png" group-title="English Movie Channel",Warner
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/157.m3u8
-
-#EXTINF:-1 tvg-name="Dubai One" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="English Movie Channel",Dubai One
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/112.m3u8
-
-#EXTINF:-1 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="English Movie Channel",FX
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/211.m3u8
-
-#EXTINF:-1 tvg-name="Fox Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="English Movie Channel",Fox Life
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/118.m3u8
-
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="English Movie Channel",AXN
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/92.m3u8
-
-#EXTINF:-1 tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="English Movie Channel",Blue Ant Entertainment
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/215.m3u8
-
-#EXTINF:-1 tvg-name="Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/4_fun_hits.png" group-title="English Movie Channel",Hits
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/101.m3u8
-
-#EXTINF:-1 tvg-name="Blue Ant Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="English Movie Channel",Blue Ant Extreme
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/216.m3u8
-
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Thrill_logo.jpg/revision/latest?cb=20140607175204" group-title="English Movie Channel",Thrill
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/55437689/100.m3u8
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnisf4-WHDpPHsTUb-YNhEkUPC1Kg-JKGFU39mOehQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi Channel", AB Tv
+http://?ckZFVHpNVlRVVm5UREZEZFdkVmV3ZG5WSVIwS3NaVlRJVjBNdkluZUtWbFdqcFVjdVpEYnMxV1JyRldadk1VYUxWblV3VWpjT05YY3RwbFF0VmtUeHQyWXdaamNPeFdlcHRrUXZzRWRRSkZkdlFqUTBaa1MwaFVaM2hYZDFKbWFEeDJiTGxuTXB0MlY2cEVhNVVuYk5KblI1UkRiMUFIZHg1bWMxaDNicmRUZXBsbFRZeFdaTWRYY25GbWU0OVdiR1pWVDRoak5CSnpVNHhtZVNOMFZ2VmxiclpYTTRaSFU0bDNNVHBFVVB0V1F0bFZjWTEwZHZGa2NCbEdXbzVFT2s1a2IxWm5hUmRGZWtsRWFOWjNVRWhXVXRCMUtyQkZVTkJuZEZ4RWFPTlVkV04yY0pSRWN4aG1ZWmhrVUVkMlZ5Y2tZUEJIYjJwMVVSMVRQ
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-X0463VRpcpM/WEaaUATDuNI/AAAAAAAAFhw/UYHQuv64BGUhu6dcIerrb2HT7QbmKuQuwCLcB/s1600/asian-tv.jpg" group-title="Bangladeshi Channel", Asian TV
+http://?NUp6YlRsV1cyaG5lcHBtVEtGRmNCVkhiMjhFTnZCVk9XRlRSbkJYUlhkVWV5Sm5jQkpHVHZrRFZ2TjNaNGwyTlNsWFlpWjNLT0owYnVabGRKcG5OdFpXUmpOblpPSm5TMU5YVHRWVGFHVmpONFZYU25GRWNERldWdlZYYzVrVFN5dENkeElUWnR0Q1VuMTJkUFptTVloR09DSmtXM1UzWmtSWFM0dEVhcGhWZG9OMlF6RjNVTWxUT0Z0V2N0WjBTbTFrUnBaWFR1aGxSM0lIVG9aMFprbEdhNDFFZW1kVFMxVkhUeGNWVTJJWFZSWm5RUUZsYnY0bWVJQm5leFpUTXdoSFQ1MDJUNVpEUkZabmUyTkdleFZqYXJ0R01GaEhXMU1YV1pkVFNDdFdicXR5U3pjRVdwUkdaU2gzVFFsR2FtQjFjdjhXY01aRmVSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladeshi Channel", ATN Bangla
+http://?Nkp6YlRsV1cyRm5lcHBtVEtGbGJCVkhiMjhFTnNCVk9XRlRSbkJYUlhkVWV5SlhkQkpHVHZrRFZyTjNaNGwyTlNsWFlpWjNLT0pVYXVabGRKcG5OeFpXUmpOblpPMW1TMU5YVEs5RWVrRlVSUUZYYjFGak12RldheGMzVEwxR2N2Z0VkNmwzTjJ3bVFycFhRb3AzTGFWSGN0MUVNNDBXZEtoRmJUNWtRdWgzU2pGMVpyMFdhMnhXTzRrVWJvSmpjVmhuUnpoVmF3NEVNb1ozVk5WbVRYSjFkQlZUWXhKVVZvbGxldnBXTUJWbmEzOUVhVmRWYjFnbVdDUlVVeGwzTUpCRlRwMW1abEYzTkxwMlowZzJRVDkwS29OR1VWQnpUMmwyS0RwM1ExUkdhckpGUm9sWFRuQlZUaGhWY3lwWFl5Z3pVaGQwWm5OelMzMVRQ
+#EXTINF: -1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangladeshi Channel", ATN News
+http://?MUp6YlRsV1cyaG5lcHBtVEtGRmVCVkhiMjhFTjRCVk9XRlRSbmRYUlhkVWV5SlhkQkpHVHZrRFZuTjNaNGwyTlMxV1lpWjNLT0pVZXVabGRKcG5Oc1pXUmpOblpPTm5TMU5YVERGSGVUbEVld0FqVjBWa1Uxb1ZXMmRIWko5aWFZSldid3BXY0ZsSGN2SmthNUlIVFBoR1M0a1hOTVpHYlZSV1l5OFdkeVpEUzJNbU5FbG5hSmxETXhna2NQZEVWUUZVTW9CRFJzOVNVa1ZYVEI5a056OWthcGQxVm1oRVRwaDJRRjlXWXpGbmVsZEhTTmwxWnc4a1RFeGtkMGQwY1dORWNKRlhkak5VY3JSM2FRSlZNdk5HZDR0aVQwUkVTNUVYVFlSVWJDRm1lWWhtWmtOV2N2eGthVjkyVlRwV2F5bDNTQ1pGZEd4a1JCMVRQ
+#EXTINF: -1 tvg-logo="https://channel19.tv/wp-content/uploads/2020/12/Channel-19-Logo-White.png" group-title="Bangladeshi Channel", Channel 19
+http://?ckp6YlRsV1cyaG1lcHBtVEtGbGNCVkhiMjhFTnBCVk9XRlRSbmxXUlhkVWV5SjNiQkpHVHZrRFY1TjNaNGwyTlNSWFlpWjNLT0prYnVabGRKcG5ONVpXUmpOblpPcG5TMU5YVHF0U2NpUldRSVJtUzJKa2E2VkdTSTFXWXJGRlVKZGxhMlpqTWpSM1UzRkZlbjEyVkJwSE1HUkdibUZXZHZSbllhSkZacE5rVmxaV1RveDJVRTFHT2lkVmVKOWtOencwTTZGMU5LUm5aQlJYZG1ORVNEcDNiRWRtZUQ1R1VwdHliRDVrVnlSSE9HUlRSdjl5Y3lzV1dzVnpkc0pWWmw1MFRPZG5heHcwYWxwM2FLZGtNTWhsWXpWRFJybGphaGxXT3dORU5qaFViR1owUXZNa2F3VmxSQkoyVXBaWGVseDBLMlJEZHhWbVozMVRQ
+#EXTINF: -1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladeshi Channel", Channel 24
+http://?c0p6YlRsV1cycG1lcHBtVEtGMVpCVkhiMjhFTnVCVk9XRlRSblpYUlhkVWV5SkhhQkpHVHZrRFZ4TjNaNGwyTlN4V1lpWjNLT0pVYnVabGRKcG5OdFpXUmpOblpPaG5TMU5YVHhkamF4RW1RMkZsYTJoRFI0aDJWakozU1M1MFRKaEZkUXRrWTVFRE02aGxaNFlsV0doR1RzcFZXd1pHZTJwR2E1Y2paNjFVU2xsbVVyQjNUclFtWjY5bWE1NWtTWkpWZDZObFJ4TVhjQkpYYXJ4V1JwNWtjNEF6YnA5VVUwNVdZamxGVG9sV1UyQm5ObWhtYTBBbFZ0aHpNeHhtUU1kVGM1a0hhaU5HU1pWRmFNQnpkRWgxTXp0RVdsTjFhQ0ZIVHJKVVJKTm5kMmhGVkRGRVMxZHpUU1JqU0hsWGFrbGtaQ0ZsZXFWR2FCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="Bangladeshi Channel", Independent TV
+http://?Nkp6YlRsV1cybG5lcHBtVEtGMWJCVkhiMjhFTnpCVk9XRlRSbmRXUlhkVWV5SkhhQkpHVHZrRFYxTjNaNGwyTlN4V1lpWjNLT0pFZHVabGRKcG5ONFpXUmpOblpPOW1TMU5YVFhGVGNNdGtSeVlEYnNWV056Y1RiVXAzUldCalJJOVVjMkpWY3ZWMlZ6OVVlM1FVYXNOblp3b25WMVltZUtGbVJqbEdjbzlFVDJ0aWFYaFhiQlYzS0Uxa2RwbGxkbGwyS3I1ME54SVZPcHBYUjU1MFRKTkRhMVZuZGg5V1VyQjFWeXRVUzBnbVcyQkRibUJuZUZ0V1NtaEdjME5YUTVWMlltaDJOd016S0NsVmVVdENSamxHVHhOSGR3b0haSnBIYUVKSFJ4WkRkdTlVYXB0RVQxTjBLMWRsUTRkWE56RkdjbWxuYlI5aWMzMVRQ
+#EXTINF: -1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladeshi Channel", Jamuna TV
+http://?MUp6YlRsV1cyOW1lcHBtVEtGRmNCVkhiMjhFTnRCVk9XRlRSblZYUlhkVWV5SkhiQkpHVHZrRFZyTjNaNGwyTlN0V1lpWjNLT0owYXVabGRKcG5Ob1pXUmpOblpPTm5TMU5YVDBBRmFFbDFTclEyVHBGVFJaVmtWUzUyUzVsblF2Tm1icWRUYjZwbVlybDJZelZVUXBGbk1qTjFkMUJEYlRoelJaUldZdmhtYXFGVllXbDNjdloxVTJrV2NTcFdjSFYwZDJOSE9MQlRRNEVuUlBabVU0ZFVkU0ZET3Z0MEx1Wm5ZejRXZHNwWFpNbFRhT1JYZDFGemRwRkdOekJqZFpWRmFhQkhkcmxuTTNZSGV6ZDBRa1ZXUnV4MlZyRm1jUDFtUXdRbVZ3bG1leGxHUjI1a2IxZGtSRXQwU3NwWGFRVlRZWGQwZFhkVGFCMVRQ
+#EXTINF: -1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi Channel", Maasranga
+http://?dUp6YlRsV1cyVm5lcHBtVEtGMWRCVkhiMjhFTnNCVk9XRlRSbkJYUlhkVWV5SlhjQkpHVHZrRFZ0TjNaNGwyTlNWWFlpWjNLT0pVY3VabGRKcG5OdFpXUmpOblpPZG1TMU5YVHhOWGN6eFVWRmhHYzBwMFJ1ZDBWM2RuTjNSRVozTVVlMElWT1ZWMWN6bFZaeHNDYnFkMmRLNUVVRnAxWmtOSGNQTnpMb0YyTnhsVGVVUjNLcHBIZXVobmFFVkViMWhGU3JsME1KcFdZaTlXT24xVWJKOTJjb2xYTzU1a2JwTkhVR3AxTDRZM1RLQkZNcE4xWlZkVlZoOUNVdkpIT3VOa1FqWjNhM3BrZFJCMWQzVjFaRnRHZHZkSFdpTnpRRE5IYjNSbVJqSldjVEpqZXlselJvMUdOemhEWnpoSE1ucEZPMFIxZHg4a2RSMVRQ
+#EXTINF: -1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangladeshi Channel", Mohona Tv
+http://?ekp6YlRsV1cyZG1lcHBtVEtGVmVCVkhiMjhFTnFCVk9XRlRSbkpYUlhkVWV5SkhhQkpHVHZrRFYyTjNaNGwyTlNGWFlpWjNLT0pVYXVabGRKcG5OMFpXUmpOblpPaG5TMU5YVGpaa2FQSkRhRk5qWjA5aU1IWlZlbFIzTHc4bWFrRlRiT04wUXhKVVlybDBOMDFtVllsM1lZcFdRb2hVZElSMVo1TUdSM0oyWWpsbVVHUjNUVXhtTVhsRGRSdGtRWFpWU25KblUxVldXVkpuY2pwV1p3Y1dhNHhrZHZBblFuUjNZQ2hsTnpzV2VZNTJMUDVtYkNwVVZFSlRVMFpHV2xSbFRybzNaV1ZEYTU4MGRaRlVlMUJuU3NaRmVaSmpjVDFXWTRJek1qaDNkMG9tZWlaRGQybFVVV2RIYVkxV1p6UlRlWnBHZFQ5aWJuMVRQ
+#EXTINF: -1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangladeshi Channel", My Tv
+http://?dEp6YlRsV1cyMW1lcHBtVEtGVmJCVkhiMjhFTnRCVk9XRlRSbmxXUlhkVWV5Sm5kQkpHVHZrRFZ1TjNaNGwyTlNGWFlpWjNLT0owY3VabGRKcG5OeFpXUmpOblpPNW1TMU5YVFNGSGJMZHpLNVFtTXB4bVFUVnpjUlJuVTRNVVd5VVVkcjh5Y1FKVVMwVnpkUVZWVFBablF4SjNWNGRFZFU1V2FFUjFacloyWk5WMlJ3a1hjRWRuVkQ1RWVUaEVkdmhGT29kMEt2TkRlczVXTlB4MllHdHlaS3BWVFNCblV3aEdWclJVU1ZCbmNQQm5OeEpuY0JWM1ltbDNVeEpGY3lFVU5OZG5UeXR5UlAxR2Q0TkRTb05EVzZoRE9VWnphRmwzTHRoSE16ZGxkNkJUYm4xVVZ6SkZid2xWVkhaWFZOWkVVbXBFYTVOVFVSMVRQ
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/722355_ico.png?ts=1613154340" group-title="Indian Bangla Channel", ABP Ananda
+http://?d0p6YlRsV1cyZG1lcHBtVEtGbGVCVkhiMjhFTjRCVk9XRlRSbkpYUlhkVWV5SkhiQkpHVHZrRFZ3TjNaNGwyTlM1V1lpWjNLT0pVZXVabGRKcG5OblpXUmpOblpPbG5TMU5YVHpGVWRJdFViaGRUT3BKa1dvSlZSazUyU0sxbWRUZGxhd0lETjFCVll6ZGplMFpWY3dWSFVyVUhTVzFXZHJCelVLOXlVNngwU3lJelJTSjNjSWRUTVdoV2J3OWtTSFpHTXpGVlZDUjJhdHRXVUdwbmNRWkhhNFZsVlZOMks0aDBZWHhVTURWM1lNQnpUdFZGZFg5R1dvRjFVMk4wWlFabFM1ZG1UMklIVFRWamNaSmthd0lUWnBsM01zVkdTQ3hXYkJkVVNMMTJhMU1IY1RoWGE1WlRPUkpIV2lkWFl0aEVhNGsxYllkV00zMVRQ
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/1057133_ico.png?ts=1613154464" group-title="Indian Bangla Channel", Akash Aath
+http://?ckp6YlRsV1cycG1lcHBtVEtGMVpCVkhiMjhFTnBCVk9XRlRSbkZYUlhkVWV5SlhlQkpHVHZrRFZvTjNaNGwyTlNkV1lpWjNLT0pVY3VabGRKcG5Ob1pXUmpOblpPSm5TMU5YVG5obmVISlRaR2hXUjFoMVExOWtSV2RuZHdRelZDZFViSjFtYjNFV1owbDJkeFVUVWo1R2RDUldjTEZ6YUNKMktEbFRidVZFV0paMVJZaDNhNlJHUkpwbmQzOHlVcE5sVzA5bVRyVjNZeWQyVm9oWE1MZEVlREYwWklKbFRxdEdSYVZXVDBwWE1OcFZaM0ZtYjI5Q2VFUjBOeHRpYnprVmNFcDNhTmxuYVUxVWN4WWpiQkZHUjZWRGJ5UUVPT1JuUU01bVE1TlZjNUJUTTVka1ZvZFdUeVkzUlk5MlJKOVdWbFYxYldwSE5uMVRQ
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/722367_ico.png?ts=1613154545" group-title="Indian Bangla Channel", Calcutta News
+http://?PVlYU21kMVF5UmxheDlVTnJZVmQ2dGtRcllEVDV0MlF4cDFiU1pXYjRGalR3NFVPMUoyUTBBVmRTTlhNNnBsWUlWa2RNOUdOMjgwWjFsWFQ1YzJSeThtZHZoRGQ1SkRkMEZqVnBGbU1wTkZadXQyTmxKWFNqTmpiRmxUZUpoMWRaaEdNNVJWWUo5U2JteDJWMHBVTmF4VWUxOENWNVFIZHY1R1QyZ1RaTmwyVVRGbmVrNW1lM056UTFkemR1SmxUd0ZHYnVaSFZVdEVlSzVXYVhwMVFQRkhTc1pWZVA1VU40aDJVbVZqUVhWVWIyUWxNRVoyTW5WV2NLUjFhMGhtYzFablloQnphTDVHYVVoWE1wWm1VUTVtYXg0MlV4MUVleFYyZDA5MmRsRkZWdkpIT1JOV1JCTlhPbkowVURsMmIxWjNkM3AwVnc1bVR0Umthb0JIWnJnalFLcDNjWlZsYkx4bWQwOUdTdDlHUjRkWFNNdG1hNkZUYnpFM1NKbFVPNnBGYkJWa1lTMW1aRGRXZA==
+#EXTINF: -1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="Indian Bangla Channel", Colors Bangla
+http://?MUp6YlRsV1cycG5lcHBtVEtGbGFCVkhiMjhFTnlCVk9XRlRSbmxYUlhkVWV5Sm5kQkpHVHZrRFZ1TjNaNGwyTlNCWFlpWjNLT0owYnVabGRKcG5Oc1pXUmpOblpPRm5TMU5YVE9semJ4QVZPd2hIWjZkVlQwZFViMEJITUNWVE1DcDJaekpsYVJCWFkzQjNLWmRIYnZJM1RZQmxVb1oyYlBCVlp4Z1ZPeWxYZGo1bWVDbFhOWjUyYnBwM2RrSlRNMlZIWm45V2NpNUdkWjVtV3JZMGF5cDFjNGR6TjJNVWR2SlVRSjlpWlRkM1ZxeGtaUWhIYXZjRU96VTNOb1JEV0pkMk00NUdienRXVkVkR2VNVjNhRnBVZXRKRE8waDJMSTUyVEZ4MllPTkhjMlUwWlpoWGN4RkRlaDlTY05kV1RxTjJWbFpIZTNnSFQzMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla Channel", Sony Aath
+http://?NEp6YlRsV1cycG1lcHBtVEtGMVpCVkhiMjhFTjNCVk9XRlRSbkZYUlhkVWV5SjNiQkpHVHZrRFZxTjNaNGwyTlN0V1lpWjNLT0pVYnVabGRKcG5ONFpXUmpOblpPRm5TMU5YVHlZSGFtRkVPUVZGUnY1R1J2UWtNQnAyTkdkM2JQZEhiM2NrU3NsamJvVkZNWUIxTHBkWE9OTkhVTWREZTRnRFdEUjJLMzltTXhJMmFqbFhRd0pXYTVZbWQwVUdNUzltTjVkRVZNNVdPeGdYYzZSMUtveDBiS05GYnpaVVE1WmthNXcyTVZaWGRPUlZRV3RDYm5oV2EwUmplMFZtWjRZMU0xODJLendrU1hoemNJWlRTbWRIYW5GVVZGUmxlMk1IV1NsbFl1ZDBiWTUwUnFSbVVybFVkd1ltWXdvMlJLdFNWWWRUZDVkbFIzMVRQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla Channel", Star Jalsha HD
+http://?cUp6YlRsV1cydG1lcHBtVEtGRmVCVkhiMjhFTjZCVk9XRlRSbkZYUlhkVWV5Sm5hQkpHVHZrRFZ4TjNaNGwyTlNKWFlpWjNLT0owY3VabGRKcG5ONlpXUmpOblpPQm5TMU5YVDR0VWNxNTJWUjlDTjNGbWJwWmpRclFIVGk1RVVKVlZhMEZFVWs1VWV2UkVTMWtuZUd0R1RrVm5STEoyWnhKSGVKTlVjelJXWVZkVlRKWm5OU05WVlpobmI0VlRNcFowUXpaM1FKcDNTM2gyTkNGRVdMMVdldjFtWVJOM04zWnpVYXhrYjIwV1JQaG5kMGgzYUhKalRuZDBSbk5VZEdwVVUxMUdWdDVtYUpkV2F4c3lWa3RpVnB0bWFDWldOS3hXV3lZM2FYOUVhcGQwWnBCMVN5WlZPMEl6WXYwR2VDQlRiM3RFYzFFVFlCMVRQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla Channel", Star Jalsha SD
+http://?Mkp6YlRsV1cycG1lcHBtVEtGVmFCVkhiMjhFTnNCVk9XRlRSbjVXUlhkVWV5SjNjQkpHVHZrRFZuTjNaNGwyTlNGWFlpWjNLT0prZHVabGRKcG5OMVpXUmpOblpPcG5TMU5YVHJFVmU0NUdOSkZUYXZSbk11cEhTMWRuUVFoR05wUnpaMFkwZFdCMVIwTjFOU1ZuVmxCWGJHaFRZMTRXY1FKVVZIZFRNcXBsYlVGa2MzRm5ReVFGVXRwa2RRRkhNczlXVHlaSFpya1RUMHBtTUZSWGV3RUhiMVkyUlI1V042Tm1ZWE4zWnIxR1IwbHpjeEVuZG5GVVNPSlViNTUwY2hoRGIyZ0daMUVUZHVaamF3aGpUNVpHUzNORlR2b21NUGxYV1hkVlV2MDJjSlJUYXI0VWV1OW1aNlZqTkxkR1RQOXlNdkpVZHZJMVVSMVRQ
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7364080_ico.png?ts=1613156952" group-title="Indian Bangla Channel", Sun Bangla
+http://?M0p6YlRsV1cydG1lcHBtVEtGMWJCVkhiMjhFTnlCVk9XRlRSbkZYUlhkVWV5Sm5lQkpHVHZrRFYwTjNaNGwyTlN0V1lpWjNLT0owYnVabGRKcG5OcFpXUmpOblpPTm5TMU5YVExwbWJ3aEZhd1prUXY1a2N6bFVORWQzVFNWMlJUQm5iaUZYZDVwRWNzWmtSMHhFV09sbWVhWlRla1p6YndwVVRxOWtkMFpUZDBVa1ZsOVdNSmxFU3JVVGMzczBWS3RrVm9KMFVyQnpSamRXUktWMkxoeDBiQjVXY29GaldzOVVhNVlYWmxCbmN2c0VWWWxuYzNsSFZIWm5Sd0pVWXFwa1QwRlhUT1pqU3ZkV2V2aDNTR2RYUzNSekwzd1dlMkZIY1UxV1F0TkZhRmwyVFZaMFRvWmthemtWYVF0R052WTBhWUZtYkVaRk1uMVRQ
+#EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi Channel", Bflix Movies
+http://?cnBtVTRwM1V3OTJjMWNWVDRVMGJ1TmxlM2hEYzJoWFRUTlZPM2QyY29CVlNrMTJidkYwVUZaVFpwZDJRNDhVVFl4bWRhUkZackZYYTNoVVJRWmpZdVZUY1hobmN3dDJacWhrV3ZZamE0WlVUSzlDWm5SbVJ6WkdOMTVtWXdOVmE1RkVhMFFqVndOVVV5UjBObzkyVjAwMk5MbGpTTE5YY1dKMU5HMVdRNlJqYlVwbVpFQm5ZSUpYZE1kRmE0SkdNMFVsV3hKV09yMGtRTnQyUm45MmRGWnpjNjkwVmtsMlY0SnpLd29FV3drbVFWSkhSVk4yWnpkWFl6QUZjbjFrVUk5aWVsTkhXQ0ZIUzRobWJuRjJTeDRtWnBGV1VoUnphQzlXUkhkemN3QTNiaGRrV3dOWGN2bG1ieWh6TXhFM2JESnpNeFVGYmlwRk9TQm5iczFrYjZGWE0zcG1UeFptUkwxa2RvbEZhU2xsYXgxVVA=
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/05/COLORS-CINEPLEX-2019.png" group-title="Hindi Channel", Colors Cineplex
+http://?MEp6YlRsV1cySm5lcHBtVEtGMWFCVkhiMjhFTjRCVk9XRlRSbmxYUlhkVWV5Sm5jQkpHVHZrRFYxTjNaNGwyTlNWWFlpWjNLT0pVY3VabGRKcG5ONlpXUmpOblpPaG1TMU5YVGt0RWIyRVhhdkZUTnhSVFFXZERST1ZYWjBWRE5waEhhMXNtWlVWMFQxSlVOc05WV0Y5MlJQaERXMVFsYU5oVFFKaDJiNVpqVnhZemJZRjNWUkJYTnBOemJ4WUZVREZXYXM1R1NubHpTYTFXVXdRbE01UVVjNE1rVVR0MFIxeEVPM2hIVzBjWFpOSmtkcndFYW5aamVMRkVTemh6Y0tsRk9EbFdPMFJuZEdSSGN3VlZibVJWZTY5R2N3ZGxieEJIY3dFMmN6ZG5lMmxrY21SWGR5aDFNVVoxY1I5bVVTQlRUTzVtY1ZwM1VCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Channel", Colors HD
+http://?cEp6YlRsV1cyWm5lcHBtVEtGbGNCVkhiMjhFTm5CVk9XRlRSbkZYUlhkVWV5SlhlQkpHVHZrRFY2TjNaNGwyTlNKWFlpWjNLT0pVYnVabGRKcG5OM1pXUmpOblpPVm5TMU5YVHdJV2VNdDJhMElqTTRGWFVNdGlkU3BYYVp0MEs2TmxjRlZqTXVsWGF0TlVlNjlHUnRoMlRHSlZWNEZ6YU9GMVF2a21lNHQwTDZoVFc0Vm5STGRIZEVSbGFqZG1ZaDlVWnJWbFIxSWxjVnhtTXo1MlU0QjNieW9HUlBOamFvaG1NekExVU9GWGN6a1RjNDEyZDRsbFNIaEVSNlpVUzNkbVdGeG1VMmgwTTVrMWNDSjNZMlJEVXBOSFUwMWtUSjlXVGtaelV2NW1iNUFYVjRvRlR2QkhOeDBrUTNFM2RVZGtZb2RGYUZKV00zMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Hindi Channel", Colors Infinity
+http://?Mkp6YlRsV1cyRm5lcHBtVEtGMVpCVkhiMjhFTm5CVk9XRlRSbmRYUlhkVWV5SkhkQkpHVHZrRFZ3TjNaNGwyTlNKWFlpWjNLT0owY3VabGRKcG5OM1pXUmpOblpPVm5TMU5YVE1wbWRQbG5TUEJ6SzU5VWJpVmpaTE5uVVJWRWJCaGtlTlpWVFQ5a002TkZhbHBrVFdsR1VWUlRjMkFWZEpSbmM0OEdXNjkwWURkbmE0MDJZeVFWTkJaa2R0TkZOek1HU3dOalcxOTBMcmduYjVja1l6NDBadmxVTnBwbVl2aGphelFUWlRCWGJFOTBSaVZXYTJ4MmJobEVlMTFrZHhrVmMza1hNeUZHZUdGRGJ5RmtOUWhsVnExV09UbERUbEJYUzAwV1pzSlVkTUJ6VVJaVFJ2WkVaSlpGV0hSblRNeFdiVmwzYkxGalMzMVRQ
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1107539232598298624/aDupPKVw.png" group-title="Hindi Channel", Colors Ristey
+http://?c0p6YlRsV1cyVm5lcHBtVEtGVmVCVkhiMjhFTjFCVk9XRlRSblZYUlhkVWV5SkhiQkpHVHZrRFYwTjNaNGwyTlNKWFlpWjNLT0pVYXVabGRKcG5OelpXUmpOblpPOW1TMU5YVHpkVWFObFVkcmRUUjFwSGE1ZzBWNjltYUMxRWFrZEVibjVVVW9sM1IybEhOTUpUV0N0R1ZzWjJRaHBHYnJSbk5QaGtNcFowS1Y5V002NVdaSlZGWlBkbWJCNVVWd2N6VXVOMUtIWjBVdFpYUTVRbk1yRVhibnBsVlZGRWEzVkdlc1ZWY3djbVNWUkdha1pWYVhaVWIwOTBTM3BWUlZWMVZSWlhWaGhHUjR0Q2NtWlZOWVJXU3lOelF0VmxWNXBXYnhkVGJOdEdjbVZWUkROa1VwQmxWMnBXT2loR2VDUjFRNlZXZFBabU1SMVRQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Hindi Channel", Manoranjan Movies
+http://?d0p6YlRsV1cyOW1lcHBtVEtGMWRCVkhiMjhFTjBCVk9XRlRSbnhXUlhkVWV5SjNhQkpHVHZrRFZ6TjNaNGwyTlNCWFlpWjNLT0owYXVabGRKcG5OclpXUmpOblpPQm5TMU5YVGlCM2RrUm1RNnBGV3NGMWJTaG5lVnAyWlhoM1VKRnpaNWQzYjNRa2UxRjJjSHBYY3ZVWE1YTm1kVzFHZFlWalVSQjFjbzVtYnZVRGVVeDJjcVpVYXkwMmR4UmxjMGRqYnlGbmNRZDNSdVpIV1c5U1l3c2lhaWxtYVBWbWJ3ZDJUdEZIWnZkSGFDbGxZTHQyYU1Ga1Z4MTJONEpEY3pWVWRDTm5WYUpsVHNSRmF5WjNiWGxuUm5Ga1dZOVNRemwyVHBwa2QwbFVldmwwUkgxMFExWjJTQkpFU0RwV1RIWlZWUlJUY3RkbmNCMVRQ
+#EXTINF: -1 tvg-logo="https://img.pngio.com/mtv-beats-hd-kccl-tv-hd-beats-png-308_161.png" group-title="Hindi Channel", Mtv Beats
+http://?MEp6YlRsV1cyZG1lcHBtVEtGMWRCVkhiMjhFTjNCVk9XRlRSbnhXUlhkVWV5SlhjQkpHVHZrRFYxTjNaNGwyTlNkV1lpWjNLT0pVZXVabGRKcG5OelpXUmpOblpPVm5TMU5YVGlKSGNSTkdXeUkyZHFkRU5ESkhVVHBXUXZvRlphWkZhUFpUV21sR2IxRlhRTWRtWUtaSFowWWxSeXN5ZE50MGFSWlVPblpGT29GbGR3d0dORGhFVk5wM2MxOFVVcWxHT285V2JQRjFZUjlXZDRSMFFEQjNkQzkyTXJvV2NucFdkYVpuVUhSWGRFMWtheWtXYnlVV1JWSjJRdkJUWWFOelowa1dNNVVYY0NKamVSSjBUbDlVYnVKamFHaG1TekIzYkZwbmNHVkhlR2wwWjVZM1R1SmtNSXQwVHk5V1N6azJRM2MzWjFjRE9uMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/1200px-MTV_HITS_logo.svg.png" group-title="Hindi Channel", Mtv Hits
+http://?cEp6YlRsV1cySm5lcHBtVEtGbGNCVkhiMjhFTnlCVk9XRlRSbnBYUlhkVWV5SkhkQkpHVHZrRFZzTjNaNGwyTlMxV1lpWjNLT0pVZHVabGRKcG5OclpXUmpOblpPbG1TMU5YVFVwMmNNcDBkd0EzUnFWVmNDeGtNRmRtY3VaMlZhaG1jMWNWVGw5MmN6aGtTMDVVZVV4bWJaZFdadjkyWnpvbldrQm5XMEYxVm9GbE53UkhPelFtTnlBWGI1OTJTNWNtWXhwbVVsUkdkbkZITjRNVWFvaEViMEpIV3Raak4zVkRXb2RuWVFwWFQwUVhZV05UZG9sVllOcG1ldGRGYVBoa01zSlhaQ3RpVEZSM2REOVVSem9YT3hoRmM0Z0RSRmRuU3JCSFp1UkdiSnAxU3hjWGM0QjFLNWNUYWlkSFZoTkdkNVpIZXdZMlMzMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/800px-MTV_Logo_2010.svg.png" group-title="Hindi Channel", Mtv India
+http://?c0p6YlRsV1cyZG1lcHBtVEtGRmJCVkhiMjhFTnJCVk9XRlRSbmRYUlhkVWV5SkhlQkpHVHZrRFZ1TjNaNGwyTlN4V1lpWjNLT0pFYnVabGRKcG5OelpXUmpOblpPRm5TMU5YVDRnSGFsQjFUNnBuZTZaMVZYNTBSclZIV0tsRGJSZGtlc1pqV0NwbGEzaEhVekFYUXJNbld4a1RkeU1rY3hFRk5NcGxZcUp6WTU1MlJzeDJONVpEVmpCbGNvbDBhUUZWTndWMmJqQmpjbE5YTWs1bWN5eDJiMVpEUzBZbFRvZFZWRVJEV3RwSGJ2RkhaTnRFZFlCWFdDOVVXcloyWUxsWGUwcG1lbEprTlh4MFphWjJhNU4wWXdwV1MzUVdlazFtUklsblF3ZzFaTWgzTFpaemRzMVVld0V6S2FkWFF5TW1jWGwyWldaRE9SMVRQ
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/files/lv/282263/svg/mtv-live-seeklogo.com.svg" group-title="Hindi Channel", Mtv Live
+http://?MEp6YlRsV1cycG1lcHBtVEtGbGFCVkhiMjhFTjNCVk9XRlRSbmxYUlhkVWV5Sm5lQkpHVHZrRFY1TjNaNGwyTlNGWFlpWjNLT0owYnVabGRKcG5OMlpXUmpOblpPaG5TMU5YVHNGM2FadEVSSEptYnRoRWRVbDJTSTkyU0laalprbEdkVEIzZHpRalkwVlhNcHhrZEUxbU5XWldPUFZUYWlCRk81OVVUNUJGUnFOME55MG1UeGRYTnlsbGROUjNkWFJXWXpGMWN6c0NjdXBuWVlkbmVWWkZlem9GYUVWMVFvVmxkSUpqWVdsV1N4ZGpiVVZtYXpsak4wUkhleGxFV3I1VVZNZEdWTHBIV3VOa2IzUjNWckpUZHFaMlJJaGtONWtYVXk0VWRJOVNkVXQwUXp3R1dyWjBSSHhFTXpVWGRWTmtOM2RWYXJoMktSMVRQ
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/824742_ico.png?ts=1613202550" group-title="Hindi Channel", PTV World
+http://?bkp6YlRsV1cyNW1lcHBtVEtGbGNCVkhiMjhFTm9CVk9XRlRSbnBYUlhkVWV5SlhlQkpHVHZrRFY1TjNaNGwyTlNCWFlpWjNLT0owY3VabGRKcG5OeVpXUmpOblpPSm5TMU5YVExsRWJ6Y2xSSmxXV3NsVE53WVViSkpuVlBSRlJaTkVjVkZ6UXZnblVxcGtieUJsTVpoSGJZUmtOSkozYVB4MlkzUVhUd1pEUmt4R1RUTlhhNHBrWW5GWGRZVlVlRVpGVnd4a2RHbG1jUzltVTFnMFZ4VjFkbDVVZFN4VVVvVjJaclVtWlpkR09yOW1UMFpIZHJaRVZCdEVPbmRHTVl4MlRYNUdhM1EwYjNvVWE1bzNVaFpWTnBGRFZUdHlMeFYzTndVRE9HZFhhNE1HU2tkV1c1QmxNV0YzS3N0bVVJTkVOYUZEZXlrR09CMVRQ
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/824741_ico.png?ts=1613202319" group-title="Hindi Channel", Shemaroo Bollywood Premier
+http://?PUkzTXJaRmVNcG5kQ0pUY2FSalRzUmxTaVowVFY1R2JzVjBadEZrYlNsa1U1OFNRbkpETTV3MFlQbG1jM2NIVWhoRmVXOUNNbGhWUXB0a1N3ZEVXMUluYTVRRFVCSjNjNlZYTjRKemNxSlRSNUZsVUVsblY1ZDFMQ04wWk85bVJ3cFdjNGhUV2xWR2V2WW5OU1JsV1JORGQ0dENUcUpHVnVOMlk1MW1lcDlHZFpaek1FaDJhNEpqZTNzQ09wNW1la1YzY3hGblFyUmpUNGRVZHhJR1RQZFRkNFZ6TmE5U1F5TjNMWXBWZENoRmVOaHpMNHdrV3Fwa1RNaEZhR2xtTjNKbVUyZ0VheVpUWTN3RVV4RjBaMlVuWTBkV1oxcG1TMFVrZEJ4MlF3STNNeWhVYVlWR1NhaDJRSzlVVU1CRmVLZG5jM1JtUzJkemQzWjFMVlZIYzQ0VU96QUZkbnRVWXhoMFo1cDFhaE5uV05GSFpGSkRiejVHYnhJblduaDFiMlZsY3NaV01QUjNiRXBYZQ==
+#EXTINF: -1 tvg-logo="https://techstory.in/wp-content/uploads/2019/02/ShemarooMe.jpg" group-title="Hindi Channel", Shemaroo Classic
+http://?PW8zTXJaRmVNcFhhQ0pUY2FSalQxUmxTaVowVFZGSGJzVjBadEYwZFNsa1U1OFNReEpETTV3MFlQVm5jM2NIVWhoVmNXOUNNbGhWUXB0a1N3ZEVXMXdtYTVRRFVCSkhiNlZYTjR0Mkx6TmxUNk5tU3ZzMmJOWkZSeFZuY3pWVlQzY2pObzVFTnlKWGJyY21WTTFFVHRkRWJKcDNWTVJIU3RORGU1OHlUelFIVHFObWN6QTNhaHBsVUNGRFRyaGtNRFJEU3dVbmV2b1hTU2gzY3ZNWFkyQW5WNVowTU9sVmM2RjNSNU5ITUxsamF3VVdUdUpUYjJCelQzTVVid3dXVFN4RVVqUmphVmRYUlJGWFZ3UkdhNTBrUnJjWFF1aFVjdEpYYXRka2JXaGxTeVIyWXdBWGFPbEdheGtYZUN0R2N2WWxRVFpFVnJoemE2TlZTUHhHT0M5MFZRVjNkeEZWT3BaVVkyTm5UV3RVVXlrbmRQbFZURlptY3lVMGNSZG1ScVYxUXpBVFJNZG1hSzVtYw==
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/496px-Sony_MAX_logo.svg.png" group-title="Hindi Channel", Sony Max
+http://?cEp6YlRsV1cyMW1lcHBtVEtGRmNCVkhiMjhFTm5CVk9XRlRSbmRXUlhkVWV5SkhiQkpHVHZrRFYyTjNaNGwyTlNOWFlpWjNLT0owZHVabGRKcG5OblpXUmpOblpPOW1TMU5YVHBaRGF3Vm1TQ1JXYXRaMlJrWkZlclFYVHhFa1dZSm5lVkpUUnhJVk8zcFVPaTlTYWFwR000TjJONTBFZVNSak5NTjFNcUZrTlFaak4xNFdZNVJGVTNKVGNoZFVSd29tUXkxVWNCbDNWS3QyZEJSM1NYTjJjVFJuWUk5RU93cEZXRnBIY1lSSGVGZFhUeFZVYjA0V1k1c2lld0JITXJObFMwTVhXaTlVVzNsamN5ZDNZeWRIVjVSVVFOOTJLMVpIVlJSVFVwcDFaNUlIT3I4V1NzZHpiaWhHZWFsM1IwRkVjVEIzY09kV2UzMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi Channel", Sony Max 2
+http://?cUp6YlRsV1cyTm5lcHBtVEtGbGFCVkhiMjhFTnVCVk9XRlRSbkZYUlhkVWV5Sm5kQkpHVHZrRFZwTjNaNGwyTlNkV1lpWjNLT0owWnVabGRKcG5OM1pXUmpOblpPbG5TMU5YVExkM2R2QjNUV05WVHFwbFpaVm5OSkJuZHdZMlp5VVZjdVJHVktsVVF1bERXSWRYYXNOWFozc21SSHBHYlB0a2UwRUdicEZXV3hSemMzTW5RWkJUY2tSamU1QlhSd2tGWnJoM0xDTlZlMzltYTRrVE81SlRlUFprY1Q1VU5ubHpUdlIxUTB3V080RWphd2xXZWFaSGVKZDNUcU5UYm9ObFlDRjNMWTlXYlRwVWF3TTNjNDhVY25selR4NVVRWmhYYVRkV2UwRm5kNVFET0toSGUzUjJaajFFYkdoblJoQlZRNjUyYjQ4V1JuMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/496px-Sony_MAX_logo.svg.png" group-title="Hindi Channel", Sony Max HD
+http://?ckp6YlRsV1cybG1lcHBtVEtGbGNCVkhiMjhFTjVCVk9XRlRSbjVXUlhkVWV5Sm5jQkpHVHZrRFY1TjNaNGwyTlNsWFlpWjNLT0pFYXVabGRKcG5OblpXUmpOblpPcG1TMU5YVDE5VWV2MTBMYXhtTXZKR2E0cG1hT0ZuYzRnRU5VcDFkNkpITmxOVmVwaFhjMnNXVkxkMlNoUjBhSmhEYXdBell2c1daMDkyS3VGV2VocEdiMzBHTk9CbGMwSTJZUzVHVTNsbFcxTW1NNU0zY3h3bU5EdEdjblp6ZHVwMmRzTmtRYWx6YlQ1V1JHaDJkVUZsYk1kVmEzbGxVb05EZDRsVGRETjNSbEpYYXhJVGVCTjNMMTltVnBaM01JcEhXMjEyTXZVVFYybFViNWRGVnhJRk4wRjNZdWhuYzN0R1VpOVVVYUoyYm5WV01CMVRQ
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/497440939388858368/73qSmbwD_400x400.png" group-title="Hindi Channel", Sony Pal
+http://?dEp6YlRsV1cycG5lcHBtVEtGbGJCVkhiMjhFTnlCVk9XRlRSbnRXUlhkVWV5SlhjQkpHVHZrRFZ2TjNaNGwyTlNSWFlpWjNLT0pFY3VabGRKcG5Od1pXUmpOblpPOW1TMU5YVDFva2RxRm1jbXBGZHJwRWJTUm1lNFJuWW5kRE8xWlVleUlqUVZSa052eEVaNFpWTVROSFN2aDBhM1JFYkp0MmNORm5NNXBuZXBGR2JLdG1kRVJUVktwMmFNUlZiNEpXWTJ4R1VXZDNVQk5IYkhSSGFoWjNkS05VUXU5eWE2RmtheFprY3oxbVYxNW1ZNUlrY3dRbGFvWkRlMHRDVTJFa1lxOUdWckJsYXBOMGRSMWtOWDFtTnRwWE9hUjBjeGxuVzRBMWFPOWlidWRVU1dwVk90NTBNUFZHYkNGWFFVSnpSMFJFYnRGalduMVRQ
+#EXTINF: -1 tvg-logo="https://toppng.com/uploads/preview/sony-sab-logo-sab-tv-11563255194ov0us7me4e.png" group-title="Hindi Channel", Sony Sab
+http://?M0p6YlRsV1cycG1lcHBtVEtGVmNCVkhiMjhFTjJCVk9XRlRSbkZYUlhkVWV5SlhlQkpHVHZrRFZ5TjNaNGwyTlNkV1lpWjNLT0owY3VabGRKcG5OdFpXUmpOblpPaG1TMU5YVGpoM1pZdENkV1ZITzE1bU5OdGtOM3cyUTBZSGM2TkVjNEEzUlVSMmE0TlVabHBtVDIwR1VRVkZWeXNVZXZFV2F1UkZSeFJtWm5Sek1PcEdVSTltVVU1MGJCTnpRVHRHVnNwM0tNeEVPTHBYT1RCblp3TjJab1ZUUXI4a05vbERkNmRHVDNzbU56aEdTVkZXYzVWekthdDJRc2R6VjM1a2FwbFhiWHBVUnlVR2FRMWtUVFJuZHBwRlRqUmxkbngyTkRkbE5tdHlkckpYZHNobGNwbERjbmxtVk5obVFNaFVSRTkwZDFoMGNCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi Channel", Sony Tv HD
+http://?MEp6YlRsV1cyRm5lcHBtVEtGRmFCVkhiMjhFTjVCVk9XRlRSbmRYUlhkVWV5SlhkQkpHVHZrRFZuTjNaNGwyTlNWWFlpWjNLT0pFZXVabGRKcG5OeVpXUmpOblpPdG1TMU5YVEIxRWVhRm1iMGxuTjVWblN6ZDFjVVIzU1pkMExLTm1jUUJIZTVSek0zVm5aQ05tVXFWbmRFQlRPQkJsYzZwVVlNaGpTdkpHZVR4R1R6QUhiMXBtYzU0VWFNOWlSb2wwY3BGRE9QeDBkcWhIZHdRWGM2SlRiUnhtYTRZVGNyZG1NTlYwY0hwbll3RUdaMFkzYmloMFVtTmtTdGRXVndoak1yZzJWNW9uWTJFWGJYUmphM2hXU3lSbllJaEdWMlUzTG5OVVcyY21iTmxVZUl4VWFyeGtVek5UZXpnV1dNQjNaRVIxZHhvbFJCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi Channel", Sony Tv SD
+http://?Mkp6YlRsV1cyWm5lcHBtVEtGRmRCVkhiMjhFTnZCVk9XRlRSbmhXUlhkVWV5SkhlQkpHVHZrRFZ4TjNaNGwyTlN4V1lpWjNLT0pFYXVabGRKcG5OM1pXUmpOblpPaG1TMU5YVHdvMWJ3TTFWU2R6VXdGR2N2aDJSbmxuY0JGV1dvWjBkcFJWZDNzU1Z3bGxUT0JUY09WbmJ0dEdNUVJqZGpSSGRhbGxiM1pVUXRKRlJ6Z1dUemdGYUdSbmRUQlRNVFIwVjJCMVIySlRZM0VuUlFsVk41a0hidkUzVWp4RWQ2QkZSaUpuYnZRM1RKcDJjVlpuY1ZKMlVCZFRhMnBXYXhjMU4yazNONjkwYnNGWGJMaEhkM2RHT3lkM2I2RlROMjBXVmpsRlJpSlVhbEpEU3A5R1ZwcG1RcUJUTTJ0bWEzZEZUd0ZXYWtsRU1SMVRQ
+#EXTINF: -1 tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/general_content/21_0_16_1_1521807420.jpg" group-title="Hindi Channel", Sony Yay
+http://?dkp6YlRsV1cyWm5lcHBtVEtGbGNCVkhiMjhFTnVCVk9XRlRSbmxXUlhkVWV5SkhkQkpHVHZrRFZxTjNaNGwyTlNkWFlpWjNLT0prZHVabGRKcG5OcFpXUmpOblpPcG1TMU5YVFZGWGR0WlVScFJXTzZOa1JOWmxNQ0ozTTFJMmR2WVhkNFYxVUdGalFzcFhUM0lIVHE1R000RUdTaTEwWnVOWFpMZEZTemxXYjZoaldqNVdWTGgyVTBrRmJsNTBReWhHV3BKblVOQm5kb1JIZDF3MFRVWkViU1pWWnNkRGNxOUNibVpGTmF4V1VPRmtUNTgwY3hSbFdRZFZXNDlVU2tkRFJ4eG1jT2huYkkxVWJFWkhVd3RDVzNoV1FXRkVWUTEySzBzR1pGeEdlUHRFVEoxVVp6TnpRNHNFTTRkR2EwUjNiSmxGZTUwV2FuMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg" group-title="Hindi Channel", Star Bharat
+http://?eUp6YlRsV1cyZG1lcHBtVEtGRmFCVkhiMjhFTnlCVk9XRlRSbjVXUlhkVWV5SjNjQkpHVHZrRFZxTjNaNGwyTlNwWFlpWjNLT0owYXVabGRKcG5Od1pXUmpOblpPaG5TMU5YVEZ4VWVqTjNLQlZtZXZaemE2SldVaVZuTUZ0RVdDUlhlV1psU2FoRk16aFRZaGgxWnhOM1NWZFdka0YxYm05R2EwOHlZMWxsUTNNVmJ3aFhiTUYwTkVWMmNXOW1RcjFVVHhSMlVWVjNUSHBuYXNaelozVlRjU3BXUnNsWE41UkhiMVFEYjVCSFVxbFhTVUZFYzNNSFYzZ1hUc3RrVUloak5WWlhXUkZUVzFkMGNhRm5iRVZuYjZaRlVMbEhVc05YUjFwMFF4SUZlMTEwUXNsa01ySlVSaEpUZERGSE16Z25TV2xFZEZCbmRuMVRQ
+#EXTINF: -1 tvg-logo="https://www.satiitv.com/wp-content/uploads/2020/02/star-gold-2.jpg" group-title="Hindi Channel", Star Gold 2
+http://?dUp6YlRsV1cydG1lcHBtVEtGMVpCVkhiMjhFTnpCVk9XRlRSbjVXUlhkVWV5SjNiQkpHVHZrRFZ0TjNaNGwyTlNkV1lpWjNLT0owZHVabGRKcG5ONlpXUmpOblpPbG1TMU5YVE5GMVp3UkVleEZsVDZ0U1NCSkZVcHBHVnBoMVNXWmxjcjFHVTRNVlEyNTBNeEJWWnhFWGM1b21hd2NqZG1selFRSlVWdE5UVXZKa1Y0ZG5lenNHY3J0a2N1cFZUVHhVYjJaa1NpTlhiMTltYnoxbVIzQURhNVVuVDU4eVU2MW1Zd0lVV290MmN3UkRiMEFUYmFkMGNFOTBic056UzFKVGFyZEdORVpYTUk1VWI1SkRidjQwYndoVld5eDJac2xIT29aMWJqSnpiMFlIT0VsM1Z2Tm1NUTVXWTNrV1lXbFhZbkp6YUJobmFCMVRQ
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Channel", Star Gold HD
+http://?c0p6YlRsV1cyNW1lcHBtVEtGMVpCVkhiMjhFTnlCVk9XRlRSbkpYUlhkVWV5SjNiQkpHVHZrRFY0TjNaNGwyTlNwV1lpWjNLT0pVY3VabGRKcG5OdVpXUmpOblpPVm5TMU5YVHlsWGRwOTBaM1FHYnlWRU9wSjJMQmQyVHloa1kxa0dkSFpuUzA0MFpvQmxWcTlHVTVwbVptVjNTRHRpZENWV2QzUWxZdDlDUms1R1J5bEdhMW9XY3hzbWNMMWtkUXBXTjRGblJKNWtiU1IzS05GRlo1TmplSk56Y1BKM2R5ZGtaTVZqY0NoMmNyRXpkbVJqYnlnalNaQmxUcEJuWXNSekt6czJUMkJ6U0psemQyb1ZUWUZrWW5OSGR3ZFdjTmQzUTQ5a2RqMTJjeDFFZVhCVlZ3VmxleVJFVzBnbk5EcFZRQlpqYjRSVFMzMVRQ
+#EXTINF: -1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/star-gold-select.gif" group-title="Hindi Channel", Star Gold Select
+http://?eUp6YlRsV1cyZG1lcHBtVEtGVmRCVkhiMjhFTjFCVk9XRlRSbnBXUlhkVWV5SkhkQkpHVHZrRFZuTjNaNGwyTlNKWFlpWjNLT0pFYnVabGRKcG5OMFpXUmpOblpPbG5TMU5YVE1OMGFoNTJaU1ZIY3JWWGN2eFVVTlZIV0NaMWFLSmpjelltZW9GbFR4UnpNU0pHTnZZWGNzTmpTcFZEYUNGRGFJOW1UeU56VEdCSGV1WlhWckYzVkdORWUzcEdTVGRGUnJaRVJpUmtUTWgzY3JOelVOWlZhWFJ6U3d4MlkyWmpNblJIYkVCWGV2NUVjVXRtYmhaVVNQTmpUdmRsTnlWMmRqQlhXUGhqYzNaVGF5b2xVRGRrUXlGbVMzVVRVTXhXTTVOblp5MW1iTkIzVjJna1JyZDJMWGRIZG9KWE1oMVVkWVZUYkROVmNCMVRQ
+#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/3-32979_star-plus-star-plus-logo-new-hd-png.png" group-title="Hindi Channel", Star Plus
+http://?dkp6YlRsV1cyUm5lcHBtVEtGVmNCVkhiMjhFTnJCVk9XRlRSbk5YUlhkVWV5SkhiQkpHVHZrRFZ5TjNaNGwyTlNkWFlpWjNLT0owZHVabGRKcG5ONlpXUmpOblpPaG5TMU5YVG5OM2NweEdTM01uUXVkRVNTRkhSMG9YTUtwV1ZMSkVjcUZYY3BaV2RyZFhORWRUT1d4V1FIVmtjeWRYY3FGelptZEZSMFJqYm1oa2RzWkhTNVozTnlKMmF5aG5hQlJtZHFkVVREOWtOd3BtVlNWVmJuaDJjNnBVZGlaSFYybFVReHAzTUMxMmQySjBaRWxVZTBvRk1xTm1hME4yUzNWa05NbFdTRlZYUUhWbmVrSm5acWwwTXBObllMdEdVd28yVnpvVVEzb25iVmxETkhSbGQyaGtOSGhrV2hsSFpJRm5TelFHY2pwM2RuMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports Channel", PTV Sports
+http://?Nkp6YlRsV1cybG1lcHBtVEtGVmJCVkhiMjhFTjNCVk9XRlRSbnhXUlhkVWV5SjNkQkpHVHZrRFZvTjNaNGwyTlNSWFlpWjNLT0pVYXVabGRKcG5OdVpXUmpOblpPUm5TMU5YVFFOWGE2UjBiNUoxWnJsRlJWbEdXeTAyVEpCVlZ2b0hkdzlrUW5aa1kyZHpjUk5qVjNkMkszRjJWVEpsZFVOVldhdFNUMGRIVllsMWF2WlhTSWxuVVVSSGVQdFNTcmgyYW8xR05sUmtOeGNYUnZJalVPTlhidllETnhOSE16Qm5SeXBXYjRGSGFSVldkcE5EY2hwMEwzSW5TcVZEU1JKRGVQdDJaSEpIVjM4V2V6Y3pZeWtHYW9wR05yUVhPRGRtWWhWelJOZFRjRUZYYWtGVFUxOTJLeFozY0ZKblNuUlVjS0ZFYVU5eU4zMVRQ
+#EXTINF: -1 tvg-logo="https://archive.org/services/img/SkySportsCricket_201708" group-title="Sports Channel", Sky Sports Cricket
+http://?MEp6YlRsV1cycG5lcHBtVEtGVmRCVkhiMjhFTjRCVk9XRlRSbnBXUlhkVWV5Sm5lQkpHVHZrRFZwTjNaNGwyTlNaWFlpWjNLT0owWnVabGRKcG5OeFpXUmpOblpPbG1TMU5YVDVRbGF6d1VhdDlrUTVsM2M0Z0VXSWhHTlZwRVp6RTNjWjUwVENwRmE1ZDFRU0ZETW1Kbk0yVXpRdlV6YXhoMVoxUkVVek5IT0tSSGFTTjNab3AzVW4xMloxb1VaQnBXVG5oVlZPVjNSNkJuVXljelM2WkZjUlYzY3dvVmEzNTJZRlJtU0U5R095RUdiTVIyYzQ4R2VxZFVUcGRXYzVsalMzcFhNd2hUYnBWWGRDWmxVWUprYXBoVE96NG1OeDFXYzV4bWNLWmthNHdFZUh4VVl3eDJWSWhYYVdwSGRYZDFNd0pqZElGVlpSMVRQ
+#EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6752.1507600241.png" group-title="Sports Channel", Sky Sports Football
+http://?ckp6YlRsV1cycG1lcHBtVEtGVmVCVkhiMjhFTm9CVk9XRlRSbmRYUlhkVWV5SkhhQkpHVHZrRFY0TjNaNGwyTlNwV1lpWjNLT0pFZHVabGRKcG5OdFpXUmpOblpPdG1TMU5YVFZWVmVCbEVNVmQwYTBSRWNNUldTUEpYTzFCbGVLVjNadllIZExGM1JxbDFSeWwyZEo1MlpIeFVNeUozYVM1Mk4zTmxXd2RsTjJnMVlObG5ZSmxWWnNGM2N4MUVaS3RXVXJka2FaOVdabGRIZTFFR2QzWVRjc1oxTW1WRVR5aGpXWmRqZGk1R2FOcDBZdFZIZTNKbWR0Um1SMEoyTEpOR09aZG1TMDBVT1RWemFJdFdPaEJ6VjBObVN6c0VOS3BYWnMxRVR6WVZkWWRVVld0a2FubGtOcWhtTk5kM1pLOWtibFpYZFg1VU1CMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports Channel", Sony Six
+http://?NUp6YlRsV1cyQm5lcHBtVEtGbGNCVkhiMjhFTjJCVk9XRlRSbjVXUlhkVWV5SjNaQkpHVHZrRFY1TjNaNGwyTlNOWFlpWjNLT0prZHVabGRKcG5ONFpXUmpOblpPNW1TMU5YVHpBSGJQUlZZM2tEUjZSa2RrcDBadXgyUWlKa05yUkRkQlZEVENsVVluUldNMzFHUnlVM1p0VjNReUZrYlFoRU1pSlVTejFXWUtSbmNGcDJUVmgwUUtGemQ0b1hkM0kyVnFGM2RyWUZWRHAzWXdObFp2RlZjNlpWU2hOak1veDJWMWRETjVZblZMSkZkNEVrZXg5VVpCRldjdzEyTWtGVE53bDJNUGxrUnBwMmJqRlZNR2RVV3Q5eVZIRmxUbGxXUldWRFJvSkRlcmNHZElabFNuMVdRMUZIY3pnV1Ywb21iTWRtYXJGalNSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Sports Channel", Sony Ten 1
+http://?ekp6YlRsV1cyUm5lcHBtVEtGMVpCVkhiMjhFTnlCVk9XRlRSbmRYUlhkVWV5SlhkQkpHVHZrRFZ6TjNaNGwyTlNaWFlpWjNLT0pVZHVabGRKcG5OdVpXUmpOblpPMW1TMU5YVFBaMWRHWmpSVWwzY3BkbmJSUldkQ1ZYZDM5RU4zSWtjd2gyYXdZRlR3SmtNU1oxU3RsbmMzc1NWcmdUZDZsalNyTTFNMmx6WjFzeVJxOVdOSlpFVDNNV2RUZHpVcVpqTjExbVlucDFLcnNtYjVSRlNYSjFaUWhFTTZCelV4SmtWMFltZG5wMlFZOW1NR2RVZDRvM1JWRjJOMEpEVzJrWE9SQjNLc3htZTBkM2FpWkVhMWQzUTNkSGNqeFVSMkpuTlBGbFl3UURheHNtTVdobU4yOUdidmxVZXhOWFd1SjBMR2wwYnpvVlVCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Sports Channel", Sony Ten 2
+http://?NEp6YlRsV1cySm5lcHBtVEtGRmVCVkhiMjhFTjRCVk9XRlRSbnBYUlhkVWV5SlhhQkpHVHZrRFYxTjNaNGwyTlNWWFlpWjNLT0owYnVabGRKcG5OclpXUmpOblpPdG1TMU5YVFFKRGFZdGlTUUYwWnFsek5DbEhacmRuUVNOek1aSlRjS3AzY01GVFpxMW1jbFJHU3Y4bVNxVjNhemRqYzNOM1JobDBTMjEwUUJOMGF3QTNMS1p6VlZ0aWFGMVViNTVHTXR4VU5MMVVadjgyY2FWSGF1WldjVUpVUkVGalQ1bEZSdVJrYUQ1bVQzc0VXcmMwYWtWa2U1UlhSMGwzVW9SMlVrRjNZQlp6U1FKa2U1VjJTemtrVm5GelpJaFViNFVuTkZGWFFxcEdidk5IYkVwa2V5bHpUREZIT0w5MllLbDBUSXAyYnVkRlRSMVRQ
+#EXTINF: -1 tvg-logo="https://skytv.com.np/admin/uploads/channel_image/98.jpg" group-title="Sports Channel", Sony Ten 3
+http://?dUp6YlRsV1cyQm5lcHBtVEtGVmVCVkhiMjhFTnhCVk9XRlRSblpYUlhkVWV5Sm5hQkpHVHZrRFZuTjNaNGwyTlM5V1lpWjNLT0pVYXVabGRKcG5OeVpXUmpOblpPbG1TMU5YVDRVV2J3cEZiU2QzWjJkVVd4MUVNRmxIVEJGWGVvTm1hdjkwTlZwVk41RjBRRXRXWVFsbWVWaDJjNFZrZFJ0VWRCcG1VNk5qUTFGMlRReFdPcEZUWlVSMVpKbFhXeFpFWjJoMExTWjFjV2gzUUtkRlZ4cDJjejhXTTNRMVN2bFhhYWR6VFhkWGNDbGpiemRXY0xWRU81aFVXdnBXUXV4MFFFWjNLM0VXUXJFbWRTTm1TbEpHWndobWFaQkhiRTlXY3Q1V1ZzTjJhdm9VVG1GVFRzUjBSRWxVUkdWWE15QkhUUXBVZUZwMFFSMVRQ
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/detail/372-3722669_star-sports-1-live-streaming-high-quality-star.png" group-title="Sports Channel", Star Sports 1
+http://?ekp6YlRsV1cyOW1lcHBtVEtGRmRCVkhiMjhFTndCVk9XRlRSbjlXUlhkVWV5SlhjQkpHVHZrRFY2TjNaNGwyTlNkV1lpWjNLT0prYXVabGRKcG5OcFpXUmpOblpPTm5TMU5YVENoVGRWSm5SNWgwUTFSblY1ZzBaaTFHTzJJRmF5cDJieEpqV2lGbFM0bFRVNmQxYmtsV1RZNTJhMGtYYjRsMVozSnpZeGRUYklaV05PaDJiSEYyU3JNSGFqRjNRajlVWjY5RVo1bHphSXBYWTRobk5sUjBjdjh5YWk1V1R2UldUTTVtY0twSE15UVZRSWxGYU5aRVZvcGtOdmhqWXhWWFIwZzNRMXNVYjM1MmJYZGtReVVGVjZKMFZMRkRVbEJIV2hOVmFzZDFkVEptVjU1MGRvVlRiT3RrUWh4R09JaERkWloxZHpORmVSMVRQ
+#EXTINF: -1 tvg-logo="https://www.pngjoy.com/pngm/952/11033345_india-cricket-logo-star-sports-2-logo-png.png" group-title="Sports Channel", Star Sports 2
+http://?NUp6YlRsV1cyNW1lcHBtVEtGVmFCVkhiMjhFTjVCVk9XRlRSblpYUlhkVWV5SlhjQkpHVHZrRFZuTjNaNGwyTlNwV1lpWjNLT0pVYXVabGRKcG5OcVpXUmpOblpPcG5TMU5YVFlOVGFvdFdaNWtUVXpoVlZxTjNNWE5uYXdWVVZ2cGtlSHBFTnBsVVd2UkVNemRsUnZBWFlZWjBTQzFVYTM5Mk40RkRTd2hXZU1oMVpYRkhkMFUyTUxkVGVvdFNPUk5sTTBaek5DaGpXdGRHZFlOSFU1aERjSVpuYVdGVE14NUdPMkVIVDBzR2VEaEhUQmxFZWl4a1YwaHpRcFJUUjExR2FGQm5jd0FWWm85VWFDbHpZUjltVnVSalcwUWtNVGgzUnhjMWJIZFhjRmxsYTA0a1Z1RkRPYWxuYjRaSE9zUlZRMlFYZVZWR1QzMVRQ
+#EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports Channel", Star Sports Select 1
+http://?Mkp6YlRsV1cyZG5lcHBtVEtGMWRCVkhiMjhFTnBCVk9XRlRSbmhYUlhkVWV5SjNjQkpHVHZrRFYwTjNaNGwyTlNKWFlpWjNLT0pVYXVabGRKcG5OdVpXUmpOblpPUm5TMU5YVGtGbGJ2WjNTaVp6WjJKR2VzTmpjWjlHVWxwMlZpTmxjNGwwWlpSbVR0bGxNb05HYk5oblExTUhTSmhUZWlablE0VnpMeXRHTTM0MGQ2ZG1aNGhIZDRRVmF0Wm5VVkZ6UTVwR1M1ZGxUWTFHUmFGVFpoTkZhaFYzVDNGVVNuRkhUYWxYU3dwWFVtWlVTMTlpYTZGMFFHOW1kNFZqWnAxRVpCRlhUeUZuZWFkRmF4d1VXaFJrTXZCSGUxZEZiVEJuUllOMVlNUm1lbWxHYWtkVlR5RnpSRDl5YVFablJFZERTeEV6YTFCVmRSMVRQ
+#EXTINF: -1 tvg-logo="https://kccl.tv/sites/default/files/star%20sports%20select%202%20hd.png" group-title="Sports Channel", Star Sports Select 2
+http://?bkp6YlRsV1cyMW1lcHBtVEtGRmRCVkhiMjhFTjFCVk9XRlRSbnRXUlhkVWV5SjNjQkpHVHZrRFZ5TjNaNGwyTlNKWFlpWjNLT0owZHVabGRKcG5ONVpXUmpOblpPeG1TMU5YVHJsR2Q1azJWU2xqYXhaRU1rbFZiMGxuU3hvRWF4SlZiUDFXUndWVU4yRkdieE0wWTUxMlZMVkRUeUVIYnNwMEtPSkRUeVpHTTVFV2FaWm5TWEZ6VVdwbWNtRkRTcVZFTXRSR1dyb2tVdUYzUzBJV1dacDJid2MzYjBWbVNybGpkUGgxZGpWWFZDTjNSVU5VZHhJbGRGZFVRMVZWTXV4a1ZTNUdSdnRDU01ObmV5QTFMNk5sVDVCVFVPWkRTMWdHVHJ0MFpTaDNkU2REWnh0eVNxbERlSE5YVVZCM1o2UjJhSEIzZFp0eVluMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports Channel", T Sports
+http://?NEp6YlRsV1cyZG5lcHBtVEtGMVpCVkhiMjhFTm9CVk9XRlRSbnRXUlhkVWV5SlhhQkpHVHZrRFZ3TjNaNGwyTlNoV1lpWjNLT0pFZHVabGRKcG5Od1pXUmpOblpPeG1TMU5YVHFaRGJ2OW1RdmxWUTRSM016WVhVbUYzZHdna1FWbHpaaE56Vk5GMGFyNTJkTGhFTUJ0V1k2SnpMQmhqYnBkRFpwdFdjNkIzU0RsV05wZEdkdGwzTjRwa2VyaDNLMUlIZHhOa1JGNUdNaFpuTXRKMWNzOW1kaFZVWnFSSE1vbDJjMmRsZDR4MlVzaG1jcmxUZVhKbGNhRjJVb2xYUmE1VWV1eFdlbmgzYTJsRmU1VVZUaTVrZW9GMFZGWkdaVjlHTTJRSFRsbFRkUVpWTnVKRU01OWtONU5XTjRzbWF3bGxVVkJIYm94MFlCMVRQ
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png" group-title="Sports Channel", Ten Sports
+http://?cUp6YlRsV1cyaG1lcHBtVEtGbGFCVkhiMjhFTnpCVk9XRlRSbnBYUlhkVWV5Sm5hQkpHVHZrRFZ1TjNaNGwyTlNwWFlpWjNLT0owYnVabGRKcG5OclpXUmpOblpPcG5TMU5YVG1CelpVdENVa1ZrWm5oRVZ4bzFVV2hHVHlnVlRMcFhjc05rYUJOMmQ0RlVZMU1GVGlwWE5JZDFLYUJEY0NSRU8xb25SblZGWjZSVE5yWjNNeEUzS1pCM2FOVkdUaFYyVW9GMGFQQlhRRGhYVDFWVU41SjFkYVJGV0taelN3QkRSeHhrWms5V2NxSkZaRVpYZWpSRk1DUldPNlIwTXpSbVl5TVhPa3hrU0NwRWFXRldTNGczVjRKRGJ6QWpUQzVHVklwMWNrQkhlVWREVnVsWFk1VlRPRmhFY0U5MlEwVlRaVFZtYUJwWGRuMVRQ
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/857130996499722241/n1sI-sPl.jpg" group-title="Music Channel", 7 S Music
+http://?dHQwTVZ4MFl5UjNkdHhHT3Q1a2IyWVdiMmNIV3AxbVNSSkRiaWhXVnVkVVEwRXpkU1IyUm5OMlR0QnpWdFpFUlRkWFR6dG1VNEl6YkRaV2J4QWpSNjlrYzU4V1JNZG1VelFtZURSMWJhRnpWNlZHU25sa1ZKOUdiNnRtVXc5MlI2UmxkMjFVV05Gak0yRjBSMUVFYzE4V1dONTJMb2wyYW9aRFpobGtXekZWVnBGa2Vyb0hXdlprWkQ1MGJZNWtUUHRTUTNabGU0SUdaU0puZTNsVE1IVjNhMkVXU250RVQ2SkRSWXhVVFMxR1dZZFhjTXBWY3RSVVJyRVRab1ZuVWFkMlQxb25aWUYwUVFGRGJoUlhkS3QyYnhSMkwyMTBjMmNIU3ZOV2VyTTFkVGhGYUxOemNxZDJieWdUV2h0bVN3TmphM0ZsYjNGbU5EWjJhcUJuVndWMExHaFhkaDkwVWF4bWNGaDJZeWwxUm9OV1A=
+#EXTINF: -1 tvg-logo="https://n7.nextpng.com/sticker-png/58/527/sticker-png-pakistan-8xm-television-channel-streaming-media-non-stop-miscellaneous-television-text-logo.png" group-title="Music Channel", 8XM
+http://?PUVuU3pBbFRERlRjdzhtTk1GamJ0TmtNMWNYTkdCWGJXaGpNTVoxWjJoR1c0MTJWNlZETTFRMlJCMUdNUHRVY3dRRWQzWkRiU3BYVzBoRmRRQkRWMDRXYXJRM0t4VjFjbXRpUjJzMk4yZDFMd0ZtYWhoblZEWldNNU1qZFRGMWRWUjJkc04zTHdjMGNMZEdiTFoxVEsxa2RJOXlTQ3QyYXhaVlNxZGpkekpITlVkR2UxZzJhTEZsVTQ0RVVybDNSRFIyS1psR1VxOWtXU3RpZW9GalV2MWtaeEpXZUJKVFRMbDJhdEpVYzF0eWNhSlhiMkVtUzJsRWFabFhPaXBYZDRJMFphTm5jcnQyVk5kbld4VjNhd1UyS3ZGM1FFRnpadmxYY3lWbmJyTW1O
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", 9x Jalwa
+http://?M0pXTWpSVVdpUjNaeXNHYjVVRmNNeG1TeXcwWjJsRGRucGtUMGgyTnJOR1N5RlhheklHYnlFRFVxSm5NeWxVU0dkR2E1VlRiRUpIYnRWelVVaHpaMnAwZFQ5MFJpaDNhdDkwTjQwVWNDZEVidmQyTG9GbVR0SkZaR1IzU1NKVWN2cGxkT05qVXJwa1MzcDJZb0pWYnAxMlNtZDNjeWRYYkRORFZsbDBWb0ZHT3pwVVZTeFdUelEwYnpNMWRNcEVUd3RTYnhKVVVyUlVOMThHVXZnRmVYVmxiUHBYV3ZzbVk1WmtWYVJtWXRWbmV4OUNXd00xYklGRWN2TlRNb3R5YXBwRldLcG5UeEF6YUdOV2RSVldlaDFXUnZGRVdFZGpVVmRXVGpWbVVqcFdid1ZXYmFSRGVvZDJhRkZWZHhjMmRISlZjcmdFZDRsRk5CMVRQ
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", 9X Tashan
+http://?NkpXTWpSVVdpVjNaeXNHYjVVMWJNeG1TeXcwWnZsRGRucGtUMFozTnJOR1N5RjNieklHYnlFRFV6Sm5NeWxVU0dKbmFKTjFNalJ6YWtkV1Z6TmxhdVJtWnRabFVSMVdVWVJWV0RCVmNvbGtWdWRtVTZGWE9SRlhUWXAzVklKV1V2MGtidlEyWnJwR2EyeDBTTE56WnhzMllxcFZhWWgyZEtsbk1CSjNNMGR6ZHlOblR5eDJOdU4wUzFvV2RJaG1kalZsYW54VU8xVkhhVFZYYkxKWGNKUlZkT1YwVDZwMVU0bEZUM2huY1hObloxMTBUWU5FZU1obmN3cDNMNXBrTWtwa1kxNTJkMk1EVTFRVWJXcG1jemxXT25wV1VvSjFZNE5YYTJBek5DWlVheHRDUjZSMU54OW1iemxrVXc1R01vUkRST2xGY3lrMlpCMVRQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="Music Channel", 9x Tashan
+http://?cEpXTWpSVVdpVjNaeXNHYjVVbGJNeG1TeXcwWjRsRGRucGtUMHgyTnJOR1N5RkhleklHYnlFRFVySm5NeWxVU0dkbmFKTjFNalJEY2tkV1Z6TmxhNFJtWnRabFVScFhVWVJWV0RCRmVvbGtWdWRtVTFGWE9SRlhUWTkyVklKV1V2MFVjdlEyWnJwR2E1eDBTTE56WnhRM1lxcFZhWWhtZEtsbk1CSjNNd2R6ZHlOblR5QjNOdU4wUzFvbWNJaG1kalZsYXR4VU8xVkhhVHBXYkxKWGNKUjFaT1YwVDZwMVVxbEZUM2huY1g1bVoxMTBUWU5rYU1obmN3cDNMeXBrTWtwa1kxTjNkMk1EVTFRa2JXcG1jemxXT3FwV1VvSjFZNE5YYTJBek5DWlVieHRDUjZSMU5xOW1iemxrVXdWSE1vUkRST2wxY3lrMlpCMVRQ
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", 9xm
+http://?PXNHUnFSbmEzMGthazlTVk85RU50bERjUnBYVW5sMmRhQlhZeGxWZUhwR1IxWW5WdzFFT1FWMUtGWlhVd0lIVEhkMFo0WmphNE5tYzROR2F1dGlNSUZYWWFkMGNSbFZlRWRVWmh4MlEzaFhlWlptYlN4Mlk0TkZVNG8zYXhSWE53aGtjc0puVXlnR2JVaG5ieU1ET1JKMGFTUjJaeXBtZHdSM1RaUm1Ud1puWmFwWFZyZEhlMUZGVXlrRFoyTjFLV3BHT2tCM2NOZFZZdVZrZU14MmFKTlRkclYwWUNCVGJSZFdZNFJYZVFobmJKRmtldmt6VHVsbllvRm1WenMyY3Rwa1RSNWtkQ0ZqTk1Wak4xaFVOanRXY3g0V1l5WW5hS1pHY0tkMWNxSkdUblpuU0NoallTcG1NMWhUZHpkRGJoVm1jT1IzWnBWVlJCVkhNaEJIZWpGbGVobHpadkF6YnJRSFZycFdhdEZVT2xaWE95SlVUdnBsYXJaelIzRkhkcGgzTnA1MktybFhNM3RpYw==
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", B4U Kadak
+http://?dHQwTVZ4MFl5ZDNkdHhHT3Q1MFoyWVdiMmNIVzAxbVNSaFhUYVJYZXNaR1YzUmpjMUprU09abmFvdHlMWTFHZG1OWGVDVlhTMkF6YURSRmN0bGphNEZIZTBZMlV4QkhSNGdsVkIxa2RyOVNZMGgwUXVKa1ZDZGxNTmxXWUZGVFFaaFRhRnAyVkt0eVlvcEZSWDVFVU1WM01xVldhbmwyWkt0bVF0SjFSdFIwZE1wRk1sbFdSUXRTWU1aMmRWNTBjMGxuTjI5MlFxZG1jaXAyYTRZMk14VVhjTFowVE1GRE41eGtTTUZEV3c5bVQwcG5SdmNHY3k4eVIxWmpSemx6UUdwbGFobFhkakIxZDBOMmJ6RlhTNFpVZW5wblRzZGpTcWhuZXhVa1NYQm5hSlJYWXZCRk95eDJUMUZGTmlaM05CVmticjQwYW10MFZMVmpXMzVXZG1KRk41YzNLSzFFTXBwa2M1bzFjTmxWVndSVFA=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/alJj9sb.jpg" group-title="Music Channel", Boogle Bollywood
+http://?PXcyWVRCVk9tOUNhd2RrV3BSRmV0ZDJUT05YWlNGWFJwVldSRzVrZEVKamNPbEROcVpGT3NsRE5WaG1jc0ZFT1VobGNQRkVaWFZqTjZablpFZFZVSXBIVUt0aWR5MEdhNVowWjJSMVluMTJjM1JWWXdJWFRoaG5VRE5EYk1kbmFSMVdadzlHYndWM1JLOUdONGNHVXpkMVoyd2thNk5FY3g5U2F2SjBSbFpuWTI1a1ROTkhiMXNVTXprMWJ5bDNUWWRuTTVVSGN1UkdUMWxYZU5wbllHTm5jcnhHVklGamJOZEhWbmQxU3dZV2VsUlVOeFJsTTZCalRUZG5kRFpYT3g4MlYyMTBjUk5rUllSRVV5WlZaTVZETzNGbk40NVVacXRDY3dKVVdtZFhWcDFHUnZNM1l6ZzNRbFozVjRnWGR0WmtNbTlpVDR4bWEwTXpaNFFuYTUwMmJQSldla04xYlFKamRwdG1OT2h6VjQ5MksyZFZleW9XYXpsMWN6VUhjenRVTVYxa1N3b1hPVWhuWQ==
+#EXTINF: -1 tvg-logo="https://batv.gloss.agency/site/wp-content/uploads/2017/06/balogo.png" group-title="Music Channel", Brit Asia TV
+http://?eU5YT3lnbWV0aDJjMlVtVGFoVmF2QkZkNVpuZTJWV1RMbFdVNnRHTzNKelFyQkRjdEptUUVKalk1WkhNRUprWXZkV1kzdDJWeklFYjVKV016aGpaM2huVDVaMVY2QjNWclZVVk9KVGVscFVVNXdtZXJGVmM2aGplcWxYTkxORlJXaEViMFJVT3ZnVU81VlhhaGQyWnZZSGQycFdUb1ptYUtWbFYzSjJZcWxVWWpCbE0wWlhkclVXYU1OV2RFQlZVTGxsWTQ1RVdFMTBadGRtY0xObFc0VUVjdGhGWkRaM040ZEhWRk5YYVFSWGROQmpTVVptZER0R1d3aEdVcUZHZHJaSFNPOTJSdUowUnJBWGFtOXlkS3BWWXU5a00yOTJiVUYzUlZsMlJVQlRkSHRTZHh0R1ZwdEdiM1lYV1ZWSFNUZDFWeGNFYU1aelZSMVRQ
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Cine Voice
+http://?NDlDVUNKVGNvcEhTWmhtYUc5R2E0NFVaU1oxTHRSRVd3azNjWFZIUjNvSGRIMWthb1ZUTklGa1pzbDBjWFZVUXdwM1lRbGtXangwWng5MlJ4dFVSMWRrV3Q1MGJTeFdkRkJqVktORWNxOUNSVkoyWno1bVRRWlVZcXgyVExKVE9CcFdkdlpXYkRsa1IxUmpheXRHZFhwMllPOW1hdFpuYjBBSGUySUZXcnBXVTRZVVM1WTNLcmxWYVhWWGNUUjJRQk5sU3ROV2VyOVdkSjFXUkJaRGJUcFdjNHRHZHZzMGRvQkRNM01WUWFkM1NXVldUT1IzWjNGa1pwSlRTMkZIU0VaWGFIdEdPNHNpUTBjMGRVcGtiR2xXV3lKVWV2Z25lUEIzWTFBbmFFTldlQlZIZFpOVFpzSldUczEyYnoxR2N4TWtRTkpXYndaM2RocDFRcmhrTjJZWE1CWm5TNTBtUjNRV2M0SWxUS2RXY3h0V1A=
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Desi Channel
+http://?eTlDVUNKVGNvNUdTWmhtYUc5bWE0NFVaU1oxTDRSRVd3UXpjVDVtVHdKMlJuSkdlRDkwY1lGMWR0VkdicndVVDJOM01QdGtiTlpXZUwxa2FYOVVZNWxETWpoRFZNbG1idGxtVVVOR2JXUjFiTU4yVXNOa1N2WTBRbzFtVW50bWMwUlZlSGhWZFg1RWUxVkRTeWNrVXRoM1NyY1RScFJEZVNobU1HSkVTM1ozYnBkR2EyeG1RM3NFTzBSbGJ6a0dNNHNVZXR4VVNyaFdXM2dIVUpabVpxZFdiS0ZUTkVKVWU1QkZWMDBtZU9GM1pFbG1jMGhsYkRaMGJFbEZadUpsTVM1MFVUMW1TNE1VYndwVWVUTkZNb05rVXo5aWROWm1OUmRYUTFjWFFRZFhidU5uVVpKekszaFdaVGxIU0s1MlZseGtSTmxEYkhkelFHRm5Zb3BFTnhBSGJVWkhjTWRVYkROR2Q2TldSVFoxYXFWVVA=
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Dil SE
+http://?PXdXWXpBMWRMaFZlTHBtUXExMFp1WjJVMThtTXZobWF5RkRkeEZHY3M5aVUxZEhUdUIxVTFWbmV5azJWellWVGpCbGNNZDJVQzkySzRKV09DOWlOSGRtTXprMmRYdFVlRGRUWkVoaloycFdZeFFEU1VsM2FMQkRlbGhsYUtkRWRINTJLcWhWUU1KV2VTVm5keGMxYTVWa2FPVm5TblZWV3RoVk41TmpTSnhXY1paVE1tUkZhSWxtWk5oMVM1ZHphRHhrY0k5R2RwZEdVdEptY3c4MkxMcEZWb0JqTnFabFUzUjNUeFJIVXpna2FxWkVSNDBVTXVGVVY0VTNhMWdtVEJaSFJvZDFkek0xTVZkVGR3WmtUTTlTZEd0MmNuVjJkUGxYZTVkWFVXcDFW
+#EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/e24-tv-channel-logo-300x300.jpg" group-title="Music Channel", E24
+http://?PXNtU3pBbFRERnpadzhtTk1GamIxTmtNMWNYTkdGWGJXaGpNTVpWYjJoR1c0MTJWMVZETTFRMlJCMUdNUHRVY3dRVWMzMVVaWGxUVnhSa1VJUmplbVpYUkhkMVNsTmpld3R5VUtSemF5TmxZUmQxWlJKM1p3a1RibHhXY3laamNsTmxOblJqV3dBVFpvbG5XMk1UWjRzR2F6bFZOQlZFY3NoVmVsSm5Vd1FYUXZSWGRWNW1jNGRYYnNaalUxQkZiVjl5ZEZwM2J5RVRPU05rY3lkelZUQmxjenBrVTNoa1lSaG1RczlVV1ZWVWNQQmxNVTkySzZSMWJYeEdNeXgyVG1oMFM0TmplRTUwZEZGemFuZDJNdFpqWXFKWFpFWkZad1JXYTNVRlZKVjNh
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Express
+http://?NTlHVjRNV1JRcEdUR0ZtTUhkbGF5QjNkMklIZHFwSGFMWjFTMWxtYlo5Q2VhcGxjS3BVZFpoMFR1bDNUMHRTZXkxbU1IUlVVb0JqY1NwblVXOXlWcTFVY2xaM1R6bFhRMlYwTXdCRGI1QTNkcXBVT3FaRVRKUmxkeWczUVNoelR2ZzBkcE4yZEtoMWM1dFdPVTUwZElwbVRFbDJUSEJWYzFkbFk1UmxUeEprWnJGMWJTcG5idnRDYU5Ka2JRVlZkV1JUY29OVVd6WVRVdkFYTlNwbmNuQlRhM1pUVzFVME0zQjFWeFVHVzI4R1pIRkRjdU5UZURSVU0yNEVkNmxIU1FaSE13ZFhUcmxsZElSM2RYRlZSTkZYWTVCamU0SkVhelJuV25SR1ZSTjBabWRVWm9WelN0MUViTXhXWndjR2JyY1hjME56ZDBWR1J3ZEZPMVJGYjNVVmRpSlhWTWwyTHBoM1oycEhPbk5qYjIxVVA=
+#EXTINF: -1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288" group-title="Music Channel", Gaan Bangla
+http://?b0p6YlRsV1cyMW1lcHBtVEtGVmNCVkhiMjhFTm5CVk9XRlRSbnhXUlhkVWV5SlhlQkpHVHZrRFY1TjNaNGwyTlN4V1lpWjNLT0prY3VabGRKcG5OcFpXUmpOblpPdG1TMU5YVE1sRWN4WjNLWGRHVHB0R01pcEdjV2hXYVg1Mkt2WlhkdnBYWkVaamQ1dGlaYVJqVnQ1V040RTBWNWtYYlloblpTbDJaNE5GV0xkRGFRUm5TVWhIUnBGbWN4Um1Sa3RDV29OMkswMTJWV3RHYnJVa2VDSlZlcFJHTklGR040ZEdPdmtEUzR4bVMxZ0RkcTFtZVFkRlZySVVTc1pqTlpGbFpYaEhXNW9IY0hGbmNoNVVWWUZWYjFkWGRxaFhUT0YzVTFGV1pxcFhiSE56ZEkxMlRuVjNja2wxVnBSSGExb1dhMGRsYnhOVWMzMVRQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Music Channel", Gabruu TV
+http://?PWdIWmxkRGJJZERiNjFtYmxSek4yVmxiQ3BIYUJoM0wwSTNaeEZUZGlOVU15a25VMHRVWlJsRmFvcEdVc0pWVzAxbWRSaFRldjhrUXZsRk1MUmtUS0ozU0taVGUySm1ibEZ6VXZRSGQyaEVOeEpWUVpwM0xGdHljeEpXYnFoM2N4WTFZM3BHZWtaemNOdDJjcmhrZTZ4RWVITlVleFZFVW5abFU2bDFVcDVXT2pWRFZzRkZlVGQzVE1kemFzaFZTMXNDYVZoSE1WWjBRekJqYjVjMUx4cFdNcVJsUUNwR1UzQjNVWWRXTVRaMWNSUlVUdmdUUzRWa05zbFhOT2hYUUxkWFNvSkhlUEJIUm10V1VzWjNZVUZWZTBzMk4zSm5ScTUyYlRaR1J1Wm5a
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1VlArCc.png" group-title="Music Channel", GEM Arabia
+http://?eTEwWkh4MFQzODJNd2hETTFNa2NNWkhTMVJXWXZaME00NEVTbWxXVVJOVVFYQlRjMWdYVFlGR04wWkVWUDUwUjU0MlpKTjBNdHhXYjY1R2NNTmpRek5tTnRsemR5NG1VSkZUYll4RWVzRnpLdkJuZXRWVVF1VjJielZYZU5CRlJySkdhNXBtYXZNak12NVVOeUIxZHY5R09rNVdVdjRHZG45aVJUZDBickZWUW5wRU14SW5SRDFHUnVWbWVEeG1UU2xrYXBGRFVCcDFVR2xIVTFsVVpWbG5jemtsV0NwRVQxeDJaWFJrZUpsR2VVNVdkVWRHYlhwRVd5UW5VcE4zYkY5Mll4SkhhdVIwZHdwbGNGOVNXWDFFVjNGMlZ4OGtNTHgyTnZRMU5FcEdjcUZtVHpsbGIyTjNaUloyTXkxbWJ5VVVjSzFXZEhoVmNCMVRQ
+#EXTINF: -1 tvg-logo="https://www.jhanjartvindia.com/images/Jhanjar_Logo.png" group-title="Music Channel", Jhanjar HD
+http://?PW9XTzBvVk9HWkVjQ1JEWnlVblNyOTBUc3hXV0JkMlVqOVVUcGhGZHZNMkx4bGtjb1oxYzBZWE1QUlhZbVJuWU5sVWIxUjFZanR5Y3lSbWM0dHlUb3RXVnlJMVRJdDBjMUIzZFZWVlR5aDNkWkJuV1lGWGRCaFZhU0ZYZGhKRVN1eGtldFJWT1Fkekw1WW5ZR0ZuZE9oa2V2VXpSTmxUT290bVo1WjFRdGhIZFNGamRzOUVjd01UT09sVVlvTkRlTnBrZUNoR1M0RkZkRmgzWjNza1laeDBTNWxYVmtKelozNW1UelJWWW5GMFoyNG1UNGgxUzRGM2J6UUZWSFpYVHNoV2N6bzJhd3BGUjUwRVI2bHpWeE1GVEZobU1MUmxURU5qYUxaa1lVcDFS
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music Channel", Jhanjar Music
+http://?NGxETmFsalJHRm5RMFFtTTFwa2RQOUVic2xWUXFOMVlQMVVhWWQyTGo5U2NKSkhhV05ITjJGelRvRm1aMEpXVEpwV2RZOXljTDlrYXk4V1VFaFdXb2wxS3lZalM0RW5ZSHgwUWlaemF6MFdieVJGVnA1VU1VcDJSeTFHUzNoVmVxVldlVUJWTnU1VWJwWkVORWhXYVdwMmROMVdObE5HZEpOR2RYbG5RMUprWUZSVE9RbDJkdkExS2g1bWI2aHpSM01UVjNkMVk2TkhONXdHY1BGRlpueGtjb2wzVVBabk1vQkhTMk1VTlRwbVd1WmpSTFZGYXBKelV3bzNWdGhXZFhkSFROZEdVNE16UnMxRWMyTXpSV0JqZXFCVFlXWlhSeGxYTm1SVlJhbGtlWkZYVzBNVmJ3TldiemtEV3ExbWQwZGpOTGR6ZHZFVldSMVRQ
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music Channel", Kadak Hits
+http://?cUYyTVFkM1NZVjNTcUprYU5kV2RtTlZOdkp6YnhwbWN4UVhjaHBIYnZJVmQzeEVlUU5WZDFwbk1xZDFNVzEwWVExbVNvWnpadHhHZGlSWGRZSlhXdVZVVFZ0Q1Y0Y1hOTUZEY0NSamJtMTBWdVJITjN4RVdMaGxTeHcyUkwxRU1KeGtla2htYjJsblF4OWlSTnAyUk5GblNZcEZjdjVtZDJKbFJGSkRNeDkyZEVwRk11OVdlUGhrUzBJbmRpbERkeEluTTNKRFNWSjFaMGQzTkpCM1JQOUVhMFYxVjVFVVVxWlVhWXhFV3VsV1RyOGthakZWYk10R1RTZDFNeUJWVm1SMWJSVlhXSEpXUnJSM2FYVm5Oc1oyYnk5aVo1ZEdaQzVHU3lsemJ2TVViUnAzUkNObmV3WmxhVUZYUXdFM0tvTjFkcHRVY0haRlNuMVRQ
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Mastiii
+http://?cHQwTVZ4MFl5NTJkdHhHT3Q1MGIyWVdiMmNIV3IxbVNSbG5VTHBXV3dWME5wbEVkU0JUYTM0VVR3NUdVMUUxS1E5Mk53ZHpZdkYwYXhjSFd2UUdibkZsVU5OWFFpdDJWR0pIY1poM2JydFVWSTlXVTBSVlNCcDBOVUIzWVdWWFlPOTBjVDFXVVRoRk15aEdVcFJUYlpSM1l4RlVaUWgxYTFnMVJSaDBkM1oxTVY1bVJ4Z25UdE4wTnBWWGJxWkZWeVpqYXpSMWRocGtWcWRtTjNJM1YwY1ZhYXhrWXp4MlMxbDBiamhIYkhkWFRIcG1ieEVrZXZjMmQzczJNcHAyUU9GRE12ZzJVNGdXZUJsbWNaRm5aSGhsV3VSVFVQRmxVdGhuUUtaa1I0ZGpkQzFXZHd0V05wOXliMEoyU00xV1k1bGtTT2hVZU90V1NSMVRQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music Channel", MTV
+http://?MmgwTkRwbVNvaDJRNGxUU1RoM2Q1RURaaFp6ZDJwMGN2TTFLMWNYWTNVMGN5VkVjaHhFU1hkamR4RjFUbFZqZVdObk1CUlZNcGRGY2tOM052RW5jM2hIT2lKRE00NDJVbFJYU2hsR2Uyc1dVc0ZuUnZoR1N6UmpNbnRHYTVsRVJOTkRlcjVHUzQ0MlN0SlVSUFIzUnFoSFVZcG5TcGgwY0ZSVWJ2RVhPcHBXWjZWWGVsZG5SNEFYZDQ5bWRYVkdNd3NrUXZ0U1N3RkZVR05YY3ZkRmE0cEZhVkZUWk5kRE8xRjFiSk5WYXp4V08xbGxRMnBWZDA0V1ZIRm1TbkZrV09CamJybDNZMTQyUXVSMFp2dDJOenBtUXdsVmFSSlhaeVJIT0haR1paMVdiVHhVTUtGRmN5cGtSRE5VYXhzMlVLMW1aNGtFYVlKMVpCMVRQ
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/M/music-box-russia-logo-6A5FA79FB5-seeklogo.com.png" group-title="Music Channel", Music Box Russia
+http://?PVFuU3pBbFRERnpkdzhtTk1GamIzTmtNMWNYTkdoV2JXaGpNTVpsZTJoR1c0MTJWdlZETTFRMlJCQkhNUHRVY3dRRWU2TnpOckluTnZKVmRySlRjMlFYYVY1MExaTkRkMEpsZXZGRVQ1bGpVaEZEZVNobmNLSkVVMHRpYnhvMmI1OFNjcFIxY1JGRE1hWlhPU1JGT3hvRmN3UVVPeVZUVDJkMFE1bDFkUnBHVDJ0V09aTlZha2hVWVI5Q1VxSmxXUWRVUjJvV2FuRlZicDEwYkRWelVsZFhScGwwZGlCVlJJWjNMbWhtYVhOWGIzc1ViajFtTW9SM1Z4QWpVajVXVFdkMWEwazBhR3BFVFpGRFY0VkRSWTEyTm05V2I0RVVWb0ZGYmpOSFVZWmti
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Music India
+http://?dkpXTWpSVVdpZDJaeXNHYjVVbGRNeG1TeXcwWm9sRGRucGtUMHAzTnJOR1N5RkhkeklHYnlFRFVvSm5NeWxVU0c5bWE1SkZhU0pHY3Jjak5GUjFMeVJIV0VkRlZ4cFdRRVYwVWpsRWJYaERTVk5rZDVOMmJpNWtZSGxtV3ZFVGIySWpkTFpUZEdGR1N6RlRkWmhUU1VsSFpxRjNkSVpGYVpwV1k2NTJUdVpVYllsR1ZDcDJaSGxITWtGMVpyMW1WdDFFUjZaVlR6cGtReG9tYXhFV2VxVjNiRE5tV0doR1J5Tm1ha1JuUUtSWFkzcFdkTUJEY0doVVFyRmtZMWQxTVJ0aVZEOW1VU1ZFVHVGbGU1WVVkR0ZETTZka05PVjBjUHBtV3dJSGNySUhlMnhtZDJOWFdvSjBMd0ZYZTR4V1NhZFVlaEZsY3lvM1RSMVRQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="Music Channel", Music India
+http://?NEpXTWpSVVdpOTJaeXNHYjVVMVpNeG1TeXcwWnRsRGRucGtUMGQzTnJOR1N5RlhheklHYnlFRFVvSm5NeWxVU0dCbmE1SkZhU0ptYnJjak5GUjFMdlJIV0VkRlZ4aFhRRVYwVWpsVWFYaERTVk5rZHpOMmJpNWtZSHhtV3ZFVGIySXphTFpUZEdGR1MzRlRkWmhUU1UxR1pxRjNkSVpGYVpwV1k2NTJUMlpVYllsR1ZDTjNaSGxITWtGRmRyMW1WdDFFUndaVlR6cGtReFluYXhFV2VxVlhlRE5tV0doR1J5Tm1ha1JuUUt4V1kzcFdkTUJ6WkdoVVFyRmtZbmQxTVJ0aVZESm5VU1ZFVHVGMVo1WVVkR0ZETXlka05PVjBjUFJuV3dJSGNySVhlMnhtZDJOWFdvSjBMd0ZYZTROWFNhZFVlaEZsZXlvM1RSMVRQ
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/0gsamt5l40x1qgo/Music%20Top.png?raw=1" group-title="Music Channel", Music Top
+http://?NFpIU0RSM013dzJUekpVVXlWR2R6RWpVelIzZDVka1E1UUZkRTEyVWxoemJDaEVjeEVGV3JvMGRzZEdScmRFUzJBM1RTQmpZWXQwZHJGMFZJOWtScmxUVG9SRVUzUUhWcmxqZDQ4eVoyUm5RMFlGTTA1V1RhUmxZejVHZHFGRGJVSm1kbTFVVlhwa000SlRWbFoxYW4xbWNqUlRPNUpuY0toRWIyRm1jMVpEVkoxMk0wOUdTNDBXTlVWMlpqNUVaejFtTnVsbFcyWVhZMGNuYnpaektrMVVld1ZFTTQ5bVF6QnpkNThDY0hsV1R3aEdXMjh5Y3hGRVMwTm5iNUZuTWgxa1p5WTNSSTFFYjA4RWV3Y1dOMmhsZTRkMUx0SldRcmMyYVBaSGJ5VWxhRkZrVnpKek16WnpWVkpGY09wWE1yRkVUdDVFY1Baa1puMVRQ
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Musik Live
+http://?PVFIU0lkbVEwUkhjTEJqZXZWbWFzSlRld0UwUjZaWE1PQkRWMElEYzA1a2FweEVWMkJUZG1KVmF1ZEdkSmwwUzRnMmNtZFVhdVZsWjNaemN5OWlkVjVHVjBOR2UyUkhkaGgyUmFwRVJ6SkhSd0lsYXA1V1ZqcDFOM1ZXZEw5VVZpVkRONHAxU3FabGVwbDJWREpqWUVwWGJLNWtjdUoxYXlwR1Z3eFVVWkJYVnJRalNIcGtiejhrWnpVV1Y0UkRXTFZUWlJoMk1UcFVjeUFWYTRrRlZXaFdUemQzYUN0VVpVcDNMbnBuVHdkRmJyMDJaMGgyVHhaWGJVQjFUNVpYYnI1VWJtSjNjbHBrV2poVU4wVlhZYVJVZDVZWGJVcFdXNE4wYVBkbVZySUhN
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", One HD Music
+http://?cmxETnlKa2VzbG5jWUpWYm1CRmRucDJMWmgzZDFoRGRPOVdiRGxXTUV0MGNqWjNidmdYUUhoVFQzUnpkcjBHZW1kV1kxY0RNQjlrZFJKMlRQbDJLNHhtWVgxVWJHZEdNekp6TTFFMWMwTkZaMGxrUTVSbE00SWxOUWwzUzRaSFdwVlhjUFZFZHFkRlMzWjNNV3BFV3hzbVlVOVVTcnNFZDJVRGFVVkdleHAyTDVoVk1KNUdVUnhFYmxoVGVNRkZhSVJXTXBWRFpMOWthdE5YWldaMExTTjJiNlJUUjRkVFN3bERVdk4yVjFrV1d6MUVVRWgzY2toVlc2VmpXMlZITjJFRVpqSlhlSFZEVjBCVmFUVm5hdlV6WndaRlNNaFVXc3hHYlZwRU5raFdiTE5XUVJsRlpwbGxVTmhrVDBoSGFJNTBadkZIZGpaV1pSMVRQ
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png" group-title="Music Channel", Pop पटाखा
+http://?dUYyTVFkM1NZaDNTcUprYU5kMlptTlZOdkp6YjNwbWN4UVhjaHBHYnZJVmQzeEVhUU5WZDFwbk1vZDFNVzEwWVFoWFNGbFVOR0JuYkhaRlpGaG5idFpFTzJsRk5RaG5hMDVtUVVsMFpVbFdXTmxEV3pOWFlKMVdZNWhXVDU4MFVPeDBjdzAwTlN0VVlyOTBjaWhEYk5kV1lwZFdaQ3BsYklCSE5sTjNNbjltZVBkVlRyNFdkc1pUUVd4V2FYRjFLSmx6YW5OMmFaaFdNR3AyU3VaVmNSVlhhcXRDVkdOelFuWlRhWEZVTnZoMllQWlRkTHRFZHdnVk5JMTJienRrUzFFM1ltVm5kNU4xUzFRamVZeFVTNmhrZXROVFNWdGtjU2xYVW9KSFVRaG1iMmNtVndZSE4yTmxORUYwSzRjV05XQmpZNmRYYlJobFIzMVRQ
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Public Music
+http://?dHQwTVZ4MFl5MTJkdHhHT3Q1RWIyWVdiMmNIV3QxbVNSZG5OWGhXZUh0R1J5WkhjNEltUXJFa2F1QlZkeE0yVERsV08zVWtlck5VZGFWalpzbFdUeE5uZXlNV1RPNVdNdzEwZDVOWGVNTnpReElVYXRaWE9XZEZlTUpuWnZ3V2RMbGtldFoxVjRSMVp2bFZkRVYyWWF4bVlYQmxZd1psZWtwRWFVWnpab0ZtZFpkVE14NDJMeXdHZG5GRmFyTTJLSUZVTXNsbWJQaDBUT1ZuWjU5a2JwMTBhQ2huVzVNWGQwWjJOMmxHT1c1bVcwY2xTSzVXZUtGVWVadHlNME5XU2xGVU8xWlhaMVoxVVZkVWVRUm5WcWhrVDRwVk1hTkdhUlpYVXhCbFEySjBkQmhtTVZOVVIySnphSWRsY2FoM2F6WWtVck5qZFVWMlpWQkhWelIzUzNVMUxvaDNaVFZUY3k1V2VsTlRUa2hrWjRSVFA=
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Radio Contact
+http://?eTlVTU1kRVV0eFdaREZqUjJRVGJaTkdjWHQyYTRoRWJraFhhbGwyVXdSMWFLOUVlT05GYUg5Q1R5UjJaWmhVVkxkSFppNVVUdk5GY2haWE1zbDBLMXhtWndCbmEwNDJTMXRTVTVFSGJQaFVReGRVVnVKRU9yTlhVa0IzUTN0aU1aWldlM2MzVUJ0aVcwOVViMTFHUnZwbWN1ZEROcE5HYjRCellCZFhZcFJXZHBwV08xa25TUUpWY3lvVWF3NVVSMEZEYjNaV2RYcFhiUmxXZHhoWE1QdENidjAyUkhwWE81bEZNcmhHZHYxR01TSm5XcFZFYU5OMFN4aGpSeUptYld4R09XaFdNemQzYmFoRmN5TkRlbk5XYzJKa1lhZDNTVGhtVjNaVllQVkVkRWxtVFdaRmN1cFhaRFYzWllobVIwRVhiRUZVZVRkM2NuMVRQ
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Ru Tv
+http://?PWdtYkRwa2JMRjBhRkJIY1FoVFUwSjFVU1JuYmlwSFRRVnpSUVpEY08xMkxZTm5aMmxrYTFRak4zZG1UTXBXYnlGMGNqQmpjNElET3dCblFLcG5UTHQyS3BGSFNHVkdhamRVWXBaSFR6QkhhT0JYWWpWM1ZFaDNSc3gyYUdGR2QzWjNOdmgwTHpwbmNrQlhSTzFrTkdWemJMcG5OM2x6TDZOR2U1SkhSRHgyWnRWelNXbEdjSTFHWm9SMFFyWjJSNHNrVFFWM2JVZHpWM0VHZTQwRWFHNVVlMnhFYUc5MkxZcFhiTVpYWVVkVWRIRmxVVXhHVXROWFQzcGtUdEpuWnlNRU9NTnpaS2huVTFRR2NyZEZXYTFFTnZ4MktZTlZkclZEYmF0MFVYUkZh
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", U tv Lives
+http://?PTRXTldaVWNwUjFhNEV6U3hVallwSlZSd1ExWllkR01xSjBkQlJsYWxOV1kzSXpZcUpFY3g4a1kyZ1hWMGNEVDJNbGNrOUdjT0oyY25SalkyWkRNTU4zZHpKa05IcEhkNVpuWVhSV1F6OTBjdlYyTHpjWGFWSjBRc2REY3psRFNZeDBhck5WYndRMlp1Um5kSlZYVEhSVGJORjBSeElXTzJSbmFPVlZaMVYzZHdkSE1hOUdiNVpVT01kRmNyMW1RRUZ6ZDU5R1ZRRkZaUVIxYTUxR2J5aG5ZeGgxVVU1VU11ZDNRa1JuYnk1VWRIWm1TQ1pWWXdKbmV1VjBZS0ZYTnJKVVFXaGpjd0YxWVpObk0xUjBWaGR6UXI1bVZtZEdOaDltYVFKMExxcG1i
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", VH 1
+http://?c1ZtU3gwR2RDMTJTeFVEVDBOVGRNVm5SVUpEZXlwM1pOaDFTNEFuUm5kV2VGRkdkbk5rWXZNa2RuSlRPVkpVVDQwV1N5WmtlMWNHYlNWR1VKZFRVdTlXTlpsRE1VbG5jNjl5TUdsbWRyazFNejlrTnNCamI1STNZeXRtZHZJVlpXZFZibzlFVjJNbk5waFRWVlZEVW1wV1ppNUVkVFp6YTJrVGFSTjJSbmh6YXNOVllMVkhXMlFVWnhaVGRVQkRTdkpYY25sRFZtSjJMVXAzY1QxR01zbFhiNUFEU1dSVVMyTmxjazVrUmFCWFV1bDNZeElqZWg5eVlJWldiNjlXU3JCVk5yZzJZcllEU1pwR2F6ZFRPeFYwWnV0eVRCQlhlanBXWno5U1FPNW1hcmxIT1dSbGV6OXliWmxWVnZwWE5LQmphVWQxYllWM2JTQnpRc0JEYlY1bWFOaG1Xd1lrWmFKM2JyOUVVUEoxU3BSVFA=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music Channel", Wanasah ARB
+http://?PUEzVlZGelpsVm5jb2QwVXhWblJ3SkdSUFYzUVhaSGJRQlRiWXhFYmpGRGUwUjBheUJWU1VkWE1sRm5NenBXWXlvSGNvOXlVWmREWm8xR1Q0RkVXeVVYYXlvMWQxTURhcmNqUW9kRFducGthU1IzUXk0bVpZUmxaellEZW1kVVc1c1VkMU5FYXdzVVJMaDNibmhqVzBaRmM1SVdXdFozUW5kRVZQQlZPNWdtWWs1VWVPWmtlakIzVVVsMlV0TlRaaUp6Yk9aSFVLSjFRbk5FYklORlpqaDJRcUpEVkVabVoxa21RbWRqU0pobGFybGtjdFprUTZGV1paZFdNdmwzTmtwbU5QNTBkTHBHVE5aV2NvOVdNb0IzWTFnM1V1aERhNFlEYUpsbmFuSlRib1JrWXcwa1Q2SjNSMWxtTkRObWFVQmxiQ2hXVXRWelZ6a21WUUZIUnhWa1oySUdlUDVHWnNSMU40NUdkQ2RGTUdsM1lsWmpRcFowZHZka1QxRm5leGhWTW1aSFM0cG5Oc2xYVw==
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/ZeeETCBollywoodLogo.png" group-title="Music Channel", Zee ETC
+http://?PXdtU3pBbFRERlRidzhtTk1GamJyTmtNMWNYTkdCWGJXaGpNTVpGYjJoR1c0MTJWdlZETTFRMlJCNUdNUHRVY3dRRWE1RjNReUVWVHJGa1dYUlVWT2RIYTNwRVpRSm1hTk5HUnJGMmRwWjBjUEYzWW1KM05GaFRRNFEzYm5oRVJTNUVPMTlTUlVSbWFycG1kMTVHZXRWMmQxa2tOU05VYndCSGJKOVVSRjVXUmlGV1dyNFdkSnhHZEpWMFEzaGpka1pYWjF3MlF2ZzFNd1pqZXZkV1JJZFdVdkpXYzJZemI2Rm5ldlpsTTRwRWJtTm5hcVZEUnB4RU1GMVdWQ2RYTzVJbmFLNVVjUGQyVENGM1k2dDJjSXAwYTRnSFcxZFRNWFJ6YkRSMEs2cEdl
+#EXTINF: -1 tvg-logo="" group-title="Music Channel", Zing
+http://?MlJFZVo5Q2J5NEdVNWhFU1NobmFpZGpZNE16WW5oMmRCdFdSMDgyZEZaVFV0RjJkcmcwYXJCbGF6MWtWb2hWUjBvWE8zY0ZkbEZHZE9sVlJHbFVhckpHY0xCVFpDdG1lRFZIVndjVWJMVlZNdHBXTTNCemFsUkVPMXNHYlROMmJVWldjTEZIV3dVM1p6aG5ZQlprZHE5V2NPaEVWaUZVYVVCelFTTjNWelIyWnhFRldXaFhaWUJYWjNVVGRDVmtlcUIzYTJCRFc1Z0ZVRTlXYXB0VWFLaFVlM2czTVRoblIxWkdSNVFIYVVkR01xOVVWU3BtYjJkM1NUVmxic1IyUlJoVmVPOTJRMkVETXpJMFpURmtleVFUUnFwR01RUjJaaU5IZXNkR01oeGtkdnRHVFdCblF3MVViNngyWTFnR1NJMUdPNVVGZURaRGUzMVRQ
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Music Channel", Ócko
+http://?dTlHVjRNV1JRTkhUR0ZtTUhkMWJ5QjNkMklIZDNwSGFMWjFTMVZuYlo5Q2VhcGxlS3BVZFpoMFR3bDNUMHRTZXkxbU1yaGpXT1JIY1g5aVZPZEROMUoxYjJoM1FacDNVeXBGV1NsMmE0ZDFjMUFuZDY1R1VVUnpSbnBuVXpRSFZDMTBaU3hVUzBNWE51WlZXMGRUVE5sWFJJcDFVek1IZFJOMVRGNUVhdGhuVUY5a1FDVjNZYUoyTnhZa2J2OVdOeGxXUW5sVFJyRTFaUWRtVHU1RU9oUlVjRTEyUTM4RWR1WkVSbFJWYW9oMkx0cDBVRUpHZFNKRVQwbzJVcHhtYjA1R05PbG5kMFVUV2paRWVsdFVWcllrZXVwMlZDaFVaejRtY1cxV1V0RlhkMndHZU9GM2FyQkZOQmhIVkRwV1p5Wm1WNE0zYWs1a1oyTUhhcUprUWxsMmFGSlhZVXQwY1NGMGREaGtjUFoyWXRkV1A=
+#EXTINF: -1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="Informative Channel", Animal Planet
+http://?b0p6YlRsV1cyZG5lcHBtVEtGRmJCVkhiMjhFTnVCVk9XRlRSbmhXUlhkVWV5Sm5kQkpHVHZrRFZ0TjNaNGwyTlNSWFlpWjNLT0prYnVabGRKcG5Oc1pXUmpOblpPWm5TMU5YVDRkemN4Qmxicm8zTDFSV05tQkZhMGxYUzJBRk54SlZkTVZ6Y3JNbWNyNVdTMkptV3hrbmRxRmtZS1JGY3R0aVE1TVVNNFJFYUhwbVR4b0dWdklGU2tGVGUxSVhWWkprUW9OVVRrVkZUcGxtTnpoa2JpdFdkekVtZUZkVVp0QkZVemcxTlpSSE9qWm1hM1IyZE5OalJQOTJVdGRVYXpnVVVRQkhNbDkwS2lSMGFIbEhUbEZsUTZaMVU0WUVXNkZITjFOVldubGtjM3NXZFJ0MlozbFVZUTkyYVNkblJTaEVPNUJsZUZWVFlSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Informative Channel", Crime Investigation
+http://?Mkp6YlRsV1cybG1lcHBtVEtGbGJCVkhiMjhFTm5CVk9XRlRSblpYUlhkVWV5SjNkQkpHVHZrRFZzTjNaNGwyTlNwV1lpWjNLT0pFZXVabGRKcG5Ob1pXUmpOblpPcG1TMU5YVEdWemI1TkdWamwzVHdOalkxSkRidHBtY085MGFCVlVjS1pFYnN0eVVuQlhlVVpYU1N0bVFQdGlNR1IwYXpBbFRMcDFLNEIxTE1WVGRSSm5VVUJuUkVsR2VFUlRUNUZHYXJGMlQ0b1hjNGgzYzNkVk9ZdDJhREZtTnVwbU4ySkRWTUpGZHZrV1pNNTBWaXBXYnpza1RpVkdTMnRrV0ROMmRVOVdjSU5VV2l4MmRQUkRlcVZGTjRoMFl3bERjNHBIYW1sVWQwNDJiMkpIUzNsSE0yTmpRVUZETnRKbmJLaDFSNWNsYm5CSE5uMVRQ
+#EXTINF: -1 tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel", Discovery
+http://?MU5UZHlFbmVPcDJOUlJuV29aV2RNdEdhc3BFVnFGV01LSldXeVZITTFZMFozcEZiTWxYY3p3R1p6TlRhYVJXYnA5MlNQdDBiU3BXYnJkbVFpWmtVc1pWWXlNV1c0Sm5kV2x6YU1sRGFhWkdjVjFtY3NKVFpQRkZWdmwzTGk5R05oSkVjUk56TlVkaldyNUVlamhrUlk5R2EwWjNjVFZXYVd0VU9JOVVhbmxYVkZCMU15dDJWejQwVDBNVmVEOTJUQkZGWnROV1NJSkdVc2RtWjRJV2FPZEVlS1JqUm94R1U0UmpRSVYxWVVGbmNYcEVlVTlVY0Z4MmJaSjNkdFJ6Y1c1a1J3b1dieEozWVRSWGN1TkVjdmdYTzFWbmE0RmtkM05YYXZvblNSZERiNDlrTTBVemFzTkhheG9ITXA5R1R2aG5jdlpYYjFvV1JuMVRQ
+#EXTINF: -1 tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel", Discovery
+http://?M0p6YlRsV1cydG1lcHBtVEtGbGJCVkhiMjhFTnBCVk9XRlRSbnBYUlhkVWV5SjNkQkpHVHZrRFZxTjNaNGwyTlNSWFlpWjNLT0prZHVabGRKcG5OdVpXUmpOblpPSm5TMU5YVDN3a2VESkZaVHhHZW9WMUw1bzFZS2QzY2hWMUw0UjFadnhVZU5WbmE2QkZaTkYzVEZobU5KSkZXeU1rYnVaV1Izb0hiekJUUzROa1lwTlhTemhtVjV4a2VNMVVPMFIyTDIxV2RUWlZTbGxIYVdwRWV5UkZib2xYTzFjbFNyaFVZbkJsZFlsSE56c0NhdklGYnprVVlUVm1hNkpVYlJaVWNoaG1lbDEwWVBGbWEwOVdlV3BXTXVObVUyaDFaTmhXU0lOa1NDUldkMmNYTnpFMlN3TlVXbmhGZFpGWGMxY3pONUJGYlZGSGUzMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png" group-title="Informative Channel", Discovery Asia
+http://?ekp6YlRsV1cyUm5lcHBtVEtGbGJCVkhiMjhFTm9CVk9XRlRSbmRYUlhkVWV5SlhhQkpHVHZrRFY1TjNaNGwyTlNoWFlpWjNLT0owWnVabGRKcG5OdVpXUmpOblpPZG5TMU5YVHJaM1p4RkdjNHAzVHdkME52VTFMcXRtYVhaV1RhTkdkcUJYV0VWbFZyUjNRMEFuUjFnM1ZTUjNjNWRuYUJ0R1NxWlZaeTkwTDFvR1oxdDJZeU1FTTRJV2VYcEdSNkZUVzJaMVlRMWthbGRIVjVJelMwc2lkM3dFU0pSRmFxMTBMcWxqUlJwR2NRbGxRU1IwYnhZVFZqbFVOdVZuVzIxV2NwVlhRVGxXWjFOWGFGQjFaQ0pIZDZsSFRWOXlLTDlHUjBsM01ZRjJkRzlDYURoa2NvSjBjSXRrVHZnbmNEcEVXNkJWYlVKV09CMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Informative Channel", Discovery Science
+http://?b0p6YlRsV1cyZG1lcHBtVEtGbGJCVkhiMjhFTnBCVk9XRlRSbjVXUlhkVWV5SjNjQkpHVHZrRFZuTjNaNGwyTlNsV1lpWjNLT0pVZHVabGRKcG5OM1pXUmpOblpPSm5TMU5YVEI5aWVVUlVNeHdXVW4xa1N6Rm5iR04zS2w1a05qWmxlTVozVDJja01yQlhaWEpXZGx4MlJ6QlRhTFprZHkxVWNOUmpidjFrV21GamJ5WVhjRzltUmpoVmExSlhVUmgxU3FGMUw2MW1jU05YZGtCMWI1Z25lMEoyWU9WMlZwZDBRWHRrTm41bWFCRlhVaGxsYTRORVJ6UmxlNXBsUkZsVGNvSkhlWkYzUXJRV2N4OTJjVmhVTnNKVGJPSm5lSTEyWm9aRmJWUjFjUkptVFNGRU0xaG5iRXhrVnJjR1Z0Rm1XQ2xHZUJaek5uMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Discovery_Showcase_Logo.png" group-title="Informative Channel", Discovery Showcase
+http://?ckp6YlRsV1cyZG5lcHBtVEtGbGRCVkhiMjhFTm5CVk9XRlRSbnRXUlhkVWV5SkhiQkpHVHZrRFYxTjNaNGwyTlNSWFlpWjNLT0pFY3VabGRKcG5OclpXUmpOblpPbG1TMU5YVERObWFwTnpkVlpUTW5Oa01vcEViQnBtTmFkRE9tZEZjRGxrWUlsbFd4RlVNRjVFTTB0V1FCNWtjeGtYZUhoMFpwVlRZM1JXVTZGRFcxRjNMd1ZVTXJnV2VqVldSVlJVTnZCWGV1SmpXbmhuZXZZRlIxb0hkNEVHTUp0aWNyUlVkNFlsTnVSSFQ1Y1ZWbVpqYnY1V2M2bFVjczlVYXhKSGMxODJVM2tIT3FOV2I1WTJZTmQwTHBobVFIeFVZdm9IY0VSME41RVhjeVFsZUhkR1o1dGtUdHRVUU1CWFppbFZRUFpsZTNrMVNSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Informative Channel", H2
+http://?NEp6YlRsV1cydG1lcHBtVEtGMWNCVkhiMjhFTm5CVk9XRlRSbmxXUlhkVWV5SlhlQkpHVHZrRFY1TjNaNGwyTlM1V1lpWjNLT0pVYnVabGRKcG5OeVpXUmpOblpPZG1TMU5YVGlSbGFIdEVkb0psTTZGSE1uOTBVTk5YTkJGblRtaHpaUXhFUmlSemF2OUVWT0ZGVEtoMll4NG1XQlIzY0tGM2RDWkRXdkpHYkNaSGROcDNSV1pUT3pZSGJSOVViNGNXVTRWRFdVSkdTeHhXUTJOMmNGSnpiNVZHVzBoRVp6WjFhdEpIUkVwR09RUkdPd1pFYjBBVlcyVWpheU5HTjQ4MmQ0TVhRMWQyTnY1V2VIVmxOVUZtU3dWV2NvWjBTVmhuZENWelNJSlhkbUowWURwM1J6OUdSalJYT09CWFZyUlRRcE5rZGhsVVZCMVRQ
+#EXTINF: -1 tvg-logo="http://searchvectorlogo.com/wp-content/uploads/2020/04/history-tv18-logo-vector.png" group-title="Informative Channel", History 18
+http://?MEp6YlRsV1cyNW1lcHBtVEtGRmVCVkhiMjhFTjRCVk9XRlRSbjFXUlhkVWV5Sm5kQkpHVHZrRFZyTjNaNGwyTlMxV1lpWjNLT0pVYnVabGRKcG5OclpXUmpOblpPbG1TMU5YVDVSM2NpUlVSaHBHYzZWelRHVjJWdUZYVDRZR01GSm1iT2wxUTJrRFYybEdTVFpHYW1CSGR0bEROVkpYYjBjRmRNMVVUMFZVUWtSVFNoMUdPR2hHTU1SMWRXeGtaR0JsUjJGRVVqTkRaRzUyVWk1MlF5Umpha3QyVDZabGEzNUVhQzVFT1VSSGV2TkZSemMwWktsbFJDSlRPeVZGT3VSRlVhUm5ZVHBuYmlsV2VWWm5ZMklHWnBCamMwcDJNQnAzUXZrekx6VUVjNE5VU1Z0VVNwdFVRd0ZXV2FablZJVjBaMEZuZTB4RVozMVRQ
+#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/398-3989913_id-investigation-discovery-logo-hd-png-download.png" group-title="Informative Channel", Investigation Discovery
+http://?MEp6YlRsV1cyeG1lcHBtVEtGVmRCVkhiMjhFTnlCVk9XRlRSbkJYUlhkVWV5SkhiQkpHVHZrRFZuTjNaNGwyTlNKWFlpWjNLT0prYXVabGRKcG5Od1pXUmpOblpPaG5TMU5YVHdRbGJ3ZG1jU3RrZHdWbk1UOVNiMTFtTXdaVmJ5Y0hhYTEyVDNvM1k0VjJjUmxUUnFsM2JMeDJielFqZXF0VVJNVjJNMGgxTEc1MGNYZG5lem9FV3BOMWFQTkdUSkJsZXNOak4yWlRSSTlHUllaRVVCVjBkamRITTVvVk95ZDFiWlozYVhGM2FWNW1Ud1ZUY3lsellhaFdiNWhEYnI0MEsyVjNRM3BGYzNwRmJ2QURWWmhHWjJsemE1bzJiMlJuUnlOa2R3UWxjWVJEVHBsRFMxZGpWVEJqYWFoV2J1OWtWbWREZWlOVFMzMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Informative Channel", Nat Geo Wild
+http://?NUp6YlRsV1cyaG1lcHBtVEtGMWRCVkhiMjhFTnBCVk9XRlRSbmhXUlhkVWV5Sm5hQkpHVHZrRFZ2TjNaNGwyTlNKWFlpWjNLT0prYXVabGRKcG5OeVpXUmpOblpPRm5TMU5YVENKRmJybzFOS3QyTXlwSFJyMVdUVk4zWmxGWFp6OG1kNkpWVUhaVVlxWm5Vb0pGZDBwM1luTkZUNHBVYnhKVmIyVUZjeFZsVXAxV1RQcG1lMUYxVHJWVGN4WjNNeGRHVHpkMVkyRkRlclVYVTBjVFQyOVNhUFptVW05U1puMUVWamgxUnpjSFUzeEdOd2dWYnh3R093WVRRM05sYXpGSFpuVm5kcjlHY1dOMmRDVmtjemNGTndOSGRUMTBhMjFtYlBkVWIwWVZld0pYTnZNbWVvdGlWeFp6Y3JnR2JKaDFRMm9YYXJjV1FCMVRQ
+#EXTINF: -1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Informative Channel", National Geographic
+http://?eEp6YlRsV1cyaG1lcHBtVEtGVmRCVkhiMjhFTm9CVk9XRlRSbnhXUlhkVWV5Sm5hQkpHVHZrRFZxTjNaNGwyTlNWWFlpWjNLT0owZHVabGRKcG5Od1pXUmpOblpPNW1TMU5YVFMxV2NoTm5kd0pYYnZKbE01ZFhlTnBtVjNFMFkyUUZkV1ZqZHdSMlJ5WkdkWXAzWTVvMmRwbDJLWUJsYXZvVVJGZFZidjFXYllGalFtUlhXdGxWVERCM2RpSkRPa1pqUnp0V1Ywb1ZTemxITUJsVGFJZDFjTHRDWjBJbU10VlhSamRVTzNNWE1xRkdNREpYYkVKRGNhSlZOdDlrYnNaVVVNaEdaRE4xS3g5R2JTeFVPWXhtUTVORWFCWjFNemxYVDFWek5JVmpld2xqY3hrWGFyQkRONUYxU1dWWE9xaHphbGgxYUpsM0xSMVRQ
+#EXTINF: -1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Informative Channel", National Geographic
+http://?ckp6YlRsV1cySm5lcHBtVEtGVmVCVkhiMjhFTnJCVk9XRlRSbkJYUlhkVWV5SkhiQkpHVHZrRFY1TjNaNGwyTlNkWFlpWjNLT0prY3VabGRKcG5Oc1pXUmpOblpPQm5TMU5YVDNSamVHQkZSR2hGZTNsMFNOZEVTa3htZExkVloxRVhiTE5uYjRBamMyWlVXcXAyZDRBWFR4OENTeEV6Wnlka2MybFdZdWRYUjU1RVN6a1dNWlZXWlFCbGE1SnpjcmREVzJabmRzRldaNXBHUnlvVmJWQkhiVFZWYWxSVWR3dEVlU2xUZG94Mkx5MVVkMDUyZFFSbGNtWkdVMFJUUUxoblcxaG5NcFZrUVFSSGVwUlVZc2wxUjJsVldERm1WMTgyY3lnbWFtcGtjdGRqUzFkbFR1bFVheUYyTElkM1p3SVZjVlJWY1RCblJuMVRQ
+#EXTINF: -1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2019/09/Dabl-Logo01-PinkGreen.png" group-title="Lifestyle Channel", DABL
+http://?c0p6YlRsV1cyZG1lcHBtVEtGRmVCVkhiMjhFTjFCVk9XRlRSbk5YUlhkVWV5SkhjQkpHVHZrRFZ2TjNaNGwyTlNsWFlpWjNLT0owYnVabGRKcG5OclpXUmpOblpPRm5TMU5YVFlsVGJ4WkRTQlJtY3JGWGRVWlZVUXBIZXZkVVp1VkVjdkZXU1FOR2IyUmpSRTkwUUQ5R2JvQkRUcnhtY3daM2JHUlZOdVJFZXBSbVFCZFhWS1pUVHRGbmUyOEVSemNIZDNOSFZDVm1kQ2QzZFQ1MkxwbFZkWTEwTVVkR1JuUm5UM0ZUWXhjbVJxVmtaNTVFYkN0Q1cxUkdWemhWVVhwSFpLeFdiQkpGZVlkbmVrNUdUUlJqZG5OVGNYeDJVaGRIZXNCSE5ISmxiME1YVnhNbFZucFdRNEUyY3Nwbk1NUmtaemRuZU9KSFZCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Lifestyle Channel", DMAX
+http://?dUp6YlRsV1cyMW1lcHBtVEtGbGJCVkhiMjhFTjBCVk9XRlRSbnhXUlhkVWV5SkhkQkpHVHZrRFZvTjNaNGwyTlMxV1lpWjNLT0owYXVabGRKcG5ONFpXUmpOblpPWm5TMU5YVFJObGVYbDNiWmQxYTFaMlZKaEhkVXAzZGlOek1EbGxjRmQyTHlzV2UxNTJNelYwS1hSWFM2WlRWYUYxY3pKWFp6RURXNlZ6VHBwWGV0TlhUengyTUpkbmRFZFRWNjVXYjV0a2JOUlZOVkIzYjZKVWR5SW1heUoxSzF3bWRwTkRTUTVFT0RoV1l6VURleGNrYkRWbGNJbG1OdkpXV2k1VU1pUm5aMnRFT3doemFvOWlNRlZGVXdGR092Z1Vjd1ZuYlhGbFIxNUVlTFpVYU1KWGV2TlRUNFZYYlZCWFQzTTNjS2xFZHRkaldSMVRQ
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PSVQU0pCIFdxvH4iCbldCJkZdk3Z9TG1fQ&usqp=CAU" group-title="Lifestyle Channel", FTV
+http://?NEp6YlRsV1cyOW1lcHBtVEtGbGRCVkhiMjhFTjBCVk9XRlRSblZYUlhkVWV5SlhjQkpHVHZrRFZzTjNaNGwyTlNoV1lpWjNLT0pFYnVabGRKcG5OMlpXUmpOblpPWm5TMU5YVHFwVmJ3ZGtVMVFUWTBWMExDbEVWamRIWkNSVWV2cGtldHBYWXhjM0x4bDBWeWNsTnRoSFRsbFdRMFlsY0g1RWNqRmpleTEwY3haa1RpWlhiNWR6Y1FsamEyQjFiMjhpY3A1V2N0WmtjMGduTjJNRFQ2dDJaMGdqVkRWMWR0bDBibTlFY3pGWGExaDNSblptYXdrbU1tdFVTdmhEZTI5V1V3SjNOajVHTzE0bWR1NTBOVUJUUnhsVE5ZaEdPTUJuWnJvME0yRldiR3BWTk5SV2NvSmxXWmhXWWFsR1IwOUdNNkJWYmFSblZCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Lifestyle Channel", FYI
+http://?MUp6YlRsV1cyNW1lcHBtVEtGRmFCVkhiMjhFTnRCVk9XRlRSbnBXUlhkVWV5SjNiQkpHVHZrRFZwTjNaNGwyTlNoWFlpWjNLT0pFZXVabGRKcG5OblpXUmpOblpPZG1TMU5YVDRrV2R2Y2pUVUpsYXJGbWFUdFNOMTRtVzZ4bU1EOVdhUUYzZERGRGN2aFhhSzlTV3o1V1IwWm5NbXAwYXlWRmFrTlRkeGhUWlFKRU4wd0dabWgyTkVaVWFvQm5ScGhuYnNGSGJCcEZWWGxHUkZwR2RXWjJaa3RFVDRobU0xcFZRb0owVjIxbVdNZG1SemNuYUNGVU4xRjJUMjkwTHBKamJabFhiNFlXV1BSbWV4MFdRdmsxVXNaelNuVkRkRTFXU08xRWFSQlRiMGdUWjNKRmR5MUdWa0pEU2FWSGQ1b2tOc3BYZGs5a1NSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Lifestyle Channel", HGTV
+http://?Nkp6YlRsV1cyVm5lcHBtVEtGRmRCVkhiMjhFTjFCVk9XRlRSbjlXUlhkVWV5SjNjQkpHVHZrRFYxTjNaNGwyTlNwWFlpWjNLT0prZXVabGRKcG5OMVpXUmpOblpPeG1TMU5YVE9OamREdG1hU3RHV3R0bWJyTjFLNkZITzFFa1lhRlhjU05uWmk5V041WkdaeEJ6U24xR2FtVkRPNFYzWlFoVGRGRmpWek5uZWpGWGF4Rlhld0ZsVkdKMWNZbGtWbE5WVjVKa2RLTjBSdDVXYnh4RVJwUnpaRGhWVzVobk11cDNTMlYxWTRzR1dTVmpVRUpGZFRoM1p4c0Nib1IyTXJJak55RlhPckUxS1lkbGRQOWtTNlZXTm5kVmV2czBLemduVWFkbmMxUjNjazUwY1BoM1J2SlVNV1J6TE5SM1F2SURNMmxIZE9kRlZSMVRQ
+#EXTINF: -1 tvg-logo="" group-title="Lifestyle Channel", Home & Living
+http://?Mkp6YlRsV1cyZG5lcHBtVEtGbGFCVkhiMjhFTjBCVk9XRlRSbk5YUlhkVWV5SjNjQkpHVHZrRFZxTjNaNGwyTlNkV1lpWjNLT0owYnVabGRKcG5OMlpXUmpOblpPdG1TMU5YVG5oMVpwRkVNTjkwTTUxMlRXbG1kNHBXTnlCM1lrZFRjdnRrY1JSbWN6OWtTTmRYYTVvV2FhOTBNWEJEYmpWblZpWlZjeHAxVXBkalZZbDJUNGhrUUh4bWVETlVRVGxqYTJCVGEzbzNhWEZIT2hOMVZaZEhhMWhFU3J4V2R0MW1hUWh6TXZvSFdtUlhjdDUwYUpKVVpYUlhReEpUYTNNRVdyazJTR2xYZDBJR2Q1QnpWUWxIV3JGRU4wSnpOUUIzTGFWbWNERlZjeVJrU0Q5VVd5cDBheGwxVDMwR1ZsaDJhRmRVYnJvV2NSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Living-foodz-logo.jpg" group-title="Lifestyle Channel", Living Foodz
+http://?NEp6YlRsV1cydG1lcHBtVEtGVmFCVkhiMjhFTnFCVk9XRlRSbkJYUlhkVWV5Sm5kQkpHVHZrRFY2TjNaNGwyTlM5V1lpWjNLT0pFZHVabGRKcG5OdlpXUmpOblpPOW1TMU5YVG81RWI2QjFZWGxtTnhOMU0zRTNRRnAzZDNabE4xWkZjMGNrVXZKbVM0QlZOVWxFVU5ObmNUVlZNT2xWY1FWMVNZTnphNkprUzBFR1RZMVdTM1ZIVDVVa2FGRm5SM3BIZDRwSE0ya21VSGQyZEwxMEtxWlZheXBITW9KRk96RldZd1FGUlFoblR3cEdhWUJ6ZEhWa1R0eEVibnhHU2pkbldMbG1WMnBWUW4xa2U1VVZXTmhsVjRoV1FFTldRRTVtU254MmJaOTBhSFJtTkNsV1o0SjFLbzFVVXpSblkwUmtjMkF6YmlSVE5SMVRQ
+#EXTINF: -1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/monarch-airlines-logo-png-transparent.png" group-title="Lifestyle Channel", Monarch TV
+http://?NUp6YlRsV1cyQm5lcHBtVEtGbGRCVkhiMjhFTnFCVk9XRlRSbmRYUlhkVWV5SlhhQkpHVHZrRFZvTjNaNGwyTlNoWFlpWjNLT0pVYXVabGRKcG5OblpXUmpOblpPZG1TMU5YVDVFRGFrUldOdkJWV3hoMkxzUjNWdmsyVUxsRU5LRkZlQ04xVndoRU92QlRTdkpFZTRvbVRTbDNSVUYzZGpCVE1vVlZkd3BuVTA0R1dSOW1jNmRVYTJJVmNtcFdWMmxtTTRsbFF6VlRZdEpYZHdFM0x5QnpaWE5qVUI5MEs0ZEVjc3RDTVJaSGJFOTJka0JsYUt0bWRaTm1ObkYxTWlkM2M2QjNiaVZWTVlaVmFhOVVOekJET3ZKMFozZHpTdlozY3lJRGJVTjJjaVJqV1YxbVoxVm1SMFUzUXJabk1KbDNLR3BIYVA1MmNCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Lifestyle Channel", NatGeo People
+http://?eEp6YlRsV1cyVm5lcHBtVEtGVmVCVkhiMjhFTndCVk9XRlRSbkZYUlhkVWV5SkhlQkpHVHZrRFZvTjNaNGwyTlM1V1lpWjNLT0pVYnVabGRKcG5OeFpXUmpOblpPTm5TMU5YVG1aM2RvWmxSYWRqUXNaMmNsSlRheGtuUllwRVJScFZjVXBYU1AxbWQ1aFRjaWQzTlA1V1VGbEZSNlpGZXZFRE8yWm1jME5ETkRSalp5cDJOekYzWjQwR2N3SnpNNnBVT3hWMVEwUm1UM3htWjJCblRVZGphWjltTkZwRmUzRlhRdXAyWXRoM1Y1Y0hldmdtZWs5a1ZWaFVXcU4zUmhOV1VZaG1RejhTU3lJR2JTaG1lUzkwVTJoekxEUjNLb0YzTDJCSFRKbG5jMjhrV0hSWFcxbEVjeFVrV2w5bU53eFVUd2dEZUVoalNSMVRQ
+#EXTINF: -1 tvg-logo="https://image.xumo.com/v1/providers/provider/140/300x300.png?type=color_onBlack" group-title="Lifestyle Channel", People TV
+http://?ckp6YlRsV1cyRm5lcHBtVEtGVmFCVkhiMjhFTnpCVk9XRlRSbmhXUlhkVWV5Sm5jQkpHVHZrRFZ1TjNaNGwyTlNwV1lpWjNLT0pFYXVabGRKcG5ONFpXUmpOblpPbG5TMU5YVHBkbWR1ZFViR1ptZXdObWNpVldhdkYzVGpGbFo1MVdhblpVVXdNalY1OVVacHBVYlVsM01KWnpidjBrZHlkM2FhdFNNclZGT1lKRWJyVkhXR0pEYnJJVGRZVkVlVmwwVjNOVU14VjJOTmxXWXhNbWVYaERhemxFYVFsM1l1RkZTUTVXVldOSGFXTlZhbHBFY1ZCblM0c3lRMUpYTTVkV1ZobG5XazVtYTVsbmNTVjFRdWQyS29SbFZZSmxNMmdtVzZsalkybzBjQ2hEWnJoMVV3cEdPdlptVUhaM1oyRlVXeFpqZDJCSFNuMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="Lifestyle Channel", TLC
+http://?NEp6YlRsV1cySm5lcHBtVEtGbGRCVkhiMjhFTm9CVk9XRlRSbjVXUlhkVWV5SkhhQkpHVHZrRFZwTjNaNGwyTlNCWFlpWjNLT0pVYnVabGRKcG5OcVpXUmpOblpPWm5TMU5YVHpjSGFMcGxXdkV6WXlSV2RoRnpWTjlHVnJCVGU1VmtkdFJGTUNabVlyVkZPc1JWUjNvV1IxRUVXUDlFYTJNMkwxUUhlNEYxTmFaek1qZEhUREJUV1hsWGJQUkVVdmxYWm9aM1l4WmthcXBHVjJvV2JSdHlaeGRrUjR0aWR0Wm5jTEZqVzJoV1JwdGlTdUpGZFk5Q2QxZ2tUNFJXTjNJM1p4czJac1ZYT3ZVV2RQNWtRSmgxVW54R1dUeDJReFJIZXdBM1F2czJiSFZIWkVaRmF6RmxaMFZHVHBsR1RIcG5XNWNqZXlFWE9uMVRQ
+#EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/677-6773173_tmz-logo.png" group-title="Lifestyle Channel", TMZ
+http://?b0p6YlRsV1cyeG1lcHBtVEtGbGRCVkhiMjhFTnVCVk9XRlRSbkpYUlhkVWV5SlhjQkpHVHZrRFY1TjNaNGwyTlM5V1lpWjNLT0pVZXVabGRKcG5OelpXUmpOblpPZG5TMU5YVHV4a2JPeEVaSDkwTW5WRGQ1UUdhS0JYY0ZSbFo1STBicmdXVDFoSFd4bGxjakZWYzJNSFVPVnpaNGMzYUk5V1l0RlZReWhuUVNKbmRLcDNOdTVrU094a2I0Y0VTQ0ZuZTJGbVpCVnpheWRuU25kbWFHaFVlUnBuVnFkWE0xQjNWYVJrZFlsR2JyWW5hdTEyZGhWVWFTQjNMcGhXZDF4MlUwQjNWcjgyTURKVmV3c3lMd1pFT3Y1R1RyWTBiazFtU3ZFV1JTcFZhYUYyY2tobU1ybFVRd0YzWncwMlV6Y25Vd0JUZFJkVVJSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="Lifestyle Channel", Travel TV
+http://?ckp6YlRsV1cycG5lcHBtVEtGRmNCVkhiMjhFTnNCVk9XRlRSbmxYUlhkVWV5SjNiQkpHVHZrRFZ6TjNaNGwyTlN0V1lpWjNLT0owWnVabGRKcG5ONVpXUmpOblpPaG1TMU5YVGFwMWMzb1ZZVEpGTXY5VWNtVjJOUVpIV1doelRvQjNkcmgyYXBKbFYzTlhXbmwxWTVobU5oQkZlWmxEZUxCblJCSkhidHAyY0RoVWJhZG5adkFWZVpkWGNDMTBSMElIVXdaMFR4SUhNd0lIT1FWVFVVUm1jbFpqWXZsa2R2WldTM04xYnNobVE0aDFMelEzYmlCMVlRdENiekZtZTFCbGRTdDJVQ0ZVYjJRMlpJeEdNd2tUV3dOSFVOWmxkeU1YTkxKM1QwRjFhalJVV09aVVJ6VkRWR3BVUzU5R056UnpaM2hWZUpkR2VCMVRQ
+#EXTINF: -1 tvg-logo="https://i2.wp.com/actionsportsmusictv.com/wp-content/uploads/2015/05/XcorpsOPENgfx2.png" group-title="Lifestyle Channel", Xcorps
+http://?c0p6YlRsV1cyVm5lcHBtVEtGMWRCVkhiMjhFTjZCVk9XRlRSbmRXUlhkVWV5SjNhQkpHVHZrRFYyTjNaNGwyTlNsWFlpWjNLT0pFZHVabGRKcG5OclpXUmpOblpPbG1TMU5YVHV4MGJPeEVaSDkwTW9WRGQ1UUdhS1JYY0ZSbFo1SVVkcmdXVDFoSFcybGxjakZWYzI4R1VPVnpaNGNYY0k5V1l0RlZRM2huUVNKbmRLbDJOdTVrU094VWQ0Y0VTQ0ZuZTBGbVpCVnpheWhtU25kbWFHaDBkUnBuVnFkWE0xQjNWYVJrZFlkSGJyWW5hdTFtZGhWVWFTQjNMMWhXZDF4MlUwZDJWcjgyTURKVmN3c3lMd1pFT241R1RyWTBia2RtU3ZFV1JTcDFkYUYyY2tobU1zbFVRd0YzWndnMlV6Y25Vd0JUZVJkVVJSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids Channel", Animax
+http://?dEp6YlRsV1cyOW1lcHBtVEtGbGVCVkhiMjhFTnBCVk9XRlRSblpYUlhkVWV5SkhjQkpHVHZrRFZ3TjNaNGwyTlNsV1lpWjNLT0pVYXVabGRKcG5OblpXUmpOblpPaG1TMU5YVDExRWM0cEhaVDEyU3QxMFpzeEVUNHBuV3Faa2JJTjNhMEFuVXpSV1YwRjFLVWxWVVR4V1laNUVUNjlVZXlKVmFMOWlhcEZYUXpnWFE0Z1dhUk5GY2lWRWNqZEdWdjQyVXJkblNqTldTemxuVEZKRWF3YzJacmcxVDBvblMxMVdjNGNtVXhBWFQzZ1hRd1puYnNKSFp4SUVWNkpGV3pnMlZSQlhhNFJFT05wa2JFSjBRRUpVUjVSbVFPTlZhdkpIVVlwMFE2TlhjMk56S254ME53RkhOM2gyVFE1MmEyNGtWcmtHYjVVWGVuMVRQ
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt.jpg" group-title="Kids Channel", AniPlus
+http://?NEp6YlRsV1cyWm5lcHBtVEtGMWJCVkhiMjhFTnVCVk9XRlRSbkZYUlhkVWV5Sm5iQkpHVHZrRFZ3TjNaNGwyTlNkV1lpWjNLT0pFYXVabGRKcG5OclpXUmpOblpPdG1TMU5YVFJSbWFoSkdhU3gwTXlkRk9LeFdjeUVITUl0Q2JVaEZhYWgxVTRJRFp5cDJaU2h6ZGoxV1cyMDJUbmRYYVhsbU00dFdObkZVUnJ0U2VKTm5VWkZWVnpwVmJ5OW1TMlVUTTNaRU0xcDNLT3BuWTVnRFJSRm1hUWRWWU1KRldvTlRTNVEwZG1sbWNZWldXQ0pEYkdWVk5ERnpjc1oyWVpGRWRCcEhWelowS2FSVGF1TjBTT3R5YzZGbVN2OENicEJIV1ZsMlJwaFZleFJsWjJ0VVJ3MVdkckVYYnk0MkxHWlRWNWRIYktsRGNuMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Kids Channel", Boomerang
+http://?d0p6YlRsV1cycG1lcHBtVEtGMWFCVkhiMjhFTnFCVk9XRlRSblJYUlhkVWV5SjNaQkpHVHZrRFZvTjNaNGwyTlNsV1lpWjNLT0pVYnVabGRKcG5Oc1pXUmpOblpPZG5TMU5YVDVObmQzZ0hUazFFUm9WbWJGeG1lNG9uTVpOVWEzcDNadzhTVjZGbWU1aHpidlYyTkN4R09qWkhkeUVUYlpGRWFQVlRiMGhqWjVRVmNKZDNkb1oyVUlSemR6WkVSeUJIVXRaMWRpdGlSSmxtY2lSVE0yWmpkVEpsWnlGRFpxSjNTakZuZUlCWGVLWjBSdk5GYkNKRWJaVmthckZWTm5Gak4yaFhNMThHVk5SVGRVWkRkd3RHUzVKbU1DWmtSdWRtUnZwM2NKcDNhR2hVTllKMVJ0RkdhUnhrTmlGbmMyODJia1p6YXhkelVSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids Channel", Cartoon Network
+http://?eEp6YlRsV1cyOW1lcHBtVEtGRmVCVkhiMjhFTjRCVk9XRlRSbnRXUlhkVWV5SkhiQkpHVHZrRFZ6TjNaNGwyTlNOWFlpWjNLT0owZHVabGRKcG5OdVpXUmpOblpPbG1TMU5YVHQ1R2FhZGxZeXdVVHpoa2NxaDFkMklITTZCWGM0WkZjcGRXTXdoVk12UlhkMkVVYjZwbVJpRkhla2hqYTRrbGN5ZG5VeU5IV1haRVV5VlhRTUpVUVM5aWNXaEZjNEowUTRCelE0Qm5iQmRtVE01a1FLRkdiTlZUZXdkSFp6cGxUckVWVzVjV1NXaG5jSkpIZXJNWGJTRnpaNXQySzRnMGMyb25TbGRtU0NWV2N5WTBLdFJFUjRKM2Q0TlVPV2htVnVGR2JPbFZjRnRpYkV0eWF5WlhkdVJEVEdwSFUxWVZTenNFY0VsMGNuMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Kids Channel", Disney Channel
+http://?bkp6YlRsV1cyNW1lcHBtVEtGRmVCVkhiMjhFTm5CVk9XRlRSbnRXUlhkVWV5SkhjQkpHVHZrRFZ2TjNaNGwyTlM5V1lpWjNLT0pVZHVabGRKcG5OdVpXUmpOblpPNW1TMU5YVE5GR2NCVjJMNDhVZG9WVWFtZFRUSzVHTXFaRWIxaEVlcllFV3I4eVVvRm5kd2wyU3NSM0twQm5SMnBFY2F4bVRTZGxkMUZUYmFGWFlTRjNabHhFV1MxRWFobEVSMU5qUXV4bVMyOUNkQ05uWUJkSE82dFNlbGxYUnhCVk8yQkZWbmxuYnNsbU1JZDBheFJEZHV4a1pTZFdUb1JuYVdKVllGaEdOTDlTTzNjbmQ0b0ZaUU5FT3RsRVd3UmxiMmNHVFZKMlFqVkdjbU4zTkNaWFp0aFdTdXAwY1doSGRXVlRidlFIYURKbFZuMVRQ
+#EXTINF: -1 tvg-logo="https://www.cartoonbrew.com/wp-content/uploads/20100604112357disney_junior.png" group-title="Kids Channel", Disney Junior
+http://?M0p6YlRsV1cyZG5lcHBtVEtGbGJCVkhiMjhFTm9CVk9XRlRSbmhYUlhkVWV5SlhhQkpHVHZrRFYyTjNaNGwyTlNKWFlpWjNLT0pVZHVabGRKcG5OdlpXUmpOblpPSm5TMU5YVHFoemNzWkZhd1JUU3FWV2JzTjBZSTFXYTV3V1Q0dGliMEIxS3lJSFdxUm5OeE5UWUY5R09QaEZaVEIzYXhva1lsTkZWeGgxYjZwRVUxa1dTVnRtWjJrVWNxaGpSUE5XY3ZkalF4TVVWYTVtU041a1JYUkZjNWhUZEI5MFR0RnpSdzRXYW1sblkyZ21VU0pUZHlBMU14eEVTclJtVXlna2RqMW1SMjAwYTJZRmJ5aFZia05FY3pKRWF3VlhTc3gyYlk1RVJzWmxjQ3QwVXZkMlUwUm1jNmRUYll4MlVYRkdSUzFHZHdrbE5CMVRQ
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/-Vas4UzOl0KE/AAAAAAAAAAI/AAAAAAAAAAA/_fWZBwq0qnA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Kids Channel", Kids Channel
+http://?eEp6YlRsV1cyOW1lcHBtVEtGbGJCVkhiMjhFTjVCVk9XRlRSbk5YUlhkVWV5SlhjQkpHVHZrRFZ2TjNaNGwyTlNGWFlpWjNLT0pVZXVabGRKcG5ONVpXUmpOblpPbG1TMU5YVHVKemFVbFhXMkUzVnpSalpwVm1UNHdXUzRFRGFZTjFjMXBIT3ZaVE02ZFhUenAyUUJGWGN6OGlWU3BHY3dvR1NsWjJSekZXTzZwRVJURm5SNU4wUVZWRWVoWnpNMG9sUTBOMlNESm5TV2xXTnNkVlNreEVhR1JrU0VabVIwcFVlcmNUVzVjM1NURmpic3RFYjVVVE4xWW1RM2xsTXcwa1JIUjNZQmRGYU9oVWNvWkVST2xVWTFsVGQzaERNUXhXWXRKVVZVSkVhWXBsZEx4V1N1TlRTd05WV3VaM1FsVjFWTFZuZXI0MlFCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" group-title="Kids Channel", Nick
+http://?MUp6YlRsV1cyWm5lcHBtVEtGbGVCVkhiMjhFTm9CVk9XRlRSbjlXUlhkVWV5SjNkQkpHVHZrRFZvTjNaNGwyTlNkWFlpWjNLT0prYXVabGRKcG5OcVpXUmpOblpPUm5TMU5YVHJjSGNRbG1VUXhVY3BwV1V6VW5UNEEzU0JWa2N4RjFaRzUyTlBSMFYzNUdOSUptUXJSblZrWkZWaTlTZXdwbGUwbHpMbnBFVXF0U2R2OEdjQ2QyYjJOamQwOEdTTlIzUXVaellZdGljcTlXVTVGR2VsTjJjME5IZDRRRlZxVlZaT1pqYW41bVNVVkdiRmxYY21KWE55czJLekpIV3ZKVVJqRm5jMXBIWnhaa2R1QnpMYVYxWnhSMEttZGpVeWtITzVwV05CdGtkeGRVUllSVFZ5dGlhdFYzTHlSM01yVjBjUU5EY1VKamVuMVRQ
+#EXTINF: -1 tvg-logo="https://www.vhv.rs/dpng/d/461-4612823_sony-yay-logo-png-transparent-png.png" group-title="Kids Channel", Sony Yay
+http://?cEp6YlRsV1cyUm5lcHBtVEtGRmRCVkhiMjhFTnRCVk9XRlRSblZYUlhkVWV5SkhiQkpHVHZrRFZzTjNaNGwyTlNwV1lpWjNLT0prZXVabGRKcG5ONFpXUmpOblpPcG5TMU5YVFZGbmJ0WlVScFJXTzROa1JOWmxNQ2QzTTFJMmR2WW5kNFYxVUdGalF6cFhUM0lIVHF0R000RUdTaTFVZHVOWFpMZEZTMmxXYjZoaldqbFhWTGgyVTBrRmJsNTBReWhHV29KblVOQm5kb1pIZDF3MFRVWkVhU1pWWnNkRGNvOUNibVpGTmFKWFVPRmtUNThFYnhSbFdRZFZXcjlVU2tkRFJ4dG1jT2huYkkxRWJFWkhVd3RDVzVoV1FXRkVWUTkySzBzR1pGeFdlUHRFVEoxVVoxTnpRNHNFTTRkR2EwUjNiSmxGZTUwV2FuMVRQ
+#EXTINF: -1 tvg-logo="https://www.terrorism-info.org.il/data/articles/Art_18131/hamas_099_3.jpg" group-title="Religious Channel", Al Aqsa TV
+http://?eVJVU3JZSGIzSVhZMFFtWU5kbGJ5VlVRa2x6THlaRU94TmxlUGxtWW9kMGIwTjJjcmNsZEZWbWRxUlRNeGtWVTVzR01XQnpNMmRrZXJJbFlDaFRkeXRXUjNJM01xaFhaREJsUU5GSGVRSm5iSmRsY3BKMlJHZDNVQ2xHYUNWSGNrQlZiNTUyVnpValN5MVdRUkpHY2FoMmNOTjJLVFpuZXc5MllvWjNWMWwxVFMxMEtqRjNUejlpTlpaamJETjBZd0JEYXRsRU9vVmxUeFFuUzBnalpYcFZhVmxIYUxsbGMwcFdTSVZVVUlkV2V3b0dWQ0YzYUlGSFZMSjFLMFYzVHRCVlVDbG1UbXhXVER4a2VvTkhheUpVUjFoa2NzSlZNV3RHWlhWRVRDaGxlcE5sZFpWbFM0TlVkVmxuTTZaM1U2RkVNbDlDZHNSamNuMVRQ
+#EXTINF: -1 tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png" group-title="Religious Channel", Al Istiqama TV
+http://?dGRYUlhsVFQxVkhWYU5uZExKRGJ0Um5OcWRrZXBwRVpyUUZUYWwyUWlKMGIwUjNhRjlTYm1SVk0zaERUemhtVnJnblZ6cFVRUkpWYUJSR2FPRldZNU5sYm5obk0xTVhSUkZUYUI1V2J2SUZjMklVY3ZKbE5uUmtXRmgzTWxGRmRNVlVhb0ozTFZKRmUxOWlNNHNDUjNWSFNKaDJieU1FYTNZM1JNTjNUM04zWmtSV095UW5iUGgyUjB4MmM1dG1TRDUyTTNkMVI0RlZiNGttYUdoRE9OTnpjV2RFZDZOelIyVlZiTmxsVmpCSFdUUmxadUZXYlJoSGNCSm5VM1YzWVBSR2VEQm5XR0pFYkg1RWR6UlZNVUpHZXRGak5YUlViemdIVzQ5R2NvQkZhMkZYV2o5VWN0NVdVbmQzTDJoR05xbGpOM0UwZFh4a1lCMVRQ
+#EXTINF: -1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-wesal-tv.jpg" group-title="Religious Channel", Al Wesal TV
+http://?dU5EVnJsamFRQkhXSE5XVU01RWFKRmtTRU5uUTZSRGM0bDNOaWRHT3ZWa1NrSkRiaGhrU3ZBVFFvcFdlMTAwUnV0R2VGRjBTd29tZHhCSFYwSWthMmRXZE5kM2FzUlhRcncyTTNnMWN3SUhjMmRHTTNwbGJCVlRZRjVXU3VGRE9hUnphM1ZXT0tSMFI2UjNMVWxqU3V4MlRrTmpNTkp6ZElSVFk1WVRkeFpUYUQ1VWVheG1jWHAzZHhZSGFJaHpaMFFqTjFWMEtHWm5jQ2gyVTFnMFQ1TVVlNVVEYm9wWFN3QjFONk5IVEhoWFE0cDFObEp6Y3BoSGFtWjJhb3BWWVBkbk1oTlhURXRXZU9oMGRKaDNRdkJUYnpaMVMyazJNakYzUmhSV01rdFVic0pXTnBKRFR1RmtheTBtTkdWWFNtcDBjcUZIZDVKM1YzMVRQ
+#EXTINF: -1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2002112204140-L.jpg" group-title="Religious Channel", Bahrain Quran TV
+http://?eFZGYlJKR1cyQm5ReUpYVFloRmMxUVZlNkZET3pkV04ySkZNWWwzVUhOM1lZcDBiMHdFU2w5bVkyZFdNM3AxYXJKbk5YRjBjNWtsZDBNMVREcEdiMlZWTnVaVFQ2TkhXc1pVVnpCVGRobGpOMVkyUjRkRE5qaFhXbWhHV0U5RU40Vmpkd1lHZTNaalM2bDNVS1JEVzNFSGEwZ1VUbDltYlFGVFJNVkVOM2hWTXdVVlV0eG1ielZUUllOMFphRlVVemRqYnZwM1ZzVjNkUWRtU1FaVmE0SlZhM1VXZXZoa1IxdDJTU0IzWlNsM1ZDQmxNMklFZE05bWRHNW1UcEZWTnI4a1l1SlhPalpUUXhza2VycG5jYVJYTW5SRlJpaEViTlZYTTI4RWVvQjNicnNXT2hoalNubFVSa1JIY3RSM1U2Rm1SdnAzZHFOblJDaG5UNlZrUWtSV1paUkhPMlFVT3JFbGRFdFNlcDltUnFSVFA=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/j7a8hcd.jpg" group-title="Religious Channel", Bible Explorations
+http://?PWdXUURaa2U1TVRlTlJrVlNka1R1eFdXckYyTU5kM1NOWlVXb05qZXZ0MFNPNUdUbkpWUVZoblVtdEdUWUoxUjVjWGNhMVVjR1JVYjFGWE00VTNNbVIzVVVSRGUyd2tkbWR6VjRZSFIzcEdWcmdYWjBKM1ZHcEVSbTVrZXNoVE5PVldaNmQyYVlOVVpTWlhkMGhuWVNobWF4cDNZMzRHZXdKRlN2d21OU05IVkpabWV6bEdjeDBXZFBOaldzRm5UMUozYXdZbmIza0ZkckpUYndNSFc1d2tOdlZGV2gxMlN4OG1NYVZqUTJabWRLcGxid2wwYjNkV1J3ZDNMd05YY1NsalR0UlZlWEYwS0k5R04wcDJkcmRGTUloM1RhVkViQlpGYVBCVE1TWmpSeFJUVlo1a1pZaDJLSEZsYUxWbmNPeDBOME1rYno1a1VvVlhPTlZuVm9OblVpRlZlU1IwZHdORmF3UldWMWxHV3ZsblR1bFZVb1YwYVFWMk4ya0VheXRXU0ZGemJNWjNkbE4ySw==
+#EXTINF: -1 tvg-logo="https://i.vimeocdn.com/portrait/5136072_640x640" group-title="Religious Channel", Hadi TV 1
+http://?dEZUYTRobFFWOVdOQ0ZtWTRZRGJMaDJWVzlpZHVkMGI0RTBUSEpuY29GMGNLWnphUXRrYXNabGQzVmtTMGdYVUNSSE9hWm1SUlZqZXRaMVN0UlVNd1oxTDVsR1JPNVdTVkJuZHZGRmE1UVdaMVVuUnZOV1RDWjJOV2hIYjFObVR4cFhiSTVtUnhaVWMyQjFMRU5GVmhkbVpabFhWSXhrYnZrR08xSldNeXBsYVFaa1RWdDJTU2RHVXpGRmVIeGtlS1pGU3dkMmJRQnpaUmRIVENWRlZvaDFab1JXTzVwR1YwbEZhUWRIVzNvV1ZNaDBOdVJFYllsV2R0cDBkdjVrV3BWVFp4MEdaNGdsYlZ0a2VvZGxSMHBWYXAxMlZTbGphV2hYT1JSRGV0VlZjVWRrZHZWVmM0VjNheHN5Y29WM1NWOUVVbWRtYzNJMVRGcDNaNFpFY2lOMll1cFdWYXBYVnJJMWRIWkdaMGxYV3ZoVFA=
+#EXTINF: -1 tvg-logo="https://www.iipccanada.com/wp-content/uploads/2016/05/iipc_origin.jpg" group-title="Religious Channel", IIPC TV
+http://?PUlYTXNaWFVWVkVhNDlTYjVGR1J0bDNjSXRTUnlVbmJvUmtWaFozYTNzQ2MwOTJjcFJYUjQ5U041dG1aUTEwTVdSMmNINWthcFowTHVSVWV5bFdWbVIzTXJZWGJMbEhldmQyU1c5MFE0QlRjMGtWYll0bVphWkVWdkVtYjFJamMwTVZXMmhFTzRwVU5URlhkWUp6UXJOamJ4dEdWdkVIUzVGMFVtcDJiVHBYUXk1MGRGTkVjVVJYUk1aRU80QkROaVIyWngxV01UMW1ldkJuYVQ1VWVDcFZUc2gxVUU1Mlk1cFhUclYzWnhNM2N3RTFSclozUjRoRFdEeFViSjlHV1VaMUswRTFaRk5uU29ObFp2VmxiMkprVzVkMlpPbDNTSFpIYnBabWRyOENVc0JEZVFWMlpCZFdNM01rUTBFWGUyTWpleWtYTTJkRGRaUlZiUGRITnpjV2NubFdjMUFIT3hoVGIzcFhNcTEwVHZsWE13Vm1ZMW9rZXFwRlprWlRackZEVG5GVWJqaG5jbkZGYw==
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious Channel", Iqraa
+http://?ck5HTzBCM1VSWjNVbWhEYXlwVmVtaFVjR3RHWjJablFNWm1NRlpuUnBsbmNFSldlWFpHVE1oVlM1bHpZNnRTWVBwV1VSdHlTMWxtYWpOVlR5SWxZd0YxYXJwV2MwcG1WbFZtWkJkMGNwRlRjU0pIYXpSalZFRjFZMmgyY2loMExEWjBjUkpqYllGbFpzVlhTdnhHTzRFSFZ2RkhjT0pFZG45bVZRUjBhc1ZHV3hSVFRGVm5VRXRVYlNKV2N3dFNUdGhYWTVoVWFQRjFiM3NXTjRGME1TNTBhb0YzZDRKMmE2SmxlNGRHV3BOM0xNSkdaa0ZqYmhoVWJyUTNicGhqUTJCVFN6b0diak5HUzBzU2UyOENjRmQyYTJGalc0VjFOSGRIYUZkblRUeEViMXBXTU1sMVo0aGxRaHBtVlpKWGVsdDBiQ0pGY1BKVFRPNTJVck5VWktkMFFoUm5jNXhXWXlGMGF2TUZOdkZXT3JkWFA=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious Channel", Iqraa
+http://?PU0zWTRRSGNURlZkVFpHT29Kbld6WkdTeFowYWtkbWRDeGtaeVUwZEdsV2V5UmtZdGRsWk14RVdKZFhPanAzS2g5MGRSRjFLTFZYYXNOMlVOSmpVaVJYVXJ0bWF4Um5jV1ZXWm1GMFJubFdNeEpsY29oR05XUlVValpIZHpKR1N2TWtSNUYxTDJzaVN4Qm5iM1ZrUTBVbGFoNVdPVXRHYTRsVmF3TkRjd0ZIZUx4VVQyc1NlcGxUUmhkRVR6aGxWeWxUVjE4V1dFdDJSUVIzYTBSbGRNaFRleVJWYWtWR2Ryb0hNWGRYU1pselp0ZGxjdXBrYjFSbWFXUm1RT0pIV1E5ME1vbDFiMHdVZHprbFZ3ZEhWMFVtZHNCSFdCaEhSUFIxWkh0R2UxSWtRMGQwUjRzMkxUeG1OaE5HU3A5MGNYVjJjMWdXVzBwMk1LaGplR2QyTmhoVVlySkdiR0ZETTNkek02cEdNb2xXUzNsblozQTFjeTVFZHlsamJFZERabmhXYjA4Q1QwNEdiYUJuZA==
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="Religious Channel", Makkah TV
+http://?ckowTHUxVVVRcG1XQmhEYjRWMlpXUkZlRUZIVHd4R2J5RVVTdmdXWnB4MlRQQjFjNE1tUUI1R1MxQlRNendHVXlkR2JqVkVUNThpY0Q5VWJ4cG1TNlpqWU1wbVpJcFdRdWxVT3A1R2JWcFhWMUUzVjRkbVpFRmpZbkZIVEhGVGRybEZleW8wTFRsalZzVkRPMnBtYWpGSFp5Y0ZkaTlDZWtKbE41Vm5WNEptVkpWaldQRlhiM1ZWYlV0bWF6Y1dVR05VUnNsbFVNeEVad2NIYUxKbWF3Y3picTFrYWtKbFF1WldUUVZtZHBKblEyUVZTMmswYUpoemQ0Vm1SMDFVZWlWa1V6czJTSVJtUnNGVWVzOVdld1YzYW54MlNXcEZUd28zS0Naa1l2cDBkb2xHY1Yxa1Z6WkdhMGhUYXg5R08ycFhZclYwY0oxa00zMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="Religious Channel", MTA 1 English
+http://?dHAxTHZFMVJvcDJkWnRXT2hoMWJaaGxhNVkxZG5oVllhUlRRR2hXUnhGV1NOTkdhTHhFVEhWVU1vdFNicVJqTnVaSFJWNVVZRjUwWkxaWFlZUnpUcEpHVExkMktKQkhTb1JFVGFsa2VtTmpZaFJEYnQ5MlZIZFVTTDVXV1JORlNUVmtiemhETlNWemRuTmxVdWxYYUVSWFlRWm1acjAwYzNZMmRUQkhTdnRpWUJCVmJ4d0diSkZFYlVCVmNzOW1ScE4xTjJWR1owSjJWMGhHVUxobGN6Qm5lalZITU5sVmJ6TjJZeG9uVDFCblpvWnpaaFJYZTBvSGNrUjBaM3QwTk9wbFp5ZEdXTmRHT0s5Q2V3NG1Rd3MwTm5WWFZGWkZXd2czWkJGRU1SWlZjdll6S1RsWGN0SnpRdEJUUXVKSFR5UlZkc1JIYTBnbllsRkdXNGhqVFFaM2M0b0hWekpIT0NaMmJ1QjNOenNDVnROWFA=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Religious Channel", MTA 1 Urdu
+http://?c3AxTHZFMVJvRjNkWnRXT2hoRmRaaGxhNVkxZHpoVllhUlRRR0pYUnhGV1NOTldjTHhFVEhWVU00dFNicVJqTnVoV1FQaFZZc04wY3dJWGQ1aHphek5XYnpFR1pOZG5RMUFIU2kxbWRKcGxNR2RGT3JWR1I2QkZSU05uV0p4bWN3Y1ZkMFVrTXJSMlVzSkVVWEZFVldwR1JESlVXWlJXYWx4MFRxRjBWNWgwVXg1MktINVdTeVpIWnNkVWRWSlVjMkkyYXoxRVNGZGxjd3hXY1ZoM1RXTmtieE1HTXh3bVV6cEZWWkJ6SzNkR1ZHbDBTaU5IZFNsRFoxb1VZMWhrUWxsVmM1Z1dUbFZHTk9oR2NaQm5XV2h6WXVWbFpVcG5SRk5uU3ZNRGM0b0hlMGRrVmhOM1M0aDFReGhGTUROblZXdDJSeUlXZHpZRE1oaDNjNWxWVTJSbmJ3cFdiMlZuUTFvR2F5ZzFVSVpYTXVSVFA=
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="English Movie Channel", AXN
+http://?c0p6YlRsV1cydG1lcHBtVEtGbGFCVkhiMjhFTnRCVk9XRlRSbkpYUlhkVWV5SjNaQkpHVHZrRFZuTjNaNGwyTlNoV1lpWjNLT0pFZXVabGRKcG5OelpXUmpOblpPeG1TMU5YVER0eWJyUVZiUjUwVTUxMlNQeFdUcWhYZTBaalZrbDBiMXBGZVJsVU1vaFVjRGREUm1GSFo0OWtiQ3RrZDVFV1VWSjJjenAzUVhaRk53MTJUUGRXT3F0VWVXcEZWb0oyVnlKVVJoTmxXaEZIVnBsamRaSm5lNk5GVTRBelJzVmxWb3BGYWF0bU51RkdPM1F6YWxoRWRDZFhScmRuY1VSMUtDdEdXNVJVWUN4MGNXaFRjU2huV3NSME4zRUhPM2NYV05SME5ZSmxjaTkyTU1wMFkxUmtScnBIVGhsR2R6SUZjQmRYYWxwRlpuMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="English Movie Channel", Blue Ant Entertainment
+http://?dkp6YlRsV1cyWm5lcHBtVEtGMWFCVkhiMjhFTjBCVk9XRlRSbmRXUlhkVWV5Sm5kQkpHVHZrRFZuTjNaNGwyTlNsWFlpWjNLT0prZXVabGRKcG5ONVpXUmpOblpPdG1TMU5YVE1KM2JaWjBjb1YzTXhsVlRhRjNWUmQyZGt4a2RaWjBjRVJFT0hWR2J5cFdVRUpHT1pOSFN2UXpaekZGY1NkblZJbFZScGRWVHJja2RRMW1ZMDlVVjVObWQyZ1ZNd1IzU3dWMlNyRlhaeDRtZU85V1NpVjBjakpEVjVNRVJyUjNVQlZrVXdnWGJMeFVRMEFWZXpObmFucFhZNEJ6Y3VGRFMzY0daUGxIUldOR2M1aEdWUWxrUnpGVVlOMVVjMEVuTjFVbFVoRlhlclZEVEZsa1I2Um5iUU5VUnowR1RSVnpheGdIY01SWGNSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="English Movie Channel", Blue Ant Extreme
+http://?Nkp6YlRsV1cyaG5lcHBtVEtGRmRCVkhiMjhFTnJCVk9XRlRSbmxXUlhkVWV5Sm5hQkpHVHZrRFZzTjNaNGwyTlN0V1lpWjNLT0pFYXVabGRKcG5OdlpXUmpOblpPbG5TMU5YVHROelp3eGthNG9WWm5KRU01QTFkVkZuTUdSMlR6NEdkNEJ6VHdWekw2UkdXSWQyYjFFM1lxMVVWMk1XZDRsVmVZRnpLblpYYVB0V1EyQTNVb056TFhobGQwOVdUUFJqTnZoalJ6cFdka1ZYVm9CWGJMeDBaV3hFT085RVcwQlhPdGhHYVAxbU5JNTJLbEpXZGtObVdGbDNWczlDVG5sRFNKRm5hWlJ6Tnd0a2RZbFhkSGRsU3dWalZvdGlSeE0zUldkMVNyTjNjdVpqZDA0R01uSkhWVlZsZFNwWGQza0hTeGczY1JKbVJSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="English Movie Channel", Colors Infinity
+http://?MUp6YlRsV1cyaG5lcHBtVEtGMWFCVkhiMjhFTnhCVk9XRlRSbnBYUlhkVWV5Sm5jQkpHVHZrRFYxTjNaNGwyTlNCWFlpWjNLT0prZXVabGRKcG5ONFpXUmpOblpPZG1TMU5YVE1wR2NQbG5TUEJ6SzM5VWJpVmpaTEpuVVJWRWJCaGtlTlpWVFQ5a013TkZhbHBrVFdoR1VWUlRjMkFGYUpSbmM0OEdXNjkwWURkbmE0ZzJZeVFWTkJaRWR0TkZOek1HUzZOalcxOTBMcmttYjVja1l6NFVidmxVTnBwbVkxaGphelFUWlRCWGJFOTBSaVZXYzJ4MmJobEVlMjFrZHhrVmMzNFdNeUZHZUdGVGF5RmtOUWhsVnUxV09UbERUbFpYUzAwV1pzSmthTUJ6VVJaVFJ2WkVaSlpGV0hoblRNeFdiVmxuYkxGalMzMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="English Movie Channel", Comedy Central
+http://?cEp6YlRsV1cyRm5lcHBtVEtGbGFCVkhiMjhFTndCVk9XRlRSbmhYUlhkVWV5SlhjQkpHVHZrRFYyTjNaNGwyTlNwWFlpWjNLT0owYXVabGRKcG5OdVpXUmpOblpPZG1TMU5YVENwbWJxaEdaM3hXVjBSVWRabDBZMWRHY1ZKa1pLVkRlekpYUjVoblZ3RkRUbXRHZFQ5Mkt0RkRTeUYyYzBrR1d2dG1TeGRsWmloV1l4cG5RNEpqVDJBelpvNTJSbmxYYXBCbmQ0WTBhMTFHYngxMkxveFdkUWxEUm9obVEyaEhlVXQyWmlWM1YwWWtRa1JtZUZSVVkxQUZWNDkyTmpsVVZLRjNMbmRtWTRwRmRrNWtWMGsyTXRkRmRwTmxRckJITjVKblJ3Y1diMFpXU1NGbmIzSjNUelpIWmxWbmNrdHlZWXhXZTA0bVMzMVRQ
+#EXTINF: -1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="English Movie Channel", Dubai One
+http://?dUp6YlRsV1cyaG5lcHBtVEtGVmNCVkhiMjhFTnZCVk9XRlRSbnBXUlhkVWV5SkhlQkpHVHZrRFZ2TjNaNGwyTlNsV1lpWjNLT0prYnVabGRKcG5OMFpXUmpOblpPRm5TMU5YVDNwa2RHaGplVWxVYTVOWE4xZG1US1YzVW9GalNHcEhlWVJVUkpKelpxdHlVcFZsVGxOSE9ybDFZRmxFY3RKa2U2UkVOcmhWTkRKVlRReEdkWGhWY0RkVWRrcFZkMzlXU3lWRlRLUkRjUmRHVVVwVVlZVkZhaEJUTW5SRFd5SnpZeWxWTjVrSFI1OW1lTUYwYmp0a001SkVlM2RXYkNWR1ZRbFhNM0pIVW5SV2IxRWtjVU5IWjBkVVQ2QnpTSFZIVTJZbWNZZFRkckYwYW1OVWN5QjNkb0p6SzI4R1dsSmtlemRHYWFaVmVuMVRQ
+#EXTINF: -1 tvg-logo="https://www.nicepng.com/png/detail/9-99565_fox-tv-logo-png.png" group-title="English Movie Channel", Fox
+http://?MUp6YlRsV1cycG5lcHBtVEtGRmNCVkhiMjhFTnpCVk9XRlRSbmRXUlhkVWV5SjNkQkpHVHZrRFZ3TjNaNGwyTlNWWFlpWjNLT0owY3VabGRKcG5OeVpXUmpOblpPTm5TMU5YVHBsbmUzSm5WNEowUzVCM1JGaG1UTFpYU1l0Q1c2ZG1ieVowYzBnblduVkVOMk4zYWpkR2NhOWtWclZrZXlWamNRWlRVcU5FZGxsME01a0dlVDVtYVNabGN3RkdTelJHVDFoMWNuMW1NaEpIYUhSMlZsRkZla04zY0VKbWU0aHpkS0JuYmlKblFScEhPMEZtYUpoVWFpeGtTdkZXWkxSRE1FTm5RckZXWlpkM2FraG1UcDFHZDBCMWIxdGlOb2htVWFkVVlJNUVjUXRHT1NGVVEwWkhiR05YYTRObmFtdFVTMVlUZFRORFVSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="English Movie Channel", Fox Life
+http://?bkp6YlRsV1cycG5lcHBtVEtGVmNCVkhiMjhFTm9CVk9XRlRSblZYUlhkVWV5SlhiQkpHVHZrRFZzTjNaNGwyTlNoWFlpWjNLT0prYXVabGRKcG5OMVpXUmpOblpPbG5TMU5YVEJWVWE0Z0ZUb3RDUzJka1lVUlhWSVpuWXdnMU1RWjNkMlVGVnhrV1lzUkdjd2QzUnRSblFMRkROTUJIY3h3MGIwcDNNb0ZsYzNVV1NsdDJZbnBHZU1OVWVtUlZXemhXZDB4bWRYUnphb2RuYnlsMWFPUlhhTUIzUzRCalp3SjFhTzUyUUpkbWMxUlhlbjFtYXBKVVRRSldOeFZIYkNSM012YzNMbVJVTkZWMmFMNUdTQ3RTVHRSRGRWUldZTHBIZVRGRE9IUjFhSVJtYTFaVVdxWm5iSkYwYzJ3bVQ0MW1Ub1YzYURCRE1SMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="English Movie Channel", FX
+http://?Mkp6YlRsV1cydG1lcHBtVEtGVmFCVkhiMjhFTnhCVk9XRlRSbkZYUlhkVWV5SkhkQkpHVHZrRFZwTjNaNGwyTlNKWFlpWjNLT0pVYXVabGRKcG5OdFpXUmpOblpPaG5TMU5YVDBNVGNrdFdNNUFYWTA5VVFuSkZTR1YzWndjMlFzaG1jNDEyTHdzeU0yTkdVNlJIU3lNM2NoaGtZdkVHYW1aR2FCRjBMdEZVVnZoamNIUm5lMjl5S0N0V2NOOVVlakpYZDVoMlIzUVRleWMyUnlBaldyTkVhbEpVUkNwa1lybDJaWlZUUzNoV1VVSlZTUk5WYmxoV1I0WWxlczVVVUp4VVd4TTNaMk0zUTNzR2F1bDNOeGhUVzE1MGJzTldhVWxuY0ZKRFdHOUNldmRsWUtCWFFvZFZSdkl6ZFI1V1c0RlhOM2wwWlFGMFNCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/4_fun_hits.png" group-title="English Movie Channel", Hits
+http://?c0p6YlRsV1cycG1lcHBtVEtGbGRCVkhiMjhFTjZCVk9XRlRSbnBXUlhkVWV5Sm5hQkpHVHZrRFZ0TjNaNGwyTlNWWFlpWjNLT0owYXVabGRKcG5ONFpXUmpOblpPcG5TMU5YVHJZbGR3ZDBkNDQwYzI5VVlCVmtOMFpYUjRNVFlpVjBheFJHT3FSbVo0aEVUYU5qUVZaSFVWTjNidkpuYXdvblczcEVXc1pEY3BkVGNYdDJaU0JWVUVoa2MzQkRVM0FsTjJ4MFpvUlhiekFIYTFSbWMycEhkNFp6YXJ4VVc2SmxVcmNGTU1kblltdENNMHNTYURGelY0SldhdFZETVp4VVk1OFdXRzFFT0R4V2RDMUdiQjFVVzF4bVZ2cFhUS0pYUXFsak1HaEVkSU5IVUdwV1F3QmxRMm8wVHpkWFJsNTBTdWRHY3NWbVozMVRQ
+#EXTINF: -1 tvg-logo="https://www.kindpng.com/picc/m/136-1363813_paramount-comedy-logo-comedy-central-hd-png-download.png" group-title="English Movie Channel", Paramount Comedy
+http://?b0p6YlRsV1cyZG5lcHBtVEtGRmJCVkhiMjhFTnpCVk9XRlRSbkpYUlhkVWV5SkhjQkpHVHZrRFZ5TjNaNGwyTlNOWFlpWjNLT0pFZXVabGRKcG5ONlpXUmpOblpPOW1TMU5YVHZ3RWNvQlhOVUYxS3JSMGFwRkdPejBXT3d3MmFqMUVkbGx6WXFWbU56eG1OeVFFZG9SWFNNQjFUM3NFZTRsSFNEZGticDlDZFZ0bVl2Sm5iVjFrU0pWR2V0TmxVcEptYXhkbWR0aFdlczEyS0c5R2E1VjNjM1pqV2lGMk1uOW1WYUZIU1BwV1NWbFRVMnRTYjNJalVvcDJac1psVVhwRlIwZ25ad1YzUVZOamR2bFVkazFVUXgxMGF4VXpSaXAyUzBnVVdPMVdheUpIUlRKVGJ4MTJWRWhGY1ZKSGQ1ZDJNMXdVZE5SRlRSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png" group-title="English Movie Channel", Star World
+http://?cEp6YlRsV1cyeG1lcHBtVEtGbGNCVkhiMjhFTjJCVk9XRlRSbmxXUlhkVWV5SlhjQkpHVHZrRFZ2TjNaNGwyTlMxV1lpWjNLT0pFZXVabGRKcG5OMFpXUmpOblpPUm5TMU5YVHVaMmMxbzNLMXBGZXBkWGJyRW5UVnBtYzA0a1l2RkZibXhXTk1ORE52NVdidGRHVTJFM1paaGtiWEZqYVZwVlVZMVVZcFprVXJRRWEwd1dXMTVrYnpkSGRZZFhOeFJsV3VaRVc1UkZiMlUzUTM4R1N2UURhM2tIVTJFVVkzTnpjMHcwWWFsV1dGZDJTcEpIZXcwVVRGdDBZeVIyWW5aWFEwZ0hSRTUwUnJSamJWVm5RR1pYYXpKbGV3Z0haU2wzZHYwa2N5Y1ZkV0pUZUhGV014UkVkdlozTjVWM1ExQURlVEZsYVRsVlpCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="English Movie Channel", SyFy
+http://?ckp6YlRsV1cyWm5lcHBtVEtGMWJCVkhiMjhFTjZCVk9XRlRSbmRXUlhkVWV5Sm5lQkpHVHZrRFY0TjNaNGwyTlNwV1lpWjNLT0pFZHVabGRKcG5OMVpXUmpOblpPNW1TMU5YVFF0a2J1TmpZeDBVTzFabGNQRldUeGdXTVVCalI0Vm1lcUpXZGpCM2F2TjFSTGwxY1FWM1RRZG5jNlYwWjFnRmJQOWljMGgwY205U096MVdXeVFIV3dVR2EyazJMRk5EU25sellsSlRSNWduY1kxMlVVVjBaSVZFWnpWM052ZFVhS1pIZFV4V1ZCTjNTM3gyWldoV1kyMDJWNlpIY09wVlRCMVdac1IwVXpkRmI0a0RkMGdHYm5oMmJNTkhkeHBYUXlVa1RNMUdhNFV6ZG1CVFU2ZEhOTFpXY09ObldXZEhNUDVXZWhwRVVSMVRQ
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Thrill_logo.jpg/revision/latest?cb=20140607175204" group-title="English Movie Channel", Thrill
+http://?Mkp6YlRsV1cydG1lcHBtVEtGRmVCVkhiMjhFTjNCVk9XRlRSbmRXUlhkVWV5SkhkQkpHVHZrRFYxTjNaNGwyTlM1V1lpWjNLT0owYXVabGRKcG5OdVpXUmpOblpPMW1TMU5YVE1SbmRsNTBjeThXYzFWMFRTZHpTMGQzVkJkVWQ0UmtiVFpqYm9SblQ1RjFaMVVEZDMwV1VudDJWdmczWkhGRFRYMUVVd0puUTF0aVQzSkhSUFJUTXl4bWNKVmpNWlZrYXdwVmQwUVZidGxuUVZKa1pvZEhkdDUwYTJnbVMyNUVaRnAwVnQ5MlFyb0VWRFZXZTFzR2FIaERSelpsZDVvbFJVWlhlSFJWU09sV2JPRlZUNjl5UTJGbGFPbFhjM0UzY3JsRk42ZFdhYWhFZURCemJxcDJiemtXT1BwR096VTBRR2hHYlpKbWJSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png" group-title="English Movie Channel", Warner
+http://?b0p6YlRsV1cycG5lcHBtVEtGbGVCVkhiMjhFTjRCVk9XRlRSbmhXUlhkVWV5SkhiQkpHVHZrRFYzTjNaNGwyTlNOWFlpWjNLT0owWnVabGRKcG5OeVpXUmpOblpPcG1TMU5YVDBSbmNyNEdacE5ITzZkMVFqaFZWaVJuUTBkVFFZZEZhb1ZUYU54MmM0TkdlYWwyUlhGM1JJbERUb2R6Y1Raa1R1bHpScVpYVEdwM1V4aDNkRkYzUUxkbWUyMEdjdFJYWW8xVVNWOVdadmxuVHdFSE54WjJiVFJqVkhoekx2SmxNQ1JWZUJobmRFQjFiRU4wWlhOMGM1bFdWdlJHU3hJa2NYRjNjT3RrVUdaRGEyNUVNUzVtVDBSVE1xSldPTjUyVDBvVWFyUlRjc1prY3JZV1R1WkVaa1YzTTFFWE11aGxOQ0Z6YkdWak1SMVRQ
+#EXTINF: -1 tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" group-title="English Movie Channel", Zee Cafe
+http://?dEp6YlRsV1cydG1lcHBtVEtGMWFCVkhiMjhFTm5CVk9XRlRSbnRXUlhkVWV5SkhlQkpHVHZrRFZ0TjNaNGwyTlNkWFlpWjNLT0prYnVabGRKcG5ONlpXUmpOblpPRm5TMU5YVDRRSGVwZERiTlpuYXFGblZLWm5lNHdXYXlObFFqTjFkQlZXTlVwMGJzRldOd2NUT0tKWFdQcFhRQ1JrYzVRbFRtSlRPb1ZXUlR4MksxNEdTVDVHTjFFVWQ0Y0ZWelZqZXlOVlYxRjNjelZIZUtOemRNbGpkdlp6Y0hWRFR5eEVPUVJtUnZCbk1WQmxSamgxYWpaMFozZG5NcTlpYXhJbVpWTkhPRFpGVm9OMWQ0VjFTdmdVUXgxVVRhOVNlelJuUjVBRk9qTkhhR0JGVTR3RWM0VmpNc3htV0RwM1F3SjJLUVYwYXJSVVIzMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" group-title="International News Channel", ABC News
+http://?dUp6YlRsV1cyZG5lcHBtVEtGMWFCVkhiMjhFTnBCVk9XRlRSbk5YUlhkVWV5Sm5kQkpHVHZrRFZ3TjNaNGwyTlNwWFlpWjNLT0prYnVabGRKcG5Od1pXUmpOblpPZG1TMU5YVEhkVGFWOUVjVVoyVTFGWE1HaDNiT0ozVlpablphaG5ldzBrVHhNVVluRlZkRGRuWmFkbk5LZG5Vek5qZEJGa1RKTjJiMVJFVnJsa2NvaEhVM28wTVFoamJtWlZlQkJETTNaRGRMSlZjMEZYZUlOVVc1MG1iVDUwTVFoMU5vQmxleEoyUXdrbWM0RW5lWUYzZE5wR1Z5UkhjblJ6TDV4R1RWMVdXNVJ6WTY5R2JFMTBOdmsxUnNaRWJFUmpkTjFXUnhWelpXWlRhM1JVWWpkV2RzdFNPNWMyVUpkM1RHTmpZaUYxYjRWMUszMVRQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="International News Channel", Al Jazeera
+http://?d0p6YlRsV1cyWm5lcHBtVEtGbGVCVkhiMjhFTnBCVk9XRlRSbk5YUlhkVWV5SlhkQkpHVHZrRFZ4TjNaNGwyTlNCWFlpWjNLT0prYnVabGRKcG5OblpXUmpOblpPOW1TMU5YVE9GRWJKSjJRWlpuTm5WM05TOW1SbHBXYUZOV2FwZFRkeU1qVFFORVc2cDJTdHBsUmk1bWFKRm1Zc3AxYXU5Q2J0UmxXdk56U1NORlJhaFdScWQwSzNremNGVkhab2hFTW5GRE42ZFhWWE4zTERoWFN2RkZhQlJtYnlnR09wOUdSTVJUTmlSM1l5OVVPbnRDYWFoV1lYbDJUemxVVEpGa1ZyY0hUMDhHVkh0V2EwVldlRDVXY3B4RVpsOWlOYWQzVDZsMUt0MVVjeWQxTWl4bVV2WlhVdEowTXBsbVJvTjJTR0ZuYXBoVlczMVRQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="International News Channel", BBC News
+http://?d0p6YlRsV1cybG1lcHBtVEtGMWRCVkhiMjhFTnVCVk9XRlRSblJYUlhkVWV5SlhkQkpHVHZrRFZ3TjNaNGwyTlNGWFlpWjNLT0prZHVabGRKcG5OMFpXUmpOblpPMW1TMU5YVFFORmVEUkhVcmtuZHcxV1QyZFViamgzYXpBemRtQnpka3BGYTNGWGRyTlRaSVJITVNWblEyMTBVMmswZHJWRGFya1ZhcVZuWUZwbk15aFdVRmxWT3pSRGJqTkhSRkpuVjNaM2J2cDBiUWRITlBKbGV3Tm5lWlZFWjVBM016dGlRSkpuVERwblZ6Wm1hMWdsY1JWSFZGaDJkckpYVURkRU94aEdPMFFsWjI5bWQ0QjFicklYT3dWSGNKVmxVRTVXZWhaVFFUVjFhck1WZWhSWFZ3ZEVPWDVFTXlRM0tHdFdOYVZYZWFORU1CMVRQ
+#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/198-1985267_bbc-two-square-less-logo-bbc-2-logo.png" group-title="International News Channel", BBC Two
+http://?c0p6YlRsV1cyUm5lcHBtVEtGMWNCVkhiMjhFTjBCVk9XRlRSbmRXUlhkVWV5SjNhQkpHVHZrRFZ1TjNaNGwyTlNOWFlpWjNLT0pFYXVabGRKcG5OeFpXUmpOblpPZG1TMU5YVEdkbGN5ODJTejRFUzJkM1RXaFhVcmRtTlVKa1J2UW1ld2hWZTZOWFJwbHpkUGhWWkpwWFd2Y2pNM1luZXlKbFc0eDJMM1JXZEdWMUtwUm5OajVHYjI0R2NWeFVkMThtVXZKMFpTUm1aaFZuVm5CVGV2MTJjMDFFVVpSSE0xTlVOeDlrU2w5V1NsaG1lNWgxYXhWR2NrRjNZNUowWTM4U2F4bFhlenN5YURobGVpUkhPS0Z6YnFSME1DWnpUd2RtVlNwbVMzbFdhckVIYnlNbVU0UmtXUnRTWlNGM1N6VmtWU04zWnRCblZCMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="International News Channel", CGTN
+http://?M0p6YlRsV1cyaG1lcHBtVEtGMWRCVkhiMjhFTnlCVk9XRlRSbkZYUlhkVWV5SkhlQkpHVHZrRFZ5TjNaNGwyTlNsWFlpWjNLT0owYnVabGRKcG5OcFpXUmpOblpPNW1TMU5YVFhoV2FSWldOemcyUjFWbWRqQlZheTRXU09wSGI0WkRkSmREVjBRVld1ZFZZTXBWU09CM1FYdG1VbGRtYXhFbWJCdFVaNkZ6TTBRalRCZDJZUnhHY3hOM1p3UjJiYXBHTXFWVVFNRjJZUGhtUXlkMU5HTmtkeG9FYXpSbFduVkdhMFFVUTVjbWVGQnpLUFJrZHc0VWRreGtTc2hEY29kM0thUkhVSkIzWTJaSGQ0Wm1XdXgwUnlkV1NuRkVhd1luVHFwSE13VUhjNElYYWhaa1l1WkdUYXRHTlpWSFN6QkRNV05qZHZrelRSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" group-title="International News Channel", CNBC
+http://?MEp6YlRsV1cybG1lcHBtVEtGMWNCVkhiMjhFTjNCVk9XRlRSbkpYUlhkVWV5Sm5hQkpHVHZrRFYxTjNaNGwyTlNSWFlpWjNLT0owWnVabGRKcG5OelpXUmpOblpPZG5TMU5YVDBkRWFaSmtNM29rYzRWM015VTJNdlUzWTNVRmVGcDFhSE5YZHdBalZ4OUdTSFZtWko5R1dVdG1aUFpFYXdZbld2ZFdVeEprWnhWelQyTkhaTkoxY1daa2F0RjFSaFpYTXlwM012VmxjcjFXUUwxa1Z5Z25lazUwS3JwblVvTjFiVE5UYW54R1o2cGxiREoxYzV0RVdRcEhUeWx6ZGpwV1FJaFdiWEJUZWlwR2JyTTFSMElVTm90Q1ZpbHpSclZITkN0eWRDMUdhNVZYTXpOSGN6bEdVRXhrTTJWbk0wTjJhNGtXY0pOM1UzMVRQ
+#EXTINF: -1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-1-logo-png-transparent.png" group-title="International News Channel", CNN
+http://?cEp6YlRsV1cyWm5lcHBtVEtGbGJCVkhiMjhFTjZCVk9XRlRSbmxYUlhkVWV5Sm5hQkpHVHZrRFZ3TjNaNGwyTlNCWFlpWjNLT0owYnVabGRKcG5OblpXUmpOblpPOW1TMU5YVHlkMWFRSnpZVVJHVHpoblcyeDJZelYzYUtKaldVRkZhNFJFVEU1VWQ2UmpORmh6YTRrMlZQTlRXblJEY2tSWFdxVldNd1ZYUnBwVWQ0Z1dlaVJEYWpGVGVDZDNMNVJWU3dWVFl4UUdNRHRXT2pWa05XTlVkcTEyVlZSR1J0eDJhWjUwWXBoSFdWUjJUb3AwZHJOblZ6b0VOcDl5WnFsMGJwRjNZRU5XVFJSRWR1dGthc04xY3VGek1XSm5hNmQyVWhKV1J2eDBiVHBsWnpabFJ5eG1jRWxUZFE1R1Yya21iVDEyWmtaMGIzMVRQ
+#EXTINF: -1 tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/09/euronews-vector-logo.png" group-title="International News Channel", Euronews
+http://?NUp6YlRsV1cyMW1lcHBtVEtGRmRCVkhiMjhFTnVCVk9XRlRSblZYUlhkVWV5Sm5lQkpHVHZrRFZwTjNaNGwyTlNoWFlpWjNLT0pFZXVabGRKcG5OMlpXUmpOblpPaG1TMU5YVDVnbWRYMVdRVUprYndWM2RubERUaDEyYUdabGJZWmxkeE0xYzJKMVY0ZEdXdlJuVU9KM1FVbDNicm9sZG41MFJNSkZOb04xUmx0VU80OUdUU1pVUlFGVWN3d2tUNVFFZHBsRVYwOEdTWVJYVm1Gek5vbGplSlJGTUtwSE5vTkRNWUYzWUxabld4TWtkMVZsYzRCbmQzMTBUdUYzZHVOSGJJZG5iUTVXYWFaV2N0Qm5SanBXYm9wV1IyTldlUXhtZFhGR05YdFdhcEpsUnJaRWQxcDNVNkZUWUxSM1prZEhTUVZEYktka2RSMVRQ
+#EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png" group-title="International News Channel", Fox Sports News
+http://?NUp6YlRsV1cybG5lcHBtVEtGRmVCVkhiMjhFTnFCVk9XRlRSbjVXUlhkVWV5SkhkQkpHVHZrRFY1TjNaNGwyTlNSWFlpWjNLT0pVYXVabGRKcG5OMVpXUmpOblpPTm5TMU5YVENORGVEWlhUMVZqU25SSFpaZEdPMGMzWks1MlZ1VjNiUTlVY1RkamJwQkhjQnBsZUlWblYzOTBNQk5HZUtOMks0bFVjNWxUZVRWMVIxRVhjMThDT0ZkM2JPTkVPTXRpWng5VU4ySjJabnRXVnFSelJzeFVhb2RsUTNSMkx6SkhTTFZEUkQ5bVFTZEVVaWgyYTJSV2RNaDBNc0pEYjJ3MFRTTm5TU3BrYjZCM1pacG5WMUZrZTROVGRWVm1NQ3hHT3pGM2RReGtlT3hVT2g5U1U2SlVSQ0YyYWFKM1pxOW1TM1oyYzVNMFMzMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/250px-NDTV_247.svg.png" group-title="International News Channel", NDTV
+http://?Nkp6YlRsV1cycG1lcHBtVEtGRmNCVkhiMjhFTnRCVk9XRlRSbmhXUlhkVWV5Sm5jQkpHVHZrRFZzTjNaNGwyTlNsV1lpWjNLT0pVZHVabGRKcG5Oc1pXUmpOblpPOW1TMU5YVEJSelp4SkdTbVZWWnB0aWR0TjFVRXhtU1JGVVYxVWpjUGhYTzFnbGEzZFVWblZrWXNObmFHcGxVbVpGY3VwVlF2SW1SeGgxS3dkblJDZFdXeGdsUVNCRmEwQlZNWHBYYnY5Q1dxZG1WRnAzVFdsMVNWQm5iejgwUjFSRlR0VldZa0JEVXdzV2RvVkdjMFYwWnlJelUzZ1RjNWREVUZ0MlNHOUdiWUpqWUg5MmQ1NDBjRmhWVHdOMlNXUkVXU2xtWjJBRGJqSldkMU0wVlVaVFZ1aGphbk4xUUYxMmFQSkhNYUpuYkJOSFJSMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="International News Channel", NHKWorld Japan
+http://?c0p6YlRsV1cyQm5lcHBtVEtGVmVCVkhiMjhFTnRCVk9XRlRSbmxYUlhkVWV5Sm5lQkpHVHZrRFZ0TjNaNGwyTlM5V1lpWjNLT0owY3VabGRKcG5OMlpXUmpOblpPRm5TMU5YVHpObGNqbERkWE5FVjBOV1MzSmtiMjFXY2hoalQyNTJabnBGU1NwblZwSmpSdkFET3FSM2M1WTNieTl5ZHB0a1VqdFdkeDVXUXZJR1JRRm5lcWwxZGlOR2N6cG1NblZuYjZGR2JPTkVjQ0ozYUlGR1V5MUdiU1JFTkdoVVlyZFZiV1ZGV0xObmQxY1hNTFJsZUZWRFoxSW1NNlZFVkR0MlZpSkhkT2RYWlpwMFp0TlZkc0ZHUjRGWE5UVlROd01uU3VwVWFVTjJaa0prTVVoVFFwWkhla2hUVG5aSGJCaDFhTXBVYnFsbFNuMVRQ
+#EXTINF: -1 tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="International News Channel", Skynews
+http://?ckp6YlRsV1cyZG1lcHBtVEtGMWFCVkhiMjhFTjZCVk9XRlRSbjVXUlhkVWV5SlhhQkpHVHZrRFYxTjNaNGwyTlN4V1lpWjNLT0pVZHVabGRKcG5OelpXUmpOblpPbG5TMU5YVEU1MFo0Z2xka1YzS3ZablpCQmpRMnhtUklKMUt4VVVkcVIyS3JORE1zVmtleEpUV3R0R01uSkhkRWwxY2hWVlEySm5TdmRVT0NCRGJMMW1TWEZYT2hobWR2QTNkanBXVXkxVWNNQlZjbkIzZHg4V1loTkZldFpqYlJkRVM0OWlZclFtVno0MmNyRkRUMFVsZVQxbVNPRkdicVoyYVl4RVRxZFdaSEJUVXNoWGRveGtWd0ltVnhKV2FIOTBhWFIzSzNsRmE0UXpjdGxUZWtsSE9vSlRiSFJVVk8xMlEyRkhOdmNIYTJrelozMVRQ
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/VOA_logo1.png" group-title="International News Channel", Voice of America
+http://?d0p6YlRsV1cybG5lcHBtVEtGbGRCVkhiMjhFTm9CVk9XRlRSbmhXUlhkVWV5SkhlQkpHVHZrRFZ0TjNaNGwyTlNsWFlpWjNLT0pFYnVabGRKcG5OeVpXUmpOblpPRm5TMU5YVDJjWGNVeFVSVmxXVG9aMGE1UkVacjVHVzJjbk54ZEhiWVJ6WkdGVlR3WlZlTWhqUU50R05FOWlSU3RVZWtoR2ROSmxWeVpUWndZV040aFdhMU0yS0twMlp3RWpXMkZsUzFaM0x6bzFTdjUyY2FKRGFNSmpibWQxWXJKM2J5OTJkeHdVUzI1bVphSkhhUGxuZUlSemRMaFRNMVJsZTJGVmNIbEhSd016YUJkRGExRm5WMWtuUzFwMmRGWlZkem9tUzFnamV1QkZjcXR5WllsM1ZuWm5ld0ZqZXljWE1CcEdhSVZtYlJselNuMVRQ
